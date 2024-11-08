@@ -1,0 +1,1188 @@
+Given Address,House Number,Street,City,State,ZIP Code,Full Address,Exact Match
+2525 SW 30TH ST OK,2525,Southwest 30th Street,Oklahoma City,Oklahoma,73119,"2525 Southwest 30th Street Oklahoma City, Oklahoma 73119",True
+2837 SW 54TH PL OK,2837,Southwest 54th Place,Oklahoma City,Oklahoma,73119,"2837 Southwest 54th Place Oklahoma City, Oklahoma 73119",True
+3125 NW 24TH ST OK,3125,Northwest 24th Street,Oklahoma City,Oklahoma,73107,"3125 Northwest 24th Street Oklahoma City, Oklahoma 73107",True
+3128 NW 33RD ST OK,3128,Northwest 33rd Street,Oklahoma City,Oklahoma,73112,"3128 Northwest 33rd Street Oklahoma City, Oklahoma 73112",True
+337 NW 79TH ST OK,337,Northwest 79th Street,Oklahoma City,Oklahoma,73114,"337 Northwest 79th Street Oklahoma City, Oklahoma 73114",True
+112 NW 27TH ST OK,300,Northwest 27th Street,Moore,Oklahoma,73160,"300 Northwest 27th Street Moore, Oklahoma 73160",False
+1121 SW 41ST ST OK,1121,Southwest 41st Street,Oklahoma City,Oklahoma,73109,"1121 Southwest 41st Street Oklahoma City, Oklahoma 73109",True
+1220 NW 33RD ST OK,1220,Northwest 33rd Street,Oklahoma City,Oklahoma,73118,"1220 Northwest 33rd Street Oklahoma City, Oklahoma 73118",True
+1438 NW 1ST ST OK,1438,Northwest 1st Street,Oklahoma City,Oklahoma,73106,"1438 Northwest 1st Street Oklahoma City, Oklahoma 73106",True
+1616 NE 14TH ST OK,1616,Northeast 14th Street,Oklahoma City,Oklahoma,73117,"1616 Northeast 14th Street Oklahoma City, Oklahoma 73117",True
+2520 NW 15TH ST OK,2520,Northwest 15th Street,Lawton,Oklahoma,73507,"2520 Northwest 15th Street Lawton, Oklahoma 73507",True
+440 NW 110TH ST OK,11098,Millbrook Lane,Oklahoma City,Oklahoma,73162,"11098 Millbrook Lane Oklahoma City, Oklahoma 73162",False
+2545 CASHION PL OK,2545,Cashion Place,Oklahoma City,Oklahoma,73112,"2545 Cashion Place Oklahoma City, Oklahoma 73112",True
+2601 N MCMILLAN AVE OK,2601,North McMillan Avenue,Oklahoma City,Oklahoma,73008,"2601 North McMillan Avenue Oklahoma City, Oklahoma 73008",True
+2728 NE SUCCESS ST OK,2728,Northeast Success Street,Oklahoma City,Oklahoma,73111,"2728 Northeast Success Street Oklahoma City, Oklahoma 73111",True
+1101 LOMBARDY RD OK,1101,Lombardy Road,Oklahoma City,Oklahoma,73118,"1101 Lombardy Road Oklahoma City, Oklahoma 73118",True
+1104 NE 50TH ST OK,1104,Northeast 50th Street,Oklahoma City,Oklahoma,73111,"1104 Northeast 50th Street Oklahoma City, Oklahoma 73111",True
+1160 NW 89TH ST OK,1160,Northwest 89th Street,Oklahoma City,Oklahoma,73114,"1160 Northwest 89th Street Oklahoma City, Oklahoma 73114",True
+1501 NW 179TH ST OK,1501,Northwest 179th Street,Oklahoma City,Oklahoma,73012,"1501 Northwest 179th Street Oklahoma City, Oklahoma 73012",True
+1501 NW 179TH TER OK,1501,Northwest 179th Terrace,Oklahoma City,Oklahoma,73012,"1501 Northwest 179th Terrace Oklahoma City, Oklahoma 73012",True
+1513 NW 20TH ST OK,1513,Northwest 20th Street,Lawton,Oklahoma,73507,"1513 Northwest 20th Street Lawton, Oklahoma 73507",True
+2109 SW 28TH ST OK,2109,Southwest 28th Street,Oklahoma City,Oklahoma,73108,"2109 Southwest 28th Street Oklahoma City, Oklahoma 73108",True
+2351 W SHERIDAN AVE OK,2351,West Sheridan Avenue,Oklahoma City,Oklahoma,73107,"2351 West Sheridan Avenue Oklahoma City, Oklahoma 73107",True
+2412 W SHERIDAN AVE OK,2412,West Sheridan Avenue,Oklahoma City,Oklahoma,73107,"2412 West Sheridan Avenue Oklahoma City, Oklahoma 73107",True
+2421 NW 113TH PL OK,2421,Northwest 113th Place,Oklahoma City,Oklahoma,73120,"2421 Northwest 113th Place Oklahoma City, Oklahoma 73120",True
+724 SW 56TH ST OK,724,Southwest 56th Street,Oklahoma City,Oklahoma,73109,"724 Southwest 56th Street Oklahoma City, Oklahoma 73109",True
+813 NE 35TH ST OK,813,Northeast 35th Street,Oklahoma City,Oklahoma,73105,"813 Northeast 35th Street Oklahoma City, Oklahoma 73105",True
+118 SE 27TH ST OK,118,Southeast 27th Street,El Reno,Oklahoma,73036,"118 Southeast 27th Street El Reno, Oklahoma 73036",True
+313 SE 28TH ST OK,313,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"313 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+3205 S META AVE OK,3205,South Meta Avenue,Oklahoma City,Oklahoma,73119,"3205 South Meta Avenue Oklahoma City, Oklahoma 73119",True
+5008 NW 29TH ST OK,5008,Northwest 29th Street,Oklahoma City,Oklahoma,73127,"5008 Northwest 29th Street Oklahoma City, Oklahoma 73127",True
+724 SE 26TH ST OK,724,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"724 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+820 OAKDALE DR OK,820,Oakdale Drive,Oklahoma City,Oklahoma,73127,"820 Oakdale Drive Oklahoma City, Oklahoma 73127",True
+101 NW 21ST ST OK,2098,Price Boulevard,Guymon,Oklahoma,73942,"2098 Price Boulevard Guymon, Oklahoma 73942",False
+3404 PARKVIEW AVE OK,3404,South Parkview Avenue,Oklahoma City,Oklahoma,73119,"3404 South Parkview Avenue Oklahoma City, Oklahoma 73119",True
+404 SW GRAND BLVD OK,404,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73109,"404 Southwest Grand Boulevard Oklahoma City, Oklahoma 73109",True
+5716 EVANBROOK TER OK,5716,Evanbrook Terrace,Oklahoma City,Oklahoma,73135,"5716 Evanbrook Terrace Oklahoma City, Oklahoma 73135",True
+700 FLAMINGO AVE OK,7699,Northwest 6th Street,Oklahoma City,Oklahoma,73127,"7699 Northwest 6th Street Oklahoma City, Oklahoma 73127",False
+1515 NW 32ND ST OK,House number not found,Northwest 32nd Street,City not found,Oklahoma,73065,"House number not found Northwest 32nd Street City not found, Oklahoma 73065",False
+2640 SW 43RD ST OK,2640,Southwest 43rd Street,Lawton,Oklahoma,73505,"2640 Southwest 43rd Street Lawton, Oklahoma 73505",True
+5229 S SUNNYLANE RD OK,5229,South Sunnylane Road,Oklahoma City,Oklahoma,73135,"5229 South Sunnylane Road Oklahoma City, Oklahoma 73135",True
+101 NW 19TH ST OK,1899,Northwest Arlington Avenue,Lawton,Oklahoma,73507,"1899 Northwest Arlington Avenue Lawton, Oklahoma 73507",False
+1000 CLOVER LN OK,1000,Clover Lane,Oklahoma City,Oklahoma,73131,"1000 Clover Lane Oklahoma City, Oklahoma 73131",True
+1000 NE 58TH ST OK,1000,Northeast 58th Street,Oklahoma City,Oklahoma,73111,"1000 Northeast 58th Street Oklahoma City, Oklahoma 73111",True
+1000 SW 127TH PL OK,1000,Southwest 127th Place,Oklahoma City,Oklahoma,73170,"1000 Southwest 127th Place Oklahoma City, Oklahoma 73170",True
+10001 N MCKINLEY AVE OK,10001,North McKinley Avenue,Oklahoma City,Oklahoma,73114,"10001 North McKinley Avenue Oklahoma City, Oklahoma 73114",True
+1001 NE 58TH ST OK,1001,Northeast 58th Street,Oklahoma City,Oklahoma,73111,"1001 Northeast 58th Street Oklahoma City, Oklahoma 73111",True
+1002 CLOVER LN OK,1002,Clover Lane,Oklahoma City,Oklahoma,73131,"1002 Clover Lane Oklahoma City, Oklahoma 73131",True
+10028 S WINSTON WAY OK,10028,South Winston Way,Oklahoma City,Oklahoma,73159,"10028 South Winston Way Oklahoma City, Oklahoma 73159",True
+1003 SHAMROCK RD OK,1003,Shamrock Road,Oklahoma City,Oklahoma,73131,"1003 Shamrock Road Oklahoma City, Oklahoma 73131",True
+10032 S WINSTON WAY OK,10032,South Winston Way,Oklahoma City,Oklahoma,73159,"10032 South Winston Way Oklahoma City, Oklahoma 73159",True
+10036 SOUTHRIDGE TER OK,10036,Southridge Terrace,Oklahoma City,Oklahoma,73159,"10036 Southridge Terrace Oklahoma City, Oklahoma 73159",True
+1004 CLOVER LN OK,1004,Clover Lane,Oklahoma City,Oklahoma,73131,"1004 Clover Lane Oklahoma City, Oklahoma 73131",True
+1004 SW 156TH ST OK,1004,Southwest 156th Street,Oklahoma City,Oklahoma,73170,"1004 Southwest 156th Street Oklahoma City, Oklahoma 73170",True
+1005 PRUITT DR OK,1005,Pruitt Drive,Oklahoma City,Oklahoma,73170,"1005 Pruitt Drive Oklahoma City, Oklahoma 73170",True
+3000 NW 18TH ST OK,3000,Northwest 18th Street,Oklahoma City,Oklahoma,73107,"3000 Northwest 18th Street Oklahoma City, Oklahoma 73107",True
+3101 NW 20TH ST OK,3101,Northwest 20th Street,Oklahoma City,Oklahoma,73107,"3101 Northwest 20th Street Oklahoma City, Oklahoma 73107",True
+3116 SW 107TH TER OK,3116,Southwest 107th Terrace,Oklahoma City,Oklahoma,73170,"3116 Southwest 107th Terrace Oklahoma City, Oklahoma 73170",True
+3728 NW 34TH ST OK,3728,Northwest 34th Street,Oklahoma City,Oklahoma,73112,"3728 Northwest 34th Street Oklahoma City, Oklahoma 73112",True
+401 NW 34TH ST OK,401,Northwest 34th Street,Oklahoma City,Oklahoma,73118,"401 Northwest 34th Street Oklahoma City, Oklahoma 73118",True
+401 NW 82ND ST OK,House number not found,Northwest 82nd Street,Lawton,Oklahoma,73505,"House number not found Northwest 82nd Street Lawton, Oklahoma 73505",False
+4844 S BYPASS TER OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+5010 N KELLEY AVE OK,5010,North Kelley Avenue,Oklahoma City,Oklahoma,73111,"5010 North Kelley Avenue Oklahoma City, Oklahoma 73111",True
+5020 OVERBROOK RD OK,5020,Overbrook Road,Oklahoma City,Oklahoma,73084,"5020 Overbrook Road Oklahoma City, Oklahoma 73084",True
+529 NW 25TH ST OK,529,Northwest 25th Street,Lawton,Oklahoma,73505,"529 Northwest 25th Street Lawton, Oklahoma 73505",True
+5320 BROOKDALE DR OK,5304,Brookdale Drive,Oklahoma City,Oklahoma,73135,"5304 Brookdale Drive Oklahoma City, Oklahoma 73135",False
+5325 BRIARWOOD DR OK,5325,South Briarwood Drive,Oklahoma City,Oklahoma,73135,"5325 South Briarwood Drive Oklahoma City, Oklahoma 73135",True
+6309 CHRISTON CT OK,6309,Christon Court,Oklahoma City,Oklahoma,73118,"6309 Christon Court Oklahoma City, Oklahoma 73118",True
+1129 SW 40TH ST OK,1129,Southwest 40th Street,Oklahoma City,Oklahoma,73109,"1129 Southwest 40th Street Oklahoma City, Oklahoma 73109",True
+1130 NE 15TH ST OK,1130,Northeast 15th Street,Oklahoma City,Oklahoma,73117,"1130 Northeast 15th Street Oklahoma City, Oklahoma 73117",True
+1132 SW 37TH ST OK,1132,Southwest 37th Street,Oklahoma City,Oklahoma,73109,"1132 Southwest 37th Street Oklahoma City, Oklahoma 73109",True
+1133 SW 28TH ST OK,1133,Southwest 28th Street,Oklahoma City,Oklahoma,73109,"1133 Southwest 28th Street Oklahoma City, Oklahoma 73109",True
+1045 SW 51ST ST OK,1045,Southwest 51st Street,Oklahoma City,Oklahoma,73109,"1045 Southwest 51st Street Oklahoma City, Oklahoma 73109",True
+105 NW 20TH ST OK,House number not found,North Broadway Avenue,Oklahoma City,Oklahoma,73103,"House number not found North Broadway Avenue Oklahoma City, Oklahoma 73103",False
+10500 S CEMETERY RD OK,10500,South Cemetery Road,Oklahoma City,Oklahoma,73064,"10500 South Cemetery Road Oklahoma City, Oklahoma 73064",True
+10513 NW 42ND CIR OK,2697,Northwest 42nd Circle,Oklahoma City,Oklahoma,73112,"2697 Northwest 42nd Circle Oklahoma City, Oklahoma 73112",False
+10605 S WINSTON WAY OK,10605,South Winston Way Street,Oklahoma City,Oklahoma,73170,"10605 South Winston Way Street Oklahoma City, Oklahoma 73170",True
+10805 WHITE OAK CANYON RD OK,10805,White Oak Canyon Road,Oklahoma City,Oklahoma,73162,"10805 White Oak Canyon Road Oklahoma City, Oklahoma 73162",True
+10900 GREYSTONE AVE OK,10900,Greystone Avenue,Oklahoma City,Oklahoma,73120,"10900 Greystone Avenue Oklahoma City, Oklahoma 73120",True
+10900 N BLACKWELDER AVE OK,10900,North Blackwelder Avenue,Oklahoma City,Oklahoma,73120,"10900 North Blackwelder Avenue Oklahoma City, Oklahoma 73120",True
+1101 SW 126TH ST OK,1101,Southwest 126th Street,Oklahoma City,Oklahoma,73170,"1101 Southwest 126th Street Oklahoma City, Oklahoma 73170",True
+1104 NE 19TH ST OK,1104,Northeast 19th Street,Moore,Oklahoma,73160,"1104 Northeast 19th Street Moore, Oklahoma 73160",True
+1111 N ANITA AVE OK,1111,North Anita Avenue,Oklahoma City,Oklahoma,73127,"1111 North Anita Avenue Oklahoma City, Oklahoma 73127",True
+1112 NE 19TH ST OK,1112,Northeast 19th Street,Moore,Oklahoma,73160,"1112 Northeast 19th Street Moore, Oklahoma 73160",True
+112 ALLENHURST AVE OK,112,Allenhurst Avenue,Oklahoma City,Oklahoma,73114,"112 Allenhurst Avenue Oklahoma City, Oklahoma 73114",True
+112 NW 28TH ST OK,112,Northwest 28th Street,Oklahoma City,Oklahoma,73103,"112 Northwest 28th Street Oklahoma City, Oklahoma 73103",True
+112 SE 57TH ST OK,112,Southeast 57th Street,Oklahoma City,Oklahoma,73129,"112 Southeast 57th Street Oklahoma City, Oklahoma 73129",True
+11217 N BLACKWELDER AVE OK,11217,North Blackwelder Avenue,Oklahoma City,Oklahoma,73120,"11217 North Blackwelder Avenue Oklahoma City, Oklahoma 73120",True
+1124 NE 19TH ST OK,1124,Northeast 19th Street,Moore,Oklahoma,73160,"1124 Northeast 19th Street Moore, Oklahoma 73160",True
+1005 SW 67TH ST OK,1005,Southwest 67th Street,Lawton,Oklahoma,73505,"1005 Southwest 67th Street Lawton, Oklahoma 73505",True
+10105 SOUTHRIDGE DR OK,10105,Southridge Drive,Oklahoma City,Oklahoma,73159,"10105 Southridge Drive Oklahoma City, Oklahoma 73159",True
+1012 NW 46TH ST OK,House number not found,Northwest 46th Street,Oklahoma City,Oklahoma,73118,"House number not found Northwest 46th Street Oklahoma City, Oklahoma 73118",False
+10149 SOUTHRIDGE TER OK,10149,Southridge Terrace,Oklahoma City,Oklahoma,73159,"10149 Southridge Terrace Oklahoma City, Oklahoma 73159",True
+1016 NE 27TH ST OK,1016,Northeast 27th Street,Moore,Oklahoma,73160,"1016 Northeast 27th Street Moore, Oklahoma 73160",True
+1017 NE 27TH ST OK,1017,Northeast 27th Street,Moore,Oklahoma,73160,"1017 Northeast 27th Street Moore, Oklahoma 73160",True
+10208 N UNIVERSITY AVE OK,10208,North University Avenue,Oklahoma City,Oklahoma,73114,"10208 North University Avenue Oklahoma City, Oklahoma 73114",True
+10208 S BLACKWELDER AVE OK,10208,South Blackwelder Avenue,Oklahoma City,Oklahoma,73139,"10208 South Blackwelder Avenue Oklahoma City, Oklahoma 73139",True
+10209 BAY CT OK,10209,Bay Court,Oklahoma City,Oklahoma,73159,"10209 Bay Court Oklahoma City, Oklahoma 73159",True
+10305 PLYMOUTH CT OK,10305,Plymouth Court,Oklahoma City,Oklahoma,73159,"10305 Plymouth Court Oklahoma City, Oklahoma 73159",True
+10313 PLYMOUTH CT OK,10313,Plymouth Court,Oklahoma City,Oklahoma,73159,"10313 Plymouth Court Oklahoma City, Oklahoma 73159",True
+10316 N UNIVERSITY AVE OK,10316,North University Avenue,Oklahoma City,Oklahoma,73114,"10316 North University Avenue Oklahoma City, Oklahoma 73114",True
+1033 SW 103RD ST OK,1033,Southwest 103rd Street,Oklahoma City,Oklahoma,73139,"1033 Southwest 103rd Street Oklahoma City, Oklahoma 73139",True
+10336 BIRKENHEAD RD OK,10336,Birkenhead Road,Oklahoma City,Oklahoma,73099,"10336 Birkenhead Road Oklahoma City, Oklahoma 73099",True
+1037 SW 128TH ST OK,1037,Southwest 128th Street,Oklahoma City,Oklahoma,73170,"1037 Southwest 128th Street Oklahoma City, Oklahoma 73170",True
+10405 BAYBERRY DR OK,10405,Bayberry Drive,Oklahoma City,Oklahoma,73162,"10405 Bayberry Drive Oklahoma City, Oklahoma 73162",True
+1045 SW 27TH ST OK,1045,Southwest 27th Street,El Reno,Oklahoma,73036,"1045 Southwest 27th Street El Reno, Oklahoma 73036",True
+221 SW 23RD ST OK,221,Southwest 23rd Street,El Reno,Oklahoma,73036,"221 Southwest 23rd Street El Reno, Oklahoma 73036",True
+1224 NW 99TH ST OK,1224,Northwest 99th Street,Oklahoma City,Oklahoma,73114,"1224 Northwest 99th Street Oklahoma City, Oklahoma 73114",True
+1224 SW 23RD ST OK,1224,Southwest 23rd Street,Wagoner,Oklahoma,74467,"1224 Southwest 23rd Street Wagoner, Oklahoma 74467",True
+1224 SW 56TH ST OK,1224,Southwest 56th Street,Oklahoma City,Oklahoma,73109,"1224 Southwest 56th Street Oklahoma City, Oklahoma 73109",True
+1225 NW 98TH ST OK,1225,Northwest 98th Street,Oklahoma City,Oklahoma,73114,"1225 Northwest 98th Street Oklahoma City, Oklahoma 73114",True
+1229 SW 100TH TER OK,1229,Southwest 100th Terrace,Oklahoma City,Oklahoma,73139,"1229 Southwest 100th Terrace Oklahoma City, Oklahoma 73139",True
+12304 SW 27TH ST OK,12304,Southwest 27th Street,Oklahoma City,Oklahoma,73099,"12304 Southwest 27th Street Oklahoma City, Oklahoma 73099",True
+1200 NE 46TH ST OK,1200,Northeast 46th Street,Oklahoma City,Oklahoma,73111,"1200 Northeast 46th Street Oklahoma City, Oklahoma 73111",True
+1200 NW 88TH ST OK,1200,Northwest 88th Street,Oklahoma City,Oklahoma,73114,"1200 Northwest 88th Street Oklahoma City, Oklahoma 73114",True
+1201 NE 19TH ST OK,1201,Northeast 19th Street,Oklahoma City,Oklahoma,73111,"1201 Northeast 19th Street Oklahoma City, Oklahoma 73111",True
+1201 NW 8TH ST OK,1201,Northwest 8th Street,Moore,Oklahoma,73170,"1201 Northwest 8th Street Moore, Oklahoma 73170",True
+1201 SW 132ND PL OK,1201,Southwest 132nd Place,Oklahoma City,Oklahoma,73170,"1201 Southwest 132nd Place Oklahoma City, Oklahoma 73170",True
+1201 SW 55TH ST OK,1201,Southwest 55th Street,Oklahoma City,Oklahoma,73109,"1201 Southwest 55th Street Oklahoma City, Oklahoma 73109",True
+1204 CARTER DR OK,1204,Carter Drive,Oklahoma City,Oklahoma,73129,"1204 Carter Drive Oklahoma City, Oklahoma 73129",True
+1204 NE 15TH ST OK,1204,Northeast 15th Street,Oklahoma City,Oklahoma,73117,"1204 Northeast 15th Street Oklahoma City, Oklahoma 73117",True
+1205 NE 15TH ST OK,1205,Northeast 15th Street,Oklahoma City,Oklahoma,73117,"1205 Northeast 15th Street Oklahoma City, Oklahoma 73117",True
+1209 NE 15TH ST OK,1209,Northeast 15th Street,Oklahoma City,Oklahoma,73117,"1209 Northeast 15th Street Oklahoma City, Oklahoma 73117",True
+1210 NW 95TH ST OK,House number not found,Northwest 95th Street,Oklahoma City,Oklahoma,73114,"House number not found Northwest 95th Street Oklahoma City, Oklahoma 73114",False
+12109 SW 27TH ST OK,12109,Southwest 27th Street,Oklahoma City,Oklahoma,73099,"12109 Southwest 27th Street Oklahoma City, Oklahoma 73099",True
+1212 NE 20TH ST OK,1212,Northeast 20th Street,Moore,Oklahoma,73160,"1212 Northeast 20th Street Moore, Oklahoma 73160",True
+1212 NW 101ST ST OK,1212,Northwest 101st Street,Oklahoma City,Oklahoma,73114,"1212 Northwest 101st Street Oklahoma City, Oklahoma 73114",True
+1216 NW 98TH ST OK,1216,Northwest 98th Street,Oklahoma City,Oklahoma,73114,"1216 Northwest 98th Street Oklahoma City, Oklahoma 73114",True
+122 SE 52ND ST OK,122,Southeast 52nd Street,Oklahoma City,Oklahoma,73129,"122 Southeast 52nd Street Oklahoma City, Oklahoma 73129",True
+12209 SILVER SPRINGS LN OK,12209,Silver Springs Lane,Oklahoma City,Oklahoma,73099,"12209 Silver Springs Lane Oklahoma City, Oklahoma 73099",True
+11337 N BLACKWELDER AVE OK,311,North Blackwelder Avenue,Edmond,Oklahoma,73034,"311 North Blackwelder Avenue Edmond, Oklahoma 73034",False
+1136 N VILLA AVE OK,1136,North Villa Avenue,Oklahoma City,Oklahoma,73107,"1136 North Villa Avenue Oklahoma City, Oklahoma 73107",True
+1136 NE 8TH ST OK,1136,Northeast 8th Street,Oklahoma City,Oklahoma,73117,"1136 Northeast 8th Street Oklahoma City, Oklahoma 73117",True
+1136 SW 39TH ST OK,1136,Southwest 39th Street,Oklahoma City,Oklahoma,73109,"1136 Southwest 39th Street Oklahoma City, Oklahoma 73109",True
+1137 NW 11TH ST OK,1137,Northwest 11th Street,Oklahoma City,Oklahoma,73106,"1137 Northwest 11th Street Oklahoma City, Oklahoma 73106",True
+11500 N BARNES AVE OK,11500,North Barnes Avenue,Oklahoma City,Oklahoma,73120,"11500 North Barnes Avenue Oklahoma City, Oklahoma 73120",True
+11504 N BARNES AVE OK,11504,North Barnes Avenue,Oklahoma City,Oklahoma,73120,"11504 North Barnes Avenue Oklahoma City, Oklahoma 73120",True
+11601 HERITAGE SQUARE RD OK,11601,Heritage Square Road,Oklahoma City,Oklahoma,73120,"11601 Heritage Square Road Oklahoma City, Oklahoma 73120",True
+11609 TWISTED OAK RD OK,11609,Twisted Oak Road,Oklahoma City,Oklahoma,73120,"11609 Twisted Oak Road Oklahoma City, Oklahoma 73120",True
+11800 SHASTA LN OK,11800,Shasta Lane,Oklahoma City,Oklahoma,73162,"11800 Shasta Lane Oklahoma City, Oklahoma 73162",True
+11900 SW 7TH ST OK,11900,Southwest 7th Street,Oklahoma City,Oklahoma,73099,"11900 Southwest 7th Street Oklahoma City, Oklahoma 73099",True
+12 NE 102ND ST OK,2,Northwest 102nd Street,Oklahoma City,Oklahoma,73114,"2 Northwest 102nd Street Oklahoma City, Oklahoma 73114",False
+120 SE 55TH ST OK,120,Southeast 55th Street,Oklahoma City,Oklahoma,73129,"120 Southeast 55th Street Oklahoma City, Oklahoma 73129",True
+1321 NE 44TH ST OK,1321,Northeast 44th Street,Oklahoma City,Oklahoma,73111,"1321 Northeast 44th Street Oklahoma City, Oklahoma 73111",True
+13212 MAYBERRY PL OK,13212,Mayberry Place,Oklahoma City,Oklahoma,73142,"13212 Mayberry Place Oklahoma City, Oklahoma 73142",True
+1323 SE 39TH ST OK,1323,Southeast 39th Street,Oklahoma City,Oklahoma,73129,"1323 Southeast 39th Street Oklahoma City, Oklahoma 73129",True
+13233 MARSH LN OK,13233,Marsh Lane,Oklahoma City,Oklahoma,73170,"13233 Marsh Lane Oklahoma City, Oklahoma 73170",True
+1324 NE 19TH ST OK,1324,Northeast 19th Street,Oklahoma City,Oklahoma,73111,"1324 Northeast 19th Street Oklahoma City, Oklahoma 73111",True
+1325 NE 17TH ST OK,1325,Northeast 17th Street,Oklahoma City,Oklahoma,73111,"1325 Northeast 17th Street Oklahoma City, Oklahoma 73111",True
+1325 NE 7TH ST OK,1325,Northeast 7th Street,Oklahoma City,Oklahoma,73117,"1325 Northeast 7th Street Oklahoma City, Oklahoma 73117",True
+1332 SW 77TH PL OK,1332,Southwest 77th Place,Oklahoma City,Oklahoma,73159,"1332 Southwest 77th Place Oklahoma City, Oklahoma 73159",True
+13324 MARSH LN OK,13324,Marsh Lane,Oklahoma City,Oklahoma,73170,"13324 Marsh Lane Oklahoma City, Oklahoma 73170",True
+13400 NW 3RD TER OK,House number not found,Northwest 3rd Terrace,Oklahoma City,Oklahoma,73085,"House number not found Northwest 3rd Terrace Oklahoma City, Oklahoma 73085",False
+13504 CREEKSIDE DR OK,13504,Creekside Drive,Oklahoma City,Oklahoma,73131,"13504 Creekside Drive Oklahoma City, Oklahoma 73131",True
+12925 CLOVERLEAF LN OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+1300 NE 16TH ST OK,House number not found,Northeast 16th Street,Oklahoma City,Oklahoma,73117,"House number not found Northeast 16th Street Oklahoma City, Oklahoma 73117",False
+1300 NW 101ST ST OK,1300,Northwest 101st Street,Oklahoma City,Oklahoma,73114,"1300 Northwest 101st Street Oklahoma City, Oklahoma 73114",True
+1300 NW 22ND ST OK,1300,Northwest 22nd Street,Oklahoma City,Oklahoma,73106,"1300 Northwest 22nd Street Oklahoma City, Oklahoma 73106",True
+1300 SE 38TH ST OK,1309,Southeast 38th Street,Oklahoma City,Oklahoma,73129,"1309 Southeast 38th Street Oklahoma City, Oklahoma 73129",False
+1300 SW 12TH ST OK,1198,Southwest Lee Boulevard,Lawton,Oklahoma,73501,"1198 Southwest Lee Boulevard Lawton, Oklahoma 73501",False
+1304 NE 16TH ST OK,House number not found,Northeast 16th Street,Oklahoma City,Oklahoma,73117,"House number not found Northeast 16th Street Oklahoma City, Oklahoma 73117",False
+1308 NE 45TH ST OK,1308,Northeast 45th Street,Oklahoma City,Oklahoma,73111,"1308 Northeast 45th Street Oklahoma City, Oklahoma 73111",True
+1308 SE 38TH ST OK,1309,Southeast 38th Street,Oklahoma City,Oklahoma,73129,"1309 Southeast 38th Street Oklahoma City, Oklahoma 73129",False
+1309 NE 38TH ST OK,1309,Northeast 38th Street,Oklahoma City,Oklahoma,73111,"1309 Northeast 38th Street Oklahoma City, Oklahoma 73111",True
+1310 NE 10TH ST OK,1310,Northeast 10th Street,Oklahoma City,Oklahoma,73117,"1310 Northeast 10th Street Oklahoma City, Oklahoma 73117",True
+13100 SW 104TH ST OK,13100,Southwest 104th Street,Oklahoma City,Oklahoma,73064,"13100 Southwest 104th Street Oklahoma City, Oklahoma 73064",True
+1311 SE 39TH ST OK,1311,Southeast 39th Street,Oklahoma City,Oklahoma,73129,"1311 Southeast 39th Street Oklahoma City, Oklahoma 73129",True
+1312 SE 38TH ST OK,1309,Southeast 38th Street,Oklahoma City,Oklahoma,73129,"1309 Southeast 38th Street Oklahoma City, Oklahoma 73129",False
+13124 CEDAR SPRINGS RD OK,13124,Cedar Springs Road,Oklahoma City,Oklahoma,73120,"13124 Cedar Springs Road Oklahoma City, Oklahoma 73120",True
+1316 SE 38TH ST OK,1309,Southeast 38th Street,Oklahoma City,Oklahoma,73129,"1309 Southeast 38th Street Oklahoma City, Oklahoma 73129",False
+1321 NE 17TH ST OK,1321,Northeast 17th Street,Oklahoma City,Oklahoma,73111,"1321 Northeast 17th Street Oklahoma City, Oklahoma 73111",True
+12310 SW 15TH TER OK,12310,Southwest 15th Terrace,Oklahoma City,Oklahoma,73099,"12310 Southwest 15th Terrace Oklahoma City, Oklahoma 73099",True
+1232 SW 28TH ST OK,1232,Southwest 28th Street,Oklahoma City,Oklahoma,73109,"1232 Southwest 28th Street Oklahoma City, Oklahoma 73109",True
+124 SW 148TH ST OK,124,Southwest 148th Street,Oklahoma City,Oklahoma,73170,"124 Southwest 148th Street Oklahoma City, Oklahoma 73170",True
+1249 STATON DR OK,1249,Staton Drive,Oklahoma City,Oklahoma,73111,"1249 Staton Drive Oklahoma City, Oklahoma 73111",True
+12510 ABBOTTS WAY OK,12510,Abbotts Way,Oklahoma City,Oklahoma,73142,"12510 Abbotts Way Oklahoma City, Oklahoma 73142",True
+12601 S PENNSYLVANIA AVE OK,12601,South Pennsylvania Avenue,Oklahoma City,Oklahoma,73170,"12601 South Pennsylvania Avenue Oklahoma City, Oklahoma 73170",True
+12621 NE 36TH ST OK,12621,Northeast 36th Street,Oklahoma City,Oklahoma,73084,"12621 Northeast 36th Street Oklahoma City, Oklahoma 73084",True
+12800 SW 58TH ST OK,2552,Southwest 58th Street,Oklahoma City,Oklahoma,73119,"2552 Southwest 58th Street Oklahoma City, Oklahoma 73119",False
+12917 HIGH PLAINS AVE OK,House number not found,High Plains Avenue,Oklahoma City,Oklahoma,73162,"House number not found High Plains Avenue Oklahoma City, Oklahoma 73162",False
+12920 CLOVERLEAF LN OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+1448 NW 100TH ST OK,1448,Northwest 100th Street,Oklahoma City,Oklahoma,73114,"1448 Northwest 100th Street Oklahoma City, Oklahoma 73114",True
+1449 NW 99TH ST OK,1449,Northwest 99th Street,Oklahoma City,Oklahoma,73114,"1449 Northwest 99th Street Oklahoma City, Oklahoma 73114",True
+1452 NE 14TH ST OK,1452,Northeast 14th Street,Oklahoma City,Oklahoma,73117,"1452 Northeast 14th Street Oklahoma City, Oklahoma 73117",True
+1457 NE 16TH TER OK,1457,Northeast 16th Terrace,Oklahoma City,Oklahoma,73117,"1457 Northeast 16th Terrace Oklahoma City, Oklahoma 73117",True
+1501 N SARA RD OK,1501,North Sara Road,Oklahoma City,Oklahoma,73099,"1501 North Sara Road Oklahoma City, Oklahoma 73099",True
+1512 NE 46TH ST OK,1512,Northeast 46th Street,Oklahoma City,Oklahoma,73111,"1512 Northeast 46th Street Oklahoma City, Oklahoma 73111",True
+1512 SW 22ND ST OK,1512,Southwest 22nd Street,Oklahoma City,Oklahoma,73108,"1512 Southwest 22nd Street Oklahoma City, Oklahoma 73108",True
+1524 NW 127TH ST OK,1524,Northwest 127th Street,Oklahoma City,Oklahoma,73120,"1524 Northwest 127th Street Oklahoma City, Oklahoma 73120",True
+15329 LILY GARDEN LN OK,15329,Lily Garden Lane,Oklahoma City,Oklahoma,73170,"15329 Lily Garden Lane Oklahoma City, Oklahoma 73170",True
+1543 NE 18TH ST OK,1543,Northeast 18th Street,Oklahoma City,Oklahoma,73111,"1543 Northeast 18th Street Oklahoma City, Oklahoma 73111",True
+1564 SW 44TH ST OK,1564,Southwest 44th Street,Oklahoma City,Oklahoma,73119,"1564 Southwest 44th Street Oklahoma City, Oklahoma 73119",True
+1600 SW 96TH ST OK,1600,Southwest 96th Street,Oklahoma City,Oklahoma,73159,"1600 Southwest 96th Street Oklahoma City, Oklahoma 73159",True
+1600 WEST PALM PL OK,"1600, 1602",West Palm Place,Oklahoma City,Oklahoma,73169,"1600, 1602 West Palm Place Oklahoma City, Oklahoma 73169",False
+1601 E PARK PL OK,1601,East Park Place,Oklahoma City,Oklahoma,73117,"1601 East Park Place Oklahoma City, Oklahoma 73117",True
+1601 NW 32ND ST OK,1601,Northwest 32nd Street,Lawton,Oklahoma,73505,"1601 Northwest 32nd Street Lawton, Oklahoma 73505",True
+1411 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1412 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1413 NW 99TH ST OK,1413,Northwest 99th Street,Oklahoma City,Oklahoma,73114,"1413 Northwest 99th Street Oklahoma City, Oklahoma 73114",True
+1416 NW 100TH ST OK,1416,Northwest 100th Street,Oklahoma City,Oklahoma,73114,"1416 Northwest 100th Street Oklahoma City, Oklahoma 73114",True
+1417 NW 99TH ST OK,1417,Northwest 99th Street,Oklahoma City,Oklahoma,73114,"1417 Northwest 99th Street Oklahoma City, Oklahoma 73114",True
+14200 CHICKASAW DR OK,14200,Chickasaw Drive,Oklahoma City,Oklahoma,73013,"14200 Chickasaw Drive Oklahoma City, Oklahoma 73013",True
+1421 NE 17TH ST OK,1421,Northeast 17th Street,Oklahoma City,Oklahoma,73111,"1421 Northeast 17th Street Oklahoma City, Oklahoma 73111",True
+1421 NE 38TH ST OK,1421,Northeast 38th Street,Oklahoma City,Oklahoma,73111,"1421 Northeast 38th Street Oklahoma City, Oklahoma 73111",True
+1421 NE 7TH ST OK,1421,Northeast 7th Street,Oklahoma City,Oklahoma,73117,"1421 Northeast 7th Street Oklahoma City, Oklahoma 73117",True
+1424 NW 100TH ST OK,1424,Northwest 100th Street,Oklahoma City,Oklahoma,73114,"1424 Northwest 100th Street Oklahoma City, Oklahoma 73114",True
+1428 NW 100TH ST OK,1428,Northwest 100th Street,Oklahoma City,Oklahoma,73114,"1428 Northwest 100th Street Oklahoma City, Oklahoma 73114",True
+1429 STANDISH AVE OK,House number not found,Standish Avenue,Oklahoma City,Oklahoma,73117,"House number not found Standish Avenue Oklahoma City, Oklahoma 73117",False
+14313 S HARVEY AVE OK,14313,South Harvey Avenue,Oklahoma City,Oklahoma,73170,"14313 South Harvey Avenue Oklahoma City, Oklahoma 73170",True
+1432 NW 100TH ST OK,1432,Northwest 100th Street,Oklahoma City,Oklahoma,73114,"1432 Northwest 100th Street Oklahoma City, Oklahoma 73114",True
+1436 NW 100TH ST OK,1436,Northwest 100th Street,Oklahoma City,Oklahoma,73114,"1436 Northwest 100th Street Oklahoma City, Oklahoma 73114",True
+1440 NE 17TH ST OK,1440,Northeast 17th Street,Oklahoma City,Oklahoma,73111,"1440 Northeast 17th Street Oklahoma City, Oklahoma 73111",True
+1448 NE 13TH ST OK,1448,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"1448 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+13505 VIXEN LN OK,13505,Vixen Lane,Oklahoma City,Oklahoma,73131,"13505 Vixen Lane Oklahoma City, Oklahoma 73131",True
+14 N ALLEN ST OK,14,North Allen Street,Oklahoma City,Oklahoma,73107,"14 North Allen Street Oklahoma City, Oklahoma 73107",True
+1401 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1401 NE 15TH ST OK,1401,Northeast 15th Street,Oklahoma City,Oklahoma,73117,"1401 Northeast 15th Street Oklahoma City, Oklahoma 73117",True
+1401 NE 44TH ST OK,1401,Northeast 44th Street,Oklahoma City,Oklahoma,73111,"1401 Northeast 44th Street Oklahoma City, Oklahoma 73111",True
+1405 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1921 WASHINGTON BLVD OK,1921,Washington Boulevard,Oklahoma City,Oklahoma,73121,"1921 Washington Boulevard Oklahoma City, Oklahoma 73121",True
+19640 STRATMORE WAY OK,19640,Stratmore Way,Oklahoma City,Oklahoma,73012,"19640 Stratmore Way Oklahoma City, Oklahoma 73012",True
+1718 NE 11TH ST OK,1718,Northeast 11th Street,Moore,Oklahoma,73160,"1718 Northeast 11th Street Moore, Oklahoma 73160",True
+1721 N JORDAN AVE OK,1721,North Jordan Avenue,Oklahoma City,Oklahoma,73111,"1721 North Jordan Avenue Oklahoma City, Oklahoma 73111",True
+1724 NE 11TH ST OK,1724,Northeast 11th Street,Moore,Oklahoma,73160,"1724 Northeast 11th Street Moore, Oklahoma 73160",True
+1737 NE 13TH ST OK,1737,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"1737 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+18120 CHESTNUT OAK DR OK,18120,Chestnut Oak Drive,Oklahoma City,Oklahoma,73012,"18120 Chestnut Oak Drive Oklahoma City, Oklahoma 73012",True
+1813 NE 49TH ST OK,1813,Northeast 49th Street,Oklahoma City,Oklahoma,73111,"1813 Northeast 49th Street Oklahoma City, Oklahoma 73111",True
+1814 N JORDAN AVE OK,1814,North Jordan Avenue,Oklahoma City,Oklahoma,73111,"1814 North Jordan Avenue Oklahoma City, Oklahoma 73111",True
+1825 NW 36TH ST OK,House number not found,Northwest 36th Street,Oklahoma City,Oklahoma,73008,"House number not found Northwest 36th Street Oklahoma City, Oklahoma 73008",False
+18325 LAUREL OAK DR OK,18325,Laurel Oak Drive,Oklahoma City,Oklahoma,73012,"18325 Laurel Oak Drive Oklahoma City, Oklahoma 73012",True
+1904 NW 30TH ST OK,1904,Northwest 30th Street,Oklahoma City,Oklahoma,73118,"1904 Northwest 30th Street Oklahoma City, Oklahoma 73118",True
+1905 NE 52ND ST OK,1905,Northeast 52nd Street,Oklahoma City,Oklahoma,73111,"1905 Northeast 52nd Street Oklahoma City, Oklahoma 73111",True
+1908 NE 52ND ST OK,1908,Northeast 52nd Street,Oklahoma City,Oklahoma,73111,"1908 Northeast 52nd Street Oklahoma City, Oklahoma 73111",True
+1913 N MACARTHUR BLVD OK,1900,North MacArthur Boulevard,Oklahoma City,Oklahoma,73127,"1900 North MacArthur Boulevard Oklahoma City, Oklahoma 73127",False
+1915 N MACARTHUR BLVD OK,1900,North MacArthur Boulevard,Oklahoma City,Oklahoma,73127,"1900 North MacArthur Boulevard Oklahoma City, Oklahoma 73127",False
+1916 NE 52ND ST OK,1916,Northeast 52nd Street,Oklahoma City,Oklahoma,73111,"1916 Northeast 52nd Street Oklahoma City, Oklahoma 73111",True
+1917 MOULTON CT OK,1917,North Moulton Court,Oklahoma City,Oklahoma,73127,"1917 North Moulton Court Oklahoma City, Oklahoma 73127",True
+1919 NW 29TH ST OK,1919,Northwest 29th Street,Oklahoma City,Oklahoma,73106,"1919 Northwest 29th Street Oklahoma City, Oklahoma 73106",True
+1604 N MARKWELL PL OK,1604,North Markwell Place,Oklahoma City,Oklahoma,73127,"1604 North Markwell Place Oklahoma City, Oklahoma 73127",True
+1604 NW 199TH ST OK,1604,Northwest 199th Street,Oklahoma City,Oklahoma,73012,"1604 Northwest 199th Street Oklahoma City, Oklahoma 73012",True
+1604 WEST PALM PL OK,"1604, 1606",West Palm Place,Oklahoma City,Oklahoma,73169,"1604, 1606 West Palm Place Oklahoma City, Oklahoma 73169",False
+1606 WEST PALM PL OK,"1604, 1606",West Palm Place,Oklahoma City,Oklahoma,73169,"1604, 1606 West Palm Place Oklahoma City, Oklahoma 73169",False
+1609 NE 39TH ST OK,1609,Northeast 39th Street,Oklahoma City,Oklahoma,73111,"1609 Northeast 39th Street Oklahoma City, Oklahoma 73111",True
+1612 N VIRGINIA AVE OK,1612,North Virginia Avenue,Oklahoma City,Oklahoma,73106,"1612 North Virginia Avenue Oklahoma City, Oklahoma 73106",True
+1616 SW 78TH TER OK,1616,Southwest 78th Terrace,Oklahoma City,Oklahoma,73159,"1616 Southwest 78th Terrace Oklahoma City, Oklahoma 73159",True
+1617 E EUCLID ST OK,1230,North Fonshill Avenue,Oklahoma City,Oklahoma,73117,"1230 North Fonshill Avenue Oklahoma City, Oklahoma 73117",False
+1620 NE 13TH ST OK,1620,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"1620 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+1624 SW 70TH ST OK,1624,Southwest 70th Street,Oklahoma City,Oklahoma,73159,"1624 Southwest 70th Street Oklahoma City, Oklahoma 73159",True
+1629 E EUCLID ST OK,19413,North Euclid Street,Cashion,Oklahoma,73016,"19413 North Euclid Street Cashion, Oklahoma 73016",False
+16500 N CHOCTAW RD OK,16500,North Choctaw Road,Oklahoma City,Oklahoma,73054,"16500 North Choctaw Road Oklahoma City, Oklahoma 73054",True
+1701 NE 11TH ST OK,1701,Northeast 11th Street,Moore,Oklahoma,73160,"1701 Northeast 11th Street Moore, Oklahoma 73160",True
+1704 NE 48TH ST OK,1704,Northeast 48th Street,Oklahoma City,Oklahoma,73111,"1704 Northeast 48th Street Oklahoma City, Oklahoma 73111",True
+1704 WEST PALM PL OK,"1704, 1706",West Palm Place,Oklahoma City,Oklahoma,73169,"1704, 1706 West Palm Place Oklahoma City, Oklahoma 73169",False
+1712 NW 35TH ST OK,1712,Northwest 35th Street,Oklahoma City,Oklahoma,73118,"1712 Northwest 35th Street Oklahoma City, Oklahoma 73118",True
+1716 WASHINGTON BLVD OK,1716,Washington Boulevard,Oklahoma City,Oklahoma,73121,"1716 Washington Boulevard Oklahoma City, Oklahoma 73121",True
+1602 NE 11TH ST OK,1602,Northeast 11th Street,Moore,Oklahoma,73160,"1602 Northeast 11th Street Moore, Oklahoma 73160",True
+1602 WEST PALM PL OK,"1600, 1602",West Palm Place,Oklahoma City,Oklahoma,73169,"1600, 1602 West Palm Place Oklahoma City, Oklahoma 73169",False
+2208 HARDIN DR OK,2208,Hardin Drive,Oklahoma City,Oklahoma,73111,"2208 Hardin Drive Oklahoma City, Oklahoma 73111",True
+222 NW 28TH ST OK,222,Northwest 28th Street,Oklahoma City,Oklahoma,73103,"222 Northwest 28th Street Oklahoma City, Oklahoma 73103",True
+2224 NE 20TH ST OK,2224,Northeast 20th Street,Oklahoma City,Oklahoma,73111,"2224 Northeast 20th Street Oklahoma City, Oklahoma 73111",True
+2237 NE 20TH ST OK,2237,Northeast 20th Street,Oklahoma City,Oklahoma,73111,"2237 Northeast 20th Street Oklahoma City, Oklahoma 73111",True
+2245 NW 11TH ST OK,2245,Northwest 11th Street,Oklahoma City,Oklahoma,73107,"2245 Northwest 11th Street Oklahoma City, Oklahoma 73107",True
+225 NW 85TH ST OK,225,Northwest 85th Street,Oklahoma City,Oklahoma,73114,"225 Northwest 85th Street Oklahoma City, Oklahoma 73114",True
+2109 NE 12TH ST OK,2109,Northeast 12th Street,Moore,Oklahoma,73160,"2109 Northeast 12th Street Moore, Oklahoma 73160",True
+2112 N EVEREST AVE OK,2112,North Everest Avenue,Oklahoma City,Oklahoma,73111,"2112 North Everest Avenue Oklahoma City, Oklahoma 73111",True
+2113 NW 36TH ST OK,House number not found,Northwest 36th Street,Oklahoma City,Oklahoma,73008,"House number not found Northwest 36th Street Oklahoma City, Oklahoma 73008",False
+2117 N EVEREST AVE OK,2117,North Everest Avenue,Oklahoma City,Oklahoma,73111,"2117 North Everest Avenue Oklahoma City, Oklahoma 73111",True
+212 SE 41ST ST OK,212,Southeast 41st Street,Oklahoma City,Oklahoma,73129,"212 Southeast 41st Street Oklahoma City, Oklahoma 73129",True
+2121 N BROOKLINE AVE OK,2121,North Brookline Avenue,Oklahoma City,Oklahoma,73107,"2121 North Brookline Avenue Oklahoma City, Oklahoma 73107",True
+2125 NW 36TH ST OK,2125,Northwest 36th Street,Oklahoma City,Oklahoma,73112,"2125 Northwest 36th Street Oklahoma City, Oklahoma 73112",True
+2129 FONSHILL AVE OK,2129,North Fonshill Avenue,Oklahoma City,Oklahoma,73111,"2129 North Fonshill Avenue Oklahoma City, Oklahoma 73111",True
+2131 NW 14TH ST OK,2131,Northwest 14th Street,Lawton,Oklahoma,73507,"2131 Northwest 14th Street Lawton, Oklahoma 73507",True
+2132 FONSHILL AVE OK,2132,North Fonshill Avenue,Oklahoma City,Oklahoma,73111,"2132 North Fonshill Avenue Oklahoma City, Oklahoma 73111",True
+2137 N RHODE ISLAND AVE OK,2137,North Rhode Island Avenue,Oklahoma City,Oklahoma,73111,"2137 North Rhode Island Avenue Oklahoma City, Oklahoma 73111",True
+2137 NE 16TH TER OK,2137,Northeast 16th Terrace,Oklahoma City,Oklahoma,73117,"2137 Northeast 16th Terrace Oklahoma City, Oklahoma 73117",True
+2137 NW 26TH ST OK,2137,Northwest 26th Street,Oklahoma City,Oklahoma,73107,"2137 Northwest 26th Street Oklahoma City, Oklahoma 73107",True
+217 N TUTTLE ST OK,217,North Tuttle Street,Oklahoma City,Oklahoma,73107,"217 North Tuttle Street Oklahoma City, Oklahoma 73107",True
+219 N TUTTLE ST OK,219,North Tuttle Street,Oklahoma City,Oklahoma,73107,"219 North Tuttle Street Oklahoma City, Oklahoma 73107",True
+219 SE 55TH ST OK,219,Southeast 55th Street,Oklahoma City,Oklahoma,73129,"219 Southeast 55th Street Oklahoma City, Oklahoma 73129",True
+2201 N KELHAM AVE OK,2201,North Kelham Avenue,Oklahoma City,Oklahoma,73111,"2201 North Kelham Avenue Oklahoma City, Oklahoma 73111",True
+200 CONESTOGA DR OK,200,Conestoga Drive,Oklahoma City,Oklahoma,73099,"200 Conestoga Drive Oklahoma City, Oklahoma 73099",True
+2017 N PAGE AVE OK,2017,North Page Avenue,Oklahoma City,Oklahoma,73111,"2017 North Page Avenue Oklahoma City, Oklahoma 73111",True
+2023 NW 33RD ST OK,2023,Northwest 33rd Street,Oklahoma City,Oklahoma,73118,"2023 Northwest 33rd Street Oklahoma City, Oklahoma 73118",True
+2025 NE 18TH ST OK,2025,Northeast 18th Street,Oklahoma City,Oklahoma,73111,"2025 Northeast 18th Street Oklahoma City, Oklahoma 73111",True
+2036 NW 44TH ST OK,2036,Northwest 44th Street,Oklahoma City,Oklahoma,73118,"2036 Northwest 44th Street Oklahoma City, Oklahoma 73118",True
+2037 NW 47TH ST OK,2037,Northwest 47th Street,Oklahoma City,Oklahoma,73118,"2037 Northwest 47th Street Oklahoma City, Oklahoma 73118",True
+204 NE 16TH ST OK,204,Northeast 16th Street,Guymon,Oklahoma,73942,"204 Northeast 16th Street Guymon, Oklahoma 73942",True
+204 SE 19TH ST OK,200,Southeast 19th Street,Moore,Oklahoma,73160,"200 Southeast 19th Street Moore, Oklahoma 73160",False
+205 OUT WEST TRL OK,205,Out West Trail,Oklahoma City,Oklahoma,73099,"205 Out West Trail Oklahoma City, Oklahoma 73099",True
+2100 N SARA RD OK,2100,North Sara Road,Oklahoma City,Oklahoma,73099,"2100 North Sara Road Oklahoma City, Oklahoma 73099",True
+2100 NW 27TH ST OK,2100,Northwest 27th Street,Oklahoma City,Oklahoma,73107,"2100 Northwest 27th Street Oklahoma City, Oklahoma 73107",True
+2100 PALOMINO DR OK,2100,Palomino Drive,Oklahoma City,Oklahoma,73121,"2100 Palomino Drive Oklahoma City, Oklahoma 73121",True
+2101 SW 70TH ST OK,2101,Southwest 70th Street,Oklahoma City,Oklahoma,73159,"2101 Southwest 70th Street Oklahoma City, Oklahoma 73159",True
+2108 SW 25TH ST OK,2108,Southwest 25th Street,Oklahoma City,Oklahoma,73108,"2108 Southwest 25th Street Oklahoma City, Oklahoma 73108",True
+2108 SW 68TH ST OK,2108,Southwest 68th Street,Oklahoma City,Oklahoma,73159,"2108 Southwest 68th Street Oklahoma City, Oklahoma 73159",True
+2480 NW 39TH TER OK,2480,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2480 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2500 NE SUCCESS ST OK,2500,Northeast Success Street,Oklahoma City,Oklahoma,73111,"2500 Northeast Success Street Oklahoma City, Oklahoma 73111",True
+2501 NW 14TH ST OK,2501,Northwest 14th Street,Lawton,Oklahoma,73507,"2501 Northwest 14th Street Lawton, Oklahoma 73507",True
+2501 SW 52ND ST OK,2501,Southwest 52nd Street,Oklahoma City,Oklahoma,73119,"2501 Southwest 52nd Street Oklahoma City, Oklahoma 73119",True
+2505 NE 14TH ST OK,2505,Northeast 14th Street,Oklahoma City,Oklahoma,73117,"2505 Northeast 14th Street Oklahoma City, Oklahoma 73117",True
+2505 NW 28TH ST OK,2505,Northwest 28th Street,Oklahoma City,Oklahoma,73107,"2505 Northwest 28th Street Oklahoma City, Oklahoma 73107",True
+2508 NE 13TH ST OK,House number not found,N.E. 13th Street,Moore,Oklahoma,73160,"House number not found N.E. 13th Street Moore, Oklahoma 73160",False
+2509 SE 45TH ST OK,2509,Southeast 45th Street,Oklahoma City,Oklahoma,73129,"2509 Southeast 45th Street Oklahoma City, Oklahoma 73129",True
+2512 NW 39TH TER OK,2512,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2512 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2513 SE 45TH ST OK,2513,Southeast 45th Street,Oklahoma City,Oklahoma,73129,"2513 Southeast 45th Street Oklahoma City, Oklahoma 73129",True
+2345 NE 22ND ST OK,2345,Northeast 22nd Street,Oklahoma City,Oklahoma,73111,"2345 Northeast 22nd Street Oklahoma City, Oklahoma 73111",True
+2345 NW 31ST ST OK,2345,Northwest 31st Street,Oklahoma City,Oklahoma,73112,"2345 Northwest 31st Street Oklahoma City, Oklahoma 73112",True
+240 SE 55TH ST OK,240,Southeast 55th Street,Oklahoma City,Oklahoma,73129,"240 Southeast 55th Street Oklahoma City, Oklahoma 73129",True
+2400 N SARA RD OK,2400,North Sara Road,Oklahoma City,Oklahoma,73099,"2400 North Sara Road Oklahoma City, Oklahoma 73099",True
+2400 SW 47TH ST OK,2400,Southwest 47th Street,Oklahoma City,Oklahoma,73119,"2400 Southwest 47th Street Oklahoma City, Oklahoma 73119",True
+2401 BUTTERNUT PL OK,2401,Butternut Place,Oklahoma City,Oklahoma,73013,"2401 Butternut Place Oklahoma City, Oklahoma 73013",True
+2412 SW 49TH ST OK,2412,Southwest 49th Street,Oklahoma City,Oklahoma,73119,"2412 Southwest 49th Street Oklahoma City, Oklahoma 73119",True
+2420 NE 26TH ST OK,2420,Northeast 26th Street,Oklahoma City,Oklahoma,73111,"2420 Northeast 26th Street Oklahoma City, Oklahoma 73111",True
+2420 NW 114TH ST OK,2420,Northwest 114th Street,Oklahoma City,Oklahoma,73120,"2420 Northwest 114th Street Oklahoma City, Oklahoma 73120",True
+2425 SW 90TH PL OK,2425,Southwest 90th Place,Oklahoma City,Oklahoma,73159,"2425 Southwest 90th Place Oklahoma City, Oklahoma 73159",True
+2435 NW 12TH ST OK,2435,Northwest 12th Street,Lawton,Oklahoma,73507,"2435 Northwest 12th Street Lawton, Oklahoma 73507",True
+2445 W MAIN ST OK,2424,West Main Street,Norman,Oklahoma,73069,"2424 West Main Street Norman, Oklahoma 73069",False
+2449 W MAIN ST OK,House number not found,West Main Street,Norman,Oklahoma,73072,"House number not found West Main Street Norman, Oklahoma 73072",False
+2452 NW 39TH TER OK,2452,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2452 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2460 NW 39TH TER OK,2460,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2460 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2464 NW 39TH TER OK,2464,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2464 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2468 NW 39TH TER OK,2468,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2468 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2301 SE 9TH ST OK,2301,Southeast 9th Street,Oklahoma City,Oklahoma,73129,"2301 Southeast 9th Street Oklahoma City, Oklahoma 73129",True
+2308 SE 11TH ST OK,2308,Southeast 11th Street,Oklahoma City,Oklahoma,73129,"2308 Southeast 11th Street Oklahoma City, Oklahoma 73129",True
+2309 S HUDSON AVE OK,2309,South Hudson Avenue,Oklahoma City,Oklahoma,73109,"2309 South Hudson Avenue Oklahoma City, Oklahoma 73109",True
+2313 NW 115TH ST OK,2313,Northwest 115th Street,Oklahoma City,Oklahoma,73120,"2313 Northwest 115th Street Oklahoma City, Oklahoma 73120",True
+2316 SW 25TH ST OK,2316,Southwest 25th Street,Oklahoma City,Oklahoma,73108,"2316 Southwest 25th Street Oklahoma City, Oklahoma 73108",True
+2324 NW 13TH ST OK,2324,Northwest 13th Street,Lawton,Oklahoma,73507,"2324 Northwest 13th Street Lawton, Oklahoma 73507",True
+2329 SW GRAND BLVD OK,2329,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73119,"2329 Southwest Grand Boulevard Oklahoma City, Oklahoma 73119",True
+2332 NE 23RD ST OK,2332,Northeast 23rd Street,Oklahoma City,Oklahoma,73111,"2332 Northeast 23rd Street Oklahoma City, Oklahoma 73111",True
+2334 NW 21ST ST OK,2334,Northwest 21st Street,Oklahoma City,Oklahoma,73107,"2334 Northwest 21st Street Oklahoma City, Oklahoma 73107",True
+2338 NW 21ST ST OK,2338,Northwest 21st Street,Oklahoma City,Oklahoma,73107,"2338 Northwest 21st Street Oklahoma City, Oklahoma 73107",True
+2344 NW 1ST TER OK,2344,Northwest 1st Terrace,Oklahoma City,Oklahoma,73107,"2344 Northwest 1st Terrace Oklahoma City, Oklahoma 73107",True
+2801 NE 10TH ST OK,2801,Northeast 10th Street,Oklahoma City,Oklahoma,73117,"2801 Northeast 10th Street Oklahoma City, Oklahoma 73117",True
+2804 NW 23RD ST OK,2804,Northwest 23rd Street,Lawton,Oklahoma,73505,"2804 Northwest 23rd Street Lawton, Oklahoma 73505",True
+2805 SW 66TH ST OK,2805,Southwest 66th Street,Oklahoma City,Oklahoma,73159,"2805 Southwest 66th Street Oklahoma City, Oklahoma 73159",True
+2808 S CENTRAL AVE OK,2808,South Central Avenue,Oklahoma City,Oklahoma,73129,"2808 South Central Avenue Oklahoma City, Oklahoma 73129",True
+2809 NW 67TH ST OK,2809,Northwest 67th Street,Lawton,Oklahoma,73505,"2809 Northwest 67th Street Lawton, Oklahoma 73505",True
+2814 S CENTRAL AVE OK,2814,South Central Avenue,Oklahoma City,Oklahoma,73129,"2814 South Central Avenue Oklahoma City, Oklahoma 73129",True
+2815 NW 40TH ST OK,2815,Northwest 40th Street,Oklahoma City,Oklahoma,73112,"2815 Northwest 40th Street Oklahoma City, Oklahoma 73112",True
+2825 SW 82ND ST OK,2800,Southwest 82nd Street,Oklahoma City,Oklahoma,73159,"2800 Southwest 82nd Street Oklahoma City, Oklahoma 73159",False
+2832 NW 23RD ST OK,2832,Northwest 23rd Street,Lawton,Oklahoma,73505,"2832 Northwest 23rd Street Lawton, Oklahoma 73505",True
+2840 NW 23RD ST OK,2840,Northwest 23rd Street,Lawton,Oklahoma,73505,"2840 Northwest 23rd Street Lawton, Oklahoma 73505",True
+2844 LANCASTER LN OK,2844,Lancaster Lane,Oklahoma City,Oklahoma,73116,"2844 Lancaster Lane Oklahoma City, Oklahoma 73116",True
+2852 SW 39TH ST OK,2852,Southwest 39th Street,Oklahoma City,Oklahoma,73119,"2852 Southwest 39th Street Oklahoma City, Oklahoma 73119",True
+29 SW 55TH ST OK,29,Southwest 55th Street,Oklahoma City,Oklahoma,73109,"29 Southwest 55th Street Oklahoma City, Oklahoma 73109",True
+2904 NW 46TH ST OK,2904,Northwest 46th Street,Lawton,Oklahoma,73505,"2904 Northwest 46th Street Lawton, Oklahoma 73505",True
+2620 SE 96TH ST OK,2620,Southeast 96th Street,Oklahoma City,Oklahoma,73160,"2620 Southeast 96th Street Oklahoma City, Oklahoma 73160",True
+2646 SW 57TH PL OK,2646,Southwest 57th Place,Oklahoma City,Oklahoma,73119,"2646 Southwest 57th Place Oklahoma City, Oklahoma 73119",True
+2660 SW 45TH ST OK,2660,Southwest 45th Street,Oklahoma City,Oklahoma,73119,"2660 Southwest 45th Street Oklahoma City, Oklahoma 73119",True
+2700 SW 65TH ST OK,2700,Southwest 65th Street,Oklahoma City,Oklahoma,73159,"2700 Southwest 65th Street Oklahoma City, Oklahoma 73159",True
+2707 NE 10TH ST OK,2611,Northeast 10th Street,Oklahoma City,Oklahoma,73117,"2611 Northeast 10th Street Oklahoma City, Oklahoma 73117",False
+2709 SE 47TH ST OK,2709,Southeast 47th Street,Oklahoma City,Oklahoma,73129,"2709 Southeast 47th Street Oklahoma City, Oklahoma 73129",True
+2709 SE 50TH ST OK,2709,Southeast 50th Street,Oklahoma City,Oklahoma,73129,"2709 Southeast 50th Street Oklahoma City, Oklahoma 73129",True
+2712 NW 16TH ST OK,2712,Northwest 16th Street,Lawton,Oklahoma,73507,"2712 Northwest 16th Street Lawton, Oklahoma 73507",True
+2716 SE 47TH ST OK,2716,Southeast 47th Street,Oklahoma City,Oklahoma,73129,"2716 Southeast 47th Street Oklahoma City, Oklahoma 73129",True
+2717 SW 56TH ST OK,2717,Southwest 56th Street,Oklahoma City,Oklahoma,73119,"2717 Southwest 56th Street Oklahoma City, Oklahoma 73119",True
+2720 SW 32ND ST OK,2720,Southwest 32nd Street,Oklahoma City,Oklahoma,73119,"2720 Southwest 32nd Street Oklahoma City, Oklahoma 73119",True
+2725 NW 187TH TER OK,2725,Northwest 187th Terrace,Oklahoma City,Oklahoma,73012,"2725 Northwest 187th Terrace Oklahoma City, Oklahoma 73012",True
+2728 SE 95TH ST OK,2728,Southeast 95th Street,Oklahoma City,Oklahoma,73160,"2728 Southeast 95th Street Oklahoma City, Oklahoma 73160",True
+2731 W EUBANKS ST OK,2731,West Eubanks Street,Oklahoma City,Oklahoma,73112,"2731 West Eubanks Street Oklahoma City, Oklahoma 73112",True
+2732 SE 48TH ST OK,2732,Southeast 48th Street,Oklahoma City,Oklahoma,73129,"2732 Southeast 48th Street Oklahoma City, Oklahoma 73129",True
+2752 NW 18TH ST OK,2752,Northwest 18th Street,Lawton,Oklahoma,73507,"2752 Northwest 18th Street Lawton, Oklahoma 73507",True
+2800 NE SUCCESS ST OK,2800,Northeast Success Street,Oklahoma City,Oklahoma,73111,"2800 Northeast Success Street Oklahoma City, Oklahoma 73111",True
+2516 NW 39TH TER OK,2516,Northwest 39th Terrace,Oklahoma City,Oklahoma,73112,"2516 Northwest 39th Terrace Oklahoma City, Oklahoma 73112",True
+2517 SE 45TH ST OK,2517,Southeast 45th Street,Oklahoma City,Oklahoma,73129,"2517 Southeast 45th Street Oklahoma City, Oklahoma 73129",True
+2521 NE SUCCESS ST OK,2521,Northeast Success Street,Oklahoma City,Oklahoma,73111,"2521 Northeast Success Street Oklahoma City, Oklahoma 73111",True
+2525 SW 92ND ST OK,2525,Southwest 92nd Street,Oklahoma City,Oklahoma,73159,"2525 Southwest 92nd Street Oklahoma City, Oklahoma 73159",True
+2541 NW 50TH ST OK,2541,Northwest 50th Street,Oklahoma City,Oklahoma,73112,"2541 Northwest 50th Street Oklahoma City, Oklahoma 73112",True
+2544 SW 52ND ST OK,2544,Southwest 52nd Street,Oklahoma City,Oklahoma,73119,"2544 Southwest 52nd Street Oklahoma City, Oklahoma 73119",True
+2617 SW 69TH ST OK,2617,Southwest 69th Street,Lawton,Oklahoma,73505,"2617 Southwest 69th Street Lawton, Oklahoma 73505",True
+15 SE 29TH ST  OK,15,Southeast 29th Street,Oklahoma City,Oklahoma,73129,"15 Southeast 29th Street Oklahoma City, Oklahoma 73129",True
+3060 NW 68TH ST OK,3060,Northwest 68th Street,Oklahoma City,Oklahoma,73116,"3060 Northwest 68th Street Oklahoma City, Oklahoma 73116",True
+309 SE 28TH ST OK,309,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"309 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+3100 NE 14TH ST OK,3100,Northeast 14th Street,Oklahoma City,Oklahoma,73117,"3100 Northeast 14th Street Oklahoma City, Oklahoma 73117",True
+3101 SW 105TH ST OK,3101,Southwest 105th Street,Oklahoma City,Oklahoma,73170,"3101 Southwest 105th Street Oklahoma City, Oklahoma 73170",True
+3112 SW 102ND ST OK,3112,Southwest 102nd Street,Oklahoma City,Oklahoma,73159,"3112 Southwest 102nd Street Oklahoma City, Oklahoma 73159",True
+3113 SW 72ND ST OK,3113,Southwest 72nd Street,Oklahoma City,Oklahoma,73159,"3113 Southwest 72nd Street Oklahoma City, Oklahoma 73159",True
+3116 NE 13TH ST OK,3116,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"3116 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+3116 S POST RD OK,3116,South Post Road,City not found,Oklahoma,73044,"3116 South Post Road City not found, Oklahoma 73044",True
+312 NW 96TH ST OK,312,Northwest 96th Street,Oklahoma City,Oklahoma,73114,"312 Northwest 96th Street Oklahoma City, Oklahoma 73114",True
+3120 NE 13TH ST OK,3120,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"3120 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+3120 NW 34TH ST OK,3120,Northwest 34th Street,Oklahoma City,Oklahoma,73112,"3120 Northwest 34th Street Oklahoma City, Oklahoma 73112",True
+3121 NE 13TH ST OK,3121,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"3121 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+3125 NW 12TH ST OK,House number not found,North Drexel Boulevard,Oklahoma City,Oklahoma,73112,"House number not found North Drexel Boulevard Oklahoma City, Oklahoma 73112",False
+3128 SW 47TH ST OK,3128,Southwest 47th Street,Oklahoma City,Oklahoma,73119,"3128 Southwest 47th Street Oklahoma City, Oklahoma 73119",True
+3128 SW 71ST ST OK,3128,Southwest 71st Street,Oklahoma City,Oklahoma,73159,"3128 Southwest 71st Street Oklahoma City, Oklahoma 73159",True
+3136 SW 65TH PL OK,3136,Southwest 65th Place,Oklahoma City,Oklahoma,73159,"3136 Southwest 65th Place Oklahoma City, Oklahoma 73159",True
+3140 NW 28TH ST OK,3140,Northwest 28th Street,Oklahoma City,Oklahoma,73107,"3140 Northwest 28th Street Oklahoma City, Oklahoma 73107",True
+2930 SW 52ND ST OK,2930,Southwest 52nd Street,Oklahoma City,Oklahoma,73119,"2930 Southwest 52nd Street Oklahoma City, Oklahoma 73119",True
+2940 NW 29TH ST OK,House number not found,Street not found,Oklahoma City,Oklahoma,73099,"House number not found Street not found Oklahoma City, Oklahoma 73099",False
+3000 SW 51ST ST OK,3000,Southwest 51st Street,Oklahoma City,Oklahoma,73119,"3000 Southwest 51st Street Oklahoma City, Oklahoma 73119",True
+3004 NW 68TH ST OK,3004,Northwest 68th Street,Oklahoma City,Oklahoma,73116,"3004 Northwest 68th Street Oklahoma City, Oklahoma 73116",True
+3005 NW 44TH ST OK,3005,Northwest 44th Street,Oklahoma City,Oklahoma,73112,"3005 Northwest 44th Street Oklahoma City, Oklahoma 73112",True
+3008 NW 16TH ST OK,3008,Northwest 16th Street,Oklahoma City,Oklahoma,73107,"3008 Northwest 16th Street Oklahoma City, Oklahoma 73107",True
+3008 SE 57TH ST OK,3008,Southeast 57th Street,Oklahoma City,Oklahoma,73135,"3008 Southeast 57th Street Oklahoma City, Oklahoma 73135",True
+3009 NW 16TH ST OK,3009,Northwest 16th Street,Oklahoma City,Oklahoma,73107,"3009 Northwest 16th Street Oklahoma City, Oklahoma 73107",True
+3009 NW 68TH ST OK,3009,Northwest 68th Street,Oklahoma City,Oklahoma,73116,"3009 Northwest 68th Street Oklahoma City, Oklahoma 73116",True
+301 NE 102ND ST OK,301,Northeast 102nd Street,Oklahoma City,Oklahoma,73114,"301 Northeast 102nd Street Oklahoma City, Oklahoma 73114",True
+301 NW 118TH ST OK,301,Northwest 118th Street,Oklahoma City,Oklahoma,73114,"301 Northwest 118th Street Oklahoma City, Oklahoma 73114",True
+3027 NW 13TH ST OK,3027,Northwest 13th Street,Oklahoma City,Oklahoma,73107,"3027 Northwest 13th Street Oklahoma City, Oklahoma 73107",True
+3028 SW 129TH ST OK,3028,Southwest 129th Street,Oklahoma City,Oklahoma,73170,"3028 Southwest 129th Street Oklahoma City, Oklahoma 73170",True
+3028 SW 37TH ST OK,3028,Southwest 37th Street,Oklahoma City,Oklahoma,73119,"3028 Southwest 37th Street Oklahoma City, Oklahoma 73119",True
+3031 NW 13TH ST OK,3031,Northwest 13th Street,Oklahoma City,Oklahoma,73107,"3031 Northwest 13th Street Oklahoma City, Oklahoma 73107",True
+3049 NW 68TH ST OK,3049,Northwest 68th Street,Oklahoma City,Oklahoma,73116,"3049 Northwest 68th Street Oklahoma City, Oklahoma 73116",True
+305 SE 66TH ST OK,305,Southeast 66th Street,Oklahoma City,Oklahoma,73149,"305 Southeast 66th Street Oklahoma City, Oklahoma 73149",True
+2919 NW 72ND ST OK,House number not found,Northwest 72nd Street,Oklahoma City,Oklahoma,73116,"House number not found Northwest 72nd Street Oklahoma City, Oklahoma 73116",False
+2927 NW 72ND ST OK,House number not found,Northwest 72nd Street,Oklahoma City,Oklahoma,73116,"House number not found Northwest 72nd Street Oklahoma City, Oklahoma 73116",False
+2928 NW 19TH ST OK,2928,Northwest 19th Street,Lawton,Oklahoma,73507,"2928 Northwest 19th Street Lawton, Oklahoma 73507",True
+3515 NW 27TH ST OK,3515,Northwest 27th Street,Oklahoma City,Oklahoma,73107,"3515 Northwest 27th Street Oklahoma City, Oklahoma 73107",True
+3520 NW 18TH ST OK,3520,Northwest 18th Street,City not found,Oklahoma,73065,"3520 Northwest 18th Street City not found, Oklahoma 73065",True
+3528 NW 15TH ST OK,3528,Northwest 15th Street,Oklahoma City,Oklahoma,73107,"3528 Northwest 15th Street Oklahoma City, Oklahoma 73107",True
+3601 NW 15TH ST OK,3601,Northwest 15th Street,Oklahoma City,Oklahoma,73107,"3601 Northwest 15th Street Oklahoma City, Oklahoma 73107",True
+3601 SW 41ST ST OK,3601,Southwest 41st Street,Oklahoma City,Oklahoma,73119,"3601 Southwest 41st Street Oklahoma City, Oklahoma 73119",True
+328 SE 57TH ST OK,328,Southeast 57th Street,Oklahoma City,Oklahoma,73129,"328 Southeast 57th Street Oklahoma City, Oklahoma 73129",True
+33 SE 51ST ST OK,33,Southeast 51st Street,Oklahoma City,Oklahoma,73129,"33 Southeast 51st Street Oklahoma City, Oklahoma 73129",True
+3304 NE 14TH PL OK,3304,Northeast 14th Place,Oklahoma City,Oklahoma,73117,"3304 Northeast 14th Place Oklahoma City, Oklahoma 73117",True
+3308 SHERMAN TER OK,3308,Sherman Terrace,Oklahoma City,Oklahoma,73111,"3308 Sherman Terrace Oklahoma City, Oklahoma 73111",True
+3309 NW 24TH ST OK,3309,Northwest 24th Street,Oklahoma City,Oklahoma,73107,"3309 Northwest 24th Street Oklahoma City, Oklahoma 73107",True
+3309 SE 57TH ST OK,3309,Southeast 57th Street,Oklahoma City,Oklahoma,73135,"3309 Southeast 57th Street Oklahoma City, Oklahoma 73135",True
+3313 SW 26TH ST OK,3313,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"3313 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+3324 SW MURRAY DR OK,3324,Southwest Murray Drive,Oklahoma City,Oklahoma,73119,"3324 Southwest Murray Drive Oklahoma City, Oklahoma 73119",True
+3335 NW 61ST ST OK,3335,Northwest 61st Street,Oklahoma City,Oklahoma,73112,"3335 Northwest 61st Street Oklahoma City, Oklahoma 73112",True
+340 SE 57TH ST OK,340,Southeast 57th Street,Oklahoma City,Oklahoma,73129,"340 Southeast 57th Street Oklahoma City, Oklahoma 73129",True
+3402 S POST RD OK,3402,South Post Road,City not found,Oklahoma,73044,"3402 South Post Road City not found, Oklahoma 73044",True
+3404 S PORTLAND AVE OK,3404,South Portland Avenue,City not found,Oklahoma,73044,"3404 South Portland Avenue City not found, Oklahoma 73044",True
+3408 N VIRGINIA AVE OK,3408,North Virginia Avenue,Oklahoma City,Oklahoma,73118,"3408 North Virginia Avenue Oklahoma City, Oklahoma 73118",True
+3417 S CHOCTAW RD OK,3417,South Choctaw Road,Oklahoma City,Oklahoma,73020,"3417 South Choctaw Road Oklahoma City, Oklahoma 73020",True
+345 SE 59TH ST OK,345,Southeast 59th Street,Oklahoma City,Oklahoma,73129,"345 Southeast 59th Street Oklahoma City, Oklahoma 73129",True
+3504 W LIBERTY ST OK,1601,North New York Avenue,Mangum,Oklahoma,73554,"1601 North New York Avenue Mangum, Oklahoma 73554",False
+3509 SPRINGLAKE DR OK,3509,Springlake Drive,Oklahoma City,Oklahoma,73105,"3509 Springlake Drive Oklahoma City, Oklahoma 73105",True
+316 SE 57TH ST OK,316,Southeast 57th Street,Oklahoma City,Oklahoma,73129,"316 Southeast 57th Street Oklahoma City, Oklahoma 73129",True
+319 SW 44TH ST OK,319,Southwest 44th Street,Oklahoma City,Oklahoma,73109,"319 Southwest 44th Street Oklahoma City, Oklahoma 73109",True
+32 SW 55TH ST OK,32,Southwest 55th Street,Oklahoma City,Oklahoma,73109,"32 Southwest 55th Street Oklahoma City, Oklahoma 73109",True
+320 NW 86TH ST OK,320,Northwest 86th Street,Oklahoma City,Oklahoma,73114,"320 Northwest 86th Street Oklahoma City, Oklahoma 73114",True
+3209 LYON BLVD OK,3209,Lyon Boulevard,Oklahoma City,Oklahoma,73112,"3209 Lyon Boulevard Oklahoma City, Oklahoma 73112",True
+3209 NW 21ST ST OK,3209,Northwest 21st Street,Oklahoma City,Oklahoma,73107,"3209 Northwest 21st Street Oklahoma City, Oklahoma 73107",True
+3209 SE 51ST ST OK,3209,Southeast 51st Street,Oklahoma City,Oklahoma,73135,"3209 Southeast 51st Street Oklahoma City, Oklahoma 73135",True
+3217 N LINDSAY AVE OK,3217,North Lindsay Avenue,Oklahoma City,Oklahoma,73105,"3217 North Lindsay Avenue Oklahoma City, Oklahoma 73105",True
+322 SE 28TH ST OK,322,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"322 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+3221 NE 13TH ST OK,3221,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"3221 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+3224 S GOFF AVE OK,3224,South Goff Avenue,Oklahoma City,Oklahoma,73119,"3224 South Goff Avenue Oklahoma City, Oklahoma 73119",True
+3230 N MACARTHUR BLVD OK,3230,North MacArthur Boulevard,Oklahoma City,Oklahoma,73122,"3230 North MacArthur Boulevard Oklahoma City, Oklahoma 73122",True
+3233 SW 52ND ST OK,3233,Southwest 52nd Street,Oklahoma City,Oklahoma,73119,"3233 Southwest 52nd Street Oklahoma City, Oklahoma 73119",True
+3237 SW 52ND ST OK,3237,Southwest 52nd Street,Oklahoma City,Oklahoma,73119,"3237 Southwest 52nd Street Oklahoma City, Oklahoma 73119",True
+324 NW 96TH ST OK,324,Northwest 96th Street,Oklahoma City,Oklahoma,73114,"324 Northwest 96th Street Oklahoma City, Oklahoma 73114",True
+3269 SW 46TH ST OK,3269,Southwest 46th Street,Oklahoma City,Oklahoma,73119,"3269 Southwest 46th Street Oklahoma City, Oklahoma 73119",True
+4109 CEDAR PASS DR OK,4109,Cedar Pass Drive,Oklahoma City,Oklahoma,73179,"4109 Cedar Pass Drive Oklahoma City, Oklahoma 73179",True
+4124 N STERLING AVE OK,4124,North Sterling Avenue,Oklahoma City,Oklahoma,73122,"4124 North Sterling Avenue Oklahoma City, Oklahoma 73122",True
+4125 N BARR AVE OK,4125,North Barr Avenue,Oklahoma City,Oklahoma,73122,"4125 North Barr Avenue Oklahoma City, Oklahoma 73122",True
+413 SE 25TH ST OK,413,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"413 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+4136 SW 134TH ST OK,4101,Southwest 134th Street,Oklahoma City,Oklahoma,73173,"4101 Southwest 134th Street Oklahoma City, Oklahoma 73173",False
+417 NE 115TH ST OK,417,Northeast 115th Street,Oklahoma City,Oklahoma,73114,"417 Northeast 115th Street Oklahoma City, Oklahoma 73114",True
+420 SE 26TH ST OK,420,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"420 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+420 SE 27TH ST OK,420,Southeast 27th Street,El Reno,Oklahoma,73036,"420 Southeast 27th Street El Reno, Oklahoma 73036",True
+4200 NE 19TH ST OK,4200,Northeast 19th Street,Oklahoma City,Oklahoma,73121,"4200 Northeast 19th Street Oklahoma City, Oklahoma 73121",True
+3847 NW 19TH ST OK,House number not found,Northwest 19th Street,Oklahoma City,Oklahoma,73127,"House number not found Northwest 19th Street Oklahoma City, Oklahoma 73127",False
+3920 NW 8TH ST OK,3920,Northwest 8th Street,Oklahoma City,Oklahoma,73107,"3920 Northwest 8th Street Oklahoma City, Oklahoma 73107",True
+3921 NW 30TH ST OK,3921,Northwest 30th Street,Oklahoma City,Oklahoma,73112,"3921 Northwest 30th Street Oklahoma City, Oklahoma 73112",True
+3929 NW 18TH ST OK,3929,Northwest 18th Street,Oklahoma City,Oklahoma,73107,"3929 Northwest 18th Street Oklahoma City, Oklahoma 73107",True
+3929 NW 33RD ST OK,3929,Northwest 33rd Street,Oklahoma City,Oklahoma,73112,"3929 Northwest 33rd Street Oklahoma City, Oklahoma 73112",True
+3944 SW 24TH ST OK,3944,Southwest 24th Street,Oklahoma City,Oklahoma,73108,"3944 Southwest 24th Street Oklahoma City, Oklahoma 73108",True
+4000 SW 24TH ST OK,4000,Southwest 24th Street,Oklahoma City,Oklahoma,73108,"4000 Southwest 24th Street Oklahoma City, Oklahoma 73108",True
+4000 SW 26TH ST OK,4000,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"4000 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+4001 N LINN AVE OK,4001,North Linn Avenue,Oklahoma City,Oklahoma,73112,"4001 North Linn Avenue Oklahoma City, Oklahoma 73112",True
+4001 NE 16TH ST OK,4003,Northeast 16th Street,Oklahoma City,Oklahoma,73117,"4003 Northeast 16th Street Oklahoma City, Oklahoma 73117",False
+4001 SE 45TH TER OK,4001,Southeast 45th Terrace,Oklahoma City,Oklahoma,73135,"4001 Southeast 45th Terrace Oklahoma City, Oklahoma 73135",True
+4029 NW 34TH ST OK,4029,Northwest 34th Street,Oklahoma City,Oklahoma,73112,"4029 Northwest 34th Street Oklahoma City, Oklahoma 73112",True
+4033 RANCHO DR OK,4033,Rancho Drive,Oklahoma City,Oklahoma,73119,"4033 Rancho Drive Oklahoma City, Oklahoma 73119",True
+406 SE 26TH ST OK,406,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"406 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+408 SW 44TH ST OK,401,Southwest 44th Street,Oklahoma City,Oklahoma,73109,"401 Southwest 44th Street Oklahoma City, Oklahoma 73109",False
+409 SW 27TH ST OK,409,Southwest 27th Street,El Reno,Oklahoma,73036,"409 Southwest 27th Street El Reno, Oklahoma 73036",True
+4100 S SHIELDS BLVD OK,House number not found,South Shields Boulevard,Oklahoma City,Oklahoma,73149,"House number not found South Shields Boulevard Oklahoma City, Oklahoma 73149",False
+3615 N LAND AVE OK,3615,North Land Avenue,Oklahoma City,Oklahoma,73112,"3615 North Land Avenue Oklahoma City, Oklahoma 73112",True
+3700 KEITH CT OK,3700,Keith Court,Oklahoma City,Oklahoma,73135,"3700 Keith Court Oklahoma City, Oklahoma 73135",True
+3700 S DOUGLAS BLVD OK,3700,South Douglas Boulevard,City not found,Oklahoma,73044,"3700 South Douglas Boulevard City not found, Oklahoma 73044",True
+3716 WINDS WEST CT OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+3724 WINDS WEST CT OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+3804 MANEY AVE OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+3808 SW 38TH ST OK,3808,Southwest 38th Street,Lawton,Oklahoma,73505,"3808 Southwest 38th Street Lawton, Oklahoma 73505",True
+3812 GERALDINE AVE OK,3812,North Geraldine Avenue,Oklahoma City,Oklahoma,73112,"3812 North Geraldine Avenue Oklahoma City, Oklahoma 73112",True
+3813 KEY PL OK,3813,Key Place,Oklahoma City,Oklahoma,73112,"3813 Key Place Oklahoma City, Oklahoma 73112",True
+3829 SW 39TH ST OK,3829,Southwest 39th Street,Oklahoma City,Oklahoma,73119,"3829 Southwest 39th Street Oklahoma City, Oklahoma 73119",True
+3832 NW 65TH ST OK,3832,Northwest 65th Street,Oklahoma City,Oklahoma,73116,"3832 Northwest 65th Street Oklahoma City, Oklahoma 73116",True
+3841 SW 27TH PL OK,3841,Southwest 27th Place,Oklahoma City,Oklahoma,73108,"3841 Southwest 27th Place Oklahoma City, Oklahoma 73108",True
+17 N MISSOURI AVE OK,1001,North Missouri Avenue,Claremore,Oklahoma,74017,"1001 North Missouri Avenue Claremore, Oklahoma 74017",False
+517 SE 34TH ST OK,517,Southeast 34th Street,Moore,Oklahoma,73160,"517 Southeast 34th Street Moore, Oklahoma 73160",True
+5201 BROOKDALE DR OK,5209,Brookdale Drive,Oklahoma City,Oklahoma,73135,"5209 Brookdale Drive Oklahoma City, Oklahoma 73135",False
+5201 SE 46TH ST OK,5201,Southeast 46th Street,Oklahoma City,Oklahoma,73135,"5201 Southeast 46th Street Oklahoma City, Oklahoma 73135",True
+524 SE 71ST ST OK,524,Southeast 71st Street,Oklahoma City,Oklahoma,73149,"524 Southeast 71st Street Oklahoma City, Oklahoma 73149",True
+527 SE 28TH ST OK,527,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"527 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+527 SE 34TH ST OK,527,Southeast 34th Street,Moore,Oklahoma,73160,"527 Southeast 34th Street Moore, Oklahoma 73160",True
+5300 S INDEPENDENCE AVE OK,5300,South Independence Avenue,Oklahoma City,Oklahoma,73119,"5300 South Independence Avenue Oklahoma City, Oklahoma 73119",True
+532 SE 33RD ST OK,532,Southeast 33rd Street,Oklahoma City,Oklahoma,73129,"532 Southeast 33rd Street Oklahoma City, Oklahoma 73129",True
+5321 SHALIMAR DR OK,5321,Shalimar Drive,Oklahoma City,Oklahoma,73135,"5321 Shalimar Drive Oklahoma City, Oklahoma 73135",True
+540 S CEMETERY RD OK,540,South Cemetery Road,Oklahoma City,Oklahoma,73099,"540 South Cemetery Road Oklahoma City, Oklahoma 73099",True
+541 SE 17TH ST OK,541,Southeast 17th Street,Pryor Creek,Oklahoma,74361,"541 Southeast 17th Street Pryor Creek, Oklahoma 74361",True
+448 SW 63RD PL OK,448,Southwest 63rd Place,Oklahoma City,Oklahoma,73139,"448 Southwest 63rd Place Oklahoma City, Oklahoma 73139",True
+4600 EASTMAN DR OK,4600,Eastman Drive,Oklahoma City,Oklahoma,73122,"4600 Eastman Drive Oklahoma City, Oklahoma 73122",True
+4612 N BARNES AVE OK,4612,North Barnes Avenue,Oklahoma City,Oklahoma,73112,"4612 North Barnes Avenue Oklahoma City, Oklahoma 73112",True
+4700 OAKWOOD LN OK,4700,Oakwood Lane,Oklahoma City,Oklahoma,73150,"4700 Oakwood Lane Oklahoma City, Oklahoma 73150",True
+4808 S WALKER AVE OK,4808,South Walker Avenue,Oklahoma City,Oklahoma,73109,"4808 South Walker Avenue Oklahoma City, Oklahoma 73109",True
+4912 WASHINGTON SQ OK,4517,Southeast 48th Street,Oklahoma City,Oklahoma,73135,"4517 Southeast 48th Street Oklahoma City, Oklahoma 73135",False
+4917 NW 57TH ST OK,4917,Northwest 57th Street,Oklahoma City,Oklahoma,73122,"4917 Northwest 57th Street Oklahoma City, Oklahoma 73122",True
+5 SW 64TH TER OK,5,Southwest 64th Terrace,Oklahoma City,Oklahoma,73139,"5 Southwest 64th Terrace Oklahoma City, Oklahoma 73139",True
+500 SE 71ST ST OK,500,Southeast 71st Street,Oklahoma City,Oklahoma,73149,"500 Southeast 71st Street Oklahoma City, Oklahoma 73149",True
+501 N SWEETGUM AVE OK,501,North Sweetgum Avenue,Oklahoma City,Oklahoma,73127,"501 North Sweetgum Avenue Oklahoma City, Oklahoma 73127",True
+5016 BROOKDALE DR OK,5016,Brookdale Drive,Oklahoma City,Oklahoma,73135,"5016 Brookdale Drive Oklahoma City, Oklahoma 73135",True
+507 SE 34TH ST OK,507,Southeast 34th Street,Moore,Oklahoma,73160,"507 Southeast 34th Street Moore, Oklahoma 73160",True
+508 SE 33RD ST OK,508,Southeast 33rd Street,Oklahoma City,Oklahoma,73129,"508 Southeast 33rd Street Oklahoma City, Oklahoma 73129",True
+508 SW 158TH TER OK,508,Southwest 158th Terrace,Oklahoma City,Oklahoma,73170,"508 Southwest 158th Terrace Oklahoma City, Oklahoma 73170",True
+509 SKYLARK DR OK,509,Skylark Drive,Oklahoma City,Oklahoma,73127,"509 Skylark Drive Oklahoma City, Oklahoma 73127",True
+5101 SW 123RD ST OK,5101,Southwest 123rd Street,Oklahoma City,Oklahoma,73173,"5101 Southwest 123rd Street Oklahoma City, Oklahoma 73173",True
+5116 BRIARWOOD DR OK,5116,South Briarwood Drive,Oklahoma City,Oklahoma,73135,"5116 South Briarwood Drive Oklahoma City, Oklahoma 73135",True
+4209 NW 15TH ST OK,4209,Northwest 15th Street,Oklahoma City,Oklahoma,73107,"4209 Northwest 15th Street Oklahoma City, Oklahoma 73107",True
+4210 LAVERNE AVE OK,4210,Laverne Avenue,Oklahoma City,Oklahoma,73135,"4210 Laverne Avenue Oklahoma City, Oklahoma 73135",True
+4224 SE 47TH ST OK,4224,Southeast 47th Street,Oklahoma City,Oklahoma,73135,"4224 Southeast 47th Street Oklahoma City, Oklahoma 73135",True
+4301 N ANDERSON RD OK,4301,North Anderson Road,City not found,Oklahoma,73044,"4301 North Anderson Road City not found, Oklahoma 73044",True
+4311 N MCKINLEY AVE OK,4311,North McKinley Avenue,Oklahoma City,Oklahoma,73118,"4311 North McKinley Avenue Oklahoma City, Oklahoma 73118",True
+4317 SE 49TH TER OK,4317,Southeast 49th Terrace,Oklahoma City,Oklahoma,73135,"4317 Southeast 49th Terrace Oklahoma City, Oklahoma 73135",True
+4325 NW 55TH ST OK,4325,Northwest 55th Street,Oklahoma City,Oklahoma,73112,"4325 Northwest 55th Street Oklahoma City, Oklahoma 73112",True
+444 NW 86TH ST OK,444,Northwest 86th Street,Oklahoma City,Oklahoma,73114,"444 Northwest 86th Street Oklahoma City, Oklahoma 73114",True
+612 NW 54TH ST OK,612,Northwest 54th Street,Oklahoma City,Oklahoma,73118,"612 Northwest 54th Street Oklahoma City, Oklahoma 73118",True
+6126 GAELIC GLEN DR OK,6126,Gaelic Glen Drive,Oklahoma City,Oklahoma,73142,"6126 Gaelic Glen Drive Oklahoma City, Oklahoma 73142",True
+6212 N UTAH AVE OK,6212,North Utah Avenue,Oklahoma City,Oklahoma,73112,"6212 North Utah Avenue Oklahoma City, Oklahoma 73112",True
+625 SE 72ND ST OK,625,Southeast 72nd Street,Oklahoma City,Oklahoma,73149,"625 Southeast 72nd Street Oklahoma City, Oklahoma 73149",True
+629 SE 73RD ST OK,629,Southeast 73rd Street,Oklahoma City,Oklahoma,73149,"629 Southeast 73rd Street Oklahoma City, Oklahoma 73149",True
+630 SW 30TH ST OK,630,Southwest 30th Street,Oklahoma City,Oklahoma,73109,"630 Southwest 30th Street Oklahoma City, Oklahoma 73109",True
+6308 JOHNNIE TER OK,6308,Johnnie Terrace,Oklahoma City,Oklahoma,73149,"6308 Johnnie Terrace Oklahoma City, Oklahoma 73149",True
+633 SE 28TH ST OK,633,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"633 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+6416 N PROSPECT AVE OK,6416,North Prospect Avenue,Oklahoma City,Oklahoma,73111,"6416 North Prospect Avenue Oklahoma City, Oklahoma 73111",True
+6515 NW 11TH ST OK,6515,Northwest 11th Street,Oklahoma City,Oklahoma,73127,"6515 Northwest 11th Street Oklahoma City, Oklahoma 73127",True
+6516 NW 130TH ST OK,6516,Northwest 130th Street,Oklahoma City,Oklahoma,73142,"6516 Northwest 130th Street Oklahoma City, Oklahoma 73142",True
+6808 NW 136TH PL OK,6857,Northwest 136th Place,Oklahoma City,Oklahoma,73142,"6857 Northwest 136th Place Oklahoma City, Oklahoma 73142",False
+7003 SPINNAKER LN OK,7003,Spinnaker Lane,Oklahoma City,Oklahoma,73116,"7003 Spinnaker Lane Oklahoma City, Oklahoma 73116",True
+7024 S LINN AVE OK,7024,South Linn Avenue,Oklahoma City,Oklahoma,73159,"7024 South Linn Avenue Oklahoma City, Oklahoma 73159",True
+703 SE 28TH ST OK,703,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"703 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+709 NW 99TH ST OK,709,Northwest 99th Street,Oklahoma City,Oklahoma,73114,"709 Northwest 99th Street Oklahoma City, Oklahoma 73114",True
+5612 SE 86TH ST OK,5612,Southeast 86th Street,Oklahoma City,Oklahoma,73135,"5612 Southeast 86th Street Oklahoma City, Oklahoma 73135",True
+5830 EGGLESTON AVE OK,5830,South Eggleston Avenue,Oklahoma City,Oklahoma,73109,"5830 South Eggleston Avenue Oklahoma City, Oklahoma 73109",True
+5916 SW 22ND ST OK,5916,Southwest 22nd Street,Oklahoma City,Oklahoma,73128,"5916 Southwest 22nd Street Oklahoma City, Oklahoma 73128",True
+5924 SE 66TH ST OK,5924,Southeast 66th Street,Oklahoma City,Oklahoma,73135,"5924 Southeast 66th Street Oklahoma City, Oklahoma 73135",True
+5925 SE 68TH ST OK,5925,Southeast 68th Street,Oklahoma City,Oklahoma,73135,"5925 Southeast 68th Street Oklahoma City, Oklahoma 73135",True
+5937 SE 68TH ST OK,5937,Southeast 68th Street,Oklahoma City,Oklahoma,73135,"5937 Southeast 68th Street Oklahoma City, Oklahoma 73135",True
+600 NW 43RD ST OK,600,Northwest 43rd Street,Oklahoma City,Oklahoma,73118,"600 Northwest 43rd Street Oklahoma City, Oklahoma 73118",True
+600 NW 8TH ST OK,600,Northwest 8th Street,City not found,Oklahoma,74426,"600 Northwest 8th Street City not found, Oklahoma 74426",True
+6000 S POST RD OK,6000,South Post Road,Oklahoma City,Oklahoma,73150,"6000 South Post Road Oklahoma City, Oklahoma 73150",True
+6003 FOX RUN WAY OK,6003,Fox Run Way,Oklahoma City,Oklahoma,73142,"6003 Fox Run Way Oklahoma City, Oklahoma 73142",True
+6008 S COUNTRY CLUB DR OK,6501,South Country Club Drive,Oklahoma City,Oklahoma,73159,"6501 South Country Club Drive Oklahoma City, Oklahoma 73159",False
+6032 NW 23RD ST OK,6010,Northwest 23rd Street,Oklahoma City,Oklahoma,73127,"6010 Northwest 23rd Street Oklahoma City, Oklahoma 73127",False
+606 NW 8TH ST OK,606,Northwest 8th Street,City not found,Oklahoma,74426,"606 Northwest 8th Street City not found, Oklahoma 74426",True
+609 SE 27TH ST OK,609,Southeast 27th Street,El Reno,Oklahoma,73036,"609 Southeast 27th Street El Reno, Oklahoma 73036",True
+6100 GAELIC GLEN DR OK,6100,Gaelic Glen Drive,Oklahoma City,Oklahoma,73142,"6100 Gaelic Glen Drive Oklahoma City, Oklahoma 73142",True
+6107 HILLCREST DR OK,6107,South Hillcrest Drive,Oklahoma City,Oklahoma,73159,"6107 South Hillcrest Drive Oklahoma City, Oklahoma 73159",True
+6117 N VERMONT AVE OK,6117,North Vermont Avenue,Oklahoma City,Oklahoma,73112,"6117 North Vermont Avenue Oklahoma City, Oklahoma 73112",True
+541 SE 34TH ST OK,541,Southeast 34th Street,Moore,Oklahoma,73160,"541 Southeast 34th Street Moore, Oklahoma 73160",True
+5417 NW 16TH ST OK,5417,Northwest 16th Street,Oklahoma City,Oklahoma,73127,"5417 Northwest 16th Street Oklahoma City, Oklahoma 73127",True
+546 W HILL ST OK,546,West Hill Street,Oklahoma City,Oklahoma,73118,"546 West Hill Street Oklahoma City, Oklahoma 73118",True
+5500 HARRIS ST OK,5500,North Harris Street,Oklahoma City,Oklahoma,73084,"5500 North Harris Street Oklahoma City, Oklahoma 73084",True
+5502 S SHIELDS BLVD OK,House number not found,South Shields Boulevard,Oklahoma City,Oklahoma,73149,"House number not found South Shields Boulevard Oklahoma City, Oklahoma 73149",False
+8420 NW 111TH ST OK,8420,Northwest 111th Street,Oklahoma City,Oklahoma,73162,"8420 Northwest 111th Street Oklahoma City, Oklahoma 73162",True
+8500 S CAMAY AVE OK,8500,South Camay Avenue,Oklahoma City,Oklahoma,73159,"8500 South Camay Avenue Oklahoma City, Oklahoma 73159",True
+8605 RAMBLING RD OK,8600,Northwest 85th Place,Oklahoma City,Oklahoma,73132,"8600 Northwest 85th Place Oklahoma City, Oklahoma 73132",False
+807 N DEWEY AVE OK,807,North Dewey Avenue,Oklahoma City,Oklahoma,73102,"807 North Dewey Avenue Oklahoma City, Oklahoma 73102",True
+809 SE 68TH ST OK,809,Southeast 68th Street,Oklahoma City,Oklahoma,73149,"809 Southeast 68th Street Oklahoma City, Oklahoma 73149",True
+811 N DEWEY AVE OK,811,North Dewey Avenue,Oklahoma City,Oklahoma,73102,"811 North Dewey Avenue Oklahoma City, Oklahoma 73102",True
+813 SW 48TH ST OK,813,Southwest 48th Street,Oklahoma City,Oklahoma,73109,"813 Southwest 48th Street Oklahoma City, Oklahoma 73109",True
+8137 NW 20TH TER OK,8137,Northwest 20th Terrace,Oklahoma City,Oklahoma,73127,"8137 Northwest 20th Terrace Oklahoma City, Oklahoma 73127",True
+817 SE 62ND ST OK,817,Southeast 62nd Street,Oklahoma City,Oklahoma,73149,"817 Southeast 62nd Street Oklahoma City, Oklahoma 73149",True
+828 NE 31ST ST OK,828,Northeast 31st Street,Oklahoma City,Oklahoma,73105,"828 Northeast 31st Street Oklahoma City, Oklahoma 73105",True
+8302 S BROOKLINE PL OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+8305 BREEZEWOOD DR OK,8305,Breezewood Drive,Oklahoma City,Oklahoma,73135,"8305 Breezewood Drive Oklahoma City, Oklahoma 73135",True
+8305 S BROOKLINE AVE OK,8305,South Brookline Avenue,Oklahoma City,Oklahoma,73159,"8305 South Brookline Avenue Oklahoma City, Oklahoma 73159",True
+831 NE 63RD ST OK,831,Northeast 63rd Street,Oklahoma City,Oklahoma,73105,"831 Northeast 63rd Street Oklahoma City, Oklahoma 73105",True
+8337 SW 35TH ST OK,8337,Southwest 35th Street,Oklahoma City,Oklahoma,73179,"8337 Southwest 35th Street Oklahoma City, Oklahoma 73179",True
+835 NW 114TH ST OK,835,Northwest 114th Street,Oklahoma City,Oklahoma,73114,"835 Northwest 114th Street Oklahoma City, Oklahoma 73114",True
+837 SW 48TH ST OK,837,Southwest 48th Street,Oklahoma City,Oklahoma,73109,"837 Southwest 48th Street Oklahoma City, Oklahoma 73109",True
+839 NW 114TH ST OK,839,Northwest 114th Street,Oklahoma City,Oklahoma,73114,"839 Northwest 114th Street Oklahoma City, Oklahoma 73114",True
+8409 NW 106TH ST OK,8409,Northwest 106th Street,Oklahoma City,Oklahoma,73162,"8409 Northwest 106th Street Oklahoma City, Oklahoma 73162",True
+841 NE 26TH ST OK,841,Northeast 26th Street,Oklahoma City,Oklahoma,73105,"841 Northeast 26th Street Oklahoma City, Oklahoma 73105",True
+711 NW 32ND ST OK,711,Northwest 32nd Street,Lawton,Oklahoma,73505,"711 Northwest 32nd Street Lawton, Oklahoma 73505",True
+715 NW 99TH ST OK,715,Northwest 99th Street,Oklahoma City,Oklahoma,73114,"715 Northwest 99th Street Oklahoma City, Oklahoma 73114",True
+724 SE 27TH ST OK,724,Southeast 27th Street,El Reno,Oklahoma,73036,"724 Southeast 27th Street El Reno, Oklahoma 73036",True
+7305 KINGS RIDGE RD OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+732 WATERVIEW RD OK,732,Waterview Road,Oklahoma City,Oklahoma,73170,"732 Waterview Road Oklahoma City, Oklahoma 73170",True
+741 SW 48TH ST OK,741,Southwest 48th Street,Oklahoma City,Oklahoma,73109,"741 Southwest 48th Street Oklahoma City, Oklahoma 73109",True
+7416 S BROOKLINE AVE OK,7416,South Brookline Avenue,Oklahoma City,Oklahoma,73159,"7416 South Brookline Avenue Oklahoma City, Oklahoma 73159",True
+7416 S DREXEL AVE OK,7416,South Drexel Avenue,Oklahoma City,Oklahoma,73159,"7416 South Drexel Avenue Oklahoma City, Oklahoma 73159",True
+7737 NW 136TH TER OK,7737,Northwest 136th Terrace,Oklahoma City,Oklahoma,73142,"7737 Northwest 136th Terrace Oklahoma City, Oklahoma 73142",True
+7809 FRYE LN OK,7809,Frye Lane,Oklahoma City,Oklahoma,73135,"7809 Frye Lane Oklahoma City, Oklahoma 73135",True
+7905 HARVEST MOON RD OK,7905,Harvest Moon Road,Oklahoma City,Oklahoma,73132,"7905 Harvest Moon Road Oklahoma City, Oklahoma 73132",True
+800 SW 50TH ST OK,800,Southwest 50th Street,Lawton,Oklahoma,73505,"800 Southwest 50th Street Lawton, Oklahoma 73505",True
+8016 AZUREWOOD DR OK,8016,Azurewood Drive,Oklahoma City,Oklahoma,73135,"8016 Azurewood Drive Oklahoma City, Oklahoma 73135",True
+8027 NW 104TH ST OK,8027,Northwest 104th Street,Oklahoma City,Oklahoma,73162,"8027 Northwest 104th Street Oklahoma City, Oklahoma 73162",True
+8029 NW 104TH ST OK,8029,Northwest 104th Street,Oklahoma City,Oklahoma,73162,"8029 Northwest 104th Street Oklahoma City, Oklahoma 73162",True
+8033 NW 104TH ST OK,8033,Northwest 104th Street,Oklahoma City,Oklahoma,73162,"8033 Northwest 104th Street Oklahoma City, Oklahoma 73162",True
+8033 NW 19TH ST OK,8033,Northwest 19th Street,Oklahoma City,Oklahoma,73127,"8033 Northwest 19th Street Oklahoma City, Oklahoma 73127",True
+7100 N DREXEL BLVD OK,7100,North Drexel Boulevard,Oklahoma City,Oklahoma,73116,"7100 North Drexel Boulevard Oklahoma City, Oklahoma 73116",True
+1144 WINDEMERE AVE OK,House number not found,Windemere Avenue,Oklahoma City,Oklahoma,73117,"House number not found Windemere Avenue Oklahoma City, Oklahoma 73117",False
+1145 BELLEVIDERE DR OK,1145,Bellevidere Drive,Oklahoma City,Oklahoma,73117,"1145 Bellevidere Drive Oklahoma City, Oklahoma 73117",True
+11613 N MILLER AVE OK,11613,North Miller Avenue,Oklahoma City,Oklahoma,73120,"11613 North Miller Avenue Oklahoma City, Oklahoma 73120",True
+11701 VICTORIA PL OK,11701,Victoria Place,Oklahoma City,Oklahoma,73120,"11701 Victoria Place Oklahoma City, Oklahoma 73120",True
+11820 S DOUGLAS AVE OK,11820,South Douglas Avenue,Oklahoma City,Oklahoma,73170,"11820 South Douglas Avenue Oklahoma City, Oklahoma 73170",True
+1201 N TULSA AVE OK,1201,North Tulsa Avenue,Oklahoma City,Oklahoma,73107,"1201 North Tulsa Avenue Oklahoma City, Oklahoma 73107",True
+12120 MOON BEAM DR OK,12120,Moon Beam Drive,Oklahoma City,Oklahoma,73162,"12120 Moon Beam Drive Oklahoma City, Oklahoma 73162",True
+932 SW 51ST ST OK,932,Southwest 51st Street,Oklahoma City,Oklahoma,73109,"932 Southwest 51st Street Oklahoma City, Oklahoma 73109",True
+941 NE 28TH ST OK,941,Northeast 28th Street,Oklahoma City,Oklahoma,73105,"941 Northeast 28th Street Oklahoma City, Oklahoma 73105",True
+944 NE 20TH ST OK,944,Northeast 20th Street,Oklahoma City,Oklahoma,73105,"944 Northeast 20th Street Oklahoma City, Oklahoma 73105",True
+945 NE 31ST ST OK,945,Northeast 31st Street,Oklahoma City,Oklahoma,73105,"945 Northeast 31st Street Oklahoma City, Oklahoma 73105",True
+945 SE 11TH ST OK,House number not found,South Laird Avenue,Oklahoma City,Oklahoma,73129,"House number not found South Laird Avenue Oklahoma City, Oklahoma 73129",False
+9755 SW 44TH ST OK,9755,Southwest 44th Street,Oklahoma City,Oklahoma,73099,"9755 Southwest 44th Street Oklahoma City, Oklahoma 73099",True
+9929 N SHARTEL AVE OK,9929,North Shartel Avenue,Oklahoma City,Oklahoma,73114,"9929 North Shartel Avenue Oklahoma City, Oklahoma 73114",True
+215 NW 22ND ST OK,215,Northwest 22nd Street,Oklahoma City,Oklahoma,73103,"215 Northwest 22nd Street Oklahoma City, Oklahoma 73103",True
+401 NW 21ST ST OK,1950,Northwest 21st Street,Guymon,Oklahoma,73942,"1950 Northwest 21st Street Guymon, Oklahoma 73942",False
+1001 CEDARDALE DR OK,1001,North Cedardale Drive,Oklahoma City,Oklahoma,73127,"1001 North Cedardale Drive Oklahoma City, Oklahoma 73127",True
+1017 SW 25TH ST OK,1017,Southwest 25th Street,Lawton,Oklahoma,73505,"1017 Southwest 25th Street Lawton, Oklahoma 73505",True
+10327 S HARVEY AVE OK,10327,South Harvey Avenue,Oklahoma City,Oklahoma,73139,"10327 South Harvey Avenue Oklahoma City, Oklahoma 73139",True
+10625 SW 30TH ST OK,House number not found,Street not found,Oklahoma City,Oklahoma,73064,"House number not found Street not found Oklahoma City, Oklahoma 73064",False
+10717 DOROTHY DR OK,10717,Dorothy Drive,Oklahoma City,Oklahoma,73162,"10717 Dorothy Drive Oklahoma City, Oklahoma 73162",True
+109 SW 98TH ST OK,109,Southwest 98th Street,Oklahoma City,Oklahoma,73139,"109 Southwest 98th Street Oklahoma City, Oklahoma 73139",True
+1109 BELLEVIDERE DR OK,1109,Bellevidere Drive,Oklahoma City,Oklahoma,73117,"1109 Bellevidere Drive Oklahoma City, Oklahoma 73117",True
+1125 SW 47TH ST OK,1125,Southwest 47th Street,Oklahoma City,Oklahoma,73109,"1125 Southwest 47th Street Oklahoma City, Oklahoma 73109",True
+8610 S BROOKLINE AVE OK,House number not found,South Brookline Avenue,Oklahoma City,Oklahoma,73159,"House number not found South Brookline Avenue Oklahoma City, Oklahoma 73159",False
+8713 MUZNY LN OK,8713,Muzny Lane,Oklahoma City,Oklahoma,73135,"8713 Muzny Lane Oklahoma City, Oklahoma 73135",True
+8804 S FAIRVIEW DR OK,8804,South Fairview Drive,Oklahoma City,Oklahoma,73159,"8804 South Fairview Drive Oklahoma City, Oklahoma 73159",True
+8820 S CHARLOTTE DR OK,8820,South Charlotte Drive,Oklahoma City,Oklahoma,73159,"8820 South Charlotte Drive Oklahoma City, Oklahoma 73159",True
+884 NW 115TH ST OK,3500,Northwest 115th Street,Oklahoma City,Oklahoma,73120,"3500 Northwest 115th Street Oklahoma City, Oklahoma 73120",False
+888 NW 115TH ST OK,3500,Northwest 115th Street,Oklahoma City,Oklahoma,73120,"3500 Northwest 115th Street Oklahoma City, Oklahoma 73120",False
+8936 TILMAN DR OK,8936,Tilman Drive,Oklahoma City,Oklahoma,73132,"8936 Tilman Drive Oklahoma City, Oklahoma 73132",True
+9 SW 57TH ST OK,9,Southwest 57th Street,Oklahoma City,Oklahoma,73109,"9 Southwest 57th Street Oklahoma City, Oklahoma 73109",True
+913 NW 89TH ST OK,913,Northwest 89th Street,Oklahoma City,Oklahoma,73114,"913 Northwest 89th Street Oklahoma City, Oklahoma 73114",True
+918 NE 6TH ST OK,918,Northeast 6th Street,Wagoner,Oklahoma,74467,"918 Northeast 6th Street Wagoner, Oklahoma 74467",True
+921 SW 49TH ST OK,921,Southwest 49th Street,Lawton,Oklahoma,73505,"921 Southwest 49th Street Lawton, Oklahoma 73505",True
+9215 S SANTA FE AVE OK,9215,South Santa Fe Avenue,Oklahoma City,Oklahoma,73139,"9215 South Santa Fe Avenue Oklahoma City, Oklahoma 73139",True
+9304 TAGGERT LN OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+9308 TAGGERT LN OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+2322 SW 49TH ST OK,2322,Southwest 49th Street,Oklahoma City,Oklahoma,73119,"2322 Southwest 49th Street Oklahoma City, Oklahoma 73119",True
+2414 S BROADWAY AVE OK,2414,South Broadway Avenue,Oklahoma City,Oklahoma,73109,"2414 South Broadway Avenue Oklahoma City, Oklahoma 73109",True
+2421 NW 50TH ST OK,2333,Northwest 50th Street,Oklahoma City,Oklahoma,73112,"2333 Northwest 50th Street Oklahoma City, Oklahoma 73112",False
+2446 SE 10TH ST OK,2446,Southeast 10th Street,Oklahoma City,Oklahoma,73129,"2446 Southeast 10th Street Oklahoma City, Oklahoma 73129",True
+2512 SW 125TH ST OK,2512,Southwest 125th Street,Oklahoma City,Oklahoma,73170,"2512 Southwest 125th Street Oklahoma City, Oklahoma 73170",True
+2625 NW 115TH ST OK,2625,Northwest 115th Street,Oklahoma City,Oklahoma,73120,"2625 Northwest 115th Street Oklahoma City, Oklahoma 73120",True
+2632 NW 113TH ST OK,2632,Northwest 113th Street,Oklahoma City,Oklahoma,73120,"2632 Northwest 113th Street Oklahoma City, Oklahoma 73120",True
+2636 EL TORO DR OK,2636,El Toro Drive,Oklahoma City,Oklahoma,73129,"2636 El Toro Drive Oklahoma City, Oklahoma 73129",True
+2713 NW 115TH ST OK,2713,Northwest 115th Street,Oklahoma City,Oklahoma,73120,"2713 Northwest 115th Street Oklahoma City, Oklahoma 73120",True
+2716 BLUE QUAIL PASS OK,2716,Blue Quail Pass,Oklahoma City,Oklahoma,73013,"2716 Blue Quail Pass Oklahoma City, Oklahoma 73013",True
+2716 NW 109TH ST OK,2716,Northwest 109th Street,Oklahoma City,Oklahoma,73120,"2716 Northwest 109th Street Oklahoma City, Oklahoma 73120",True
+1536 SW 26TH ST OK,1536,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"1536 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+15417 CAMELLIA RD OK,15417,Camellia Road,Oklahoma City,Oklahoma,73170,"15417 Camellia Road Oklahoma City, Oklahoma 73170",True
+1609 BROADVIEW CIR OK,1609,Broadview Circle,Oklahoma City,Oklahoma,73127,"1609 Broadview Circle Oklahoma City, Oklahoma 73127",True
+1625 COUNTRY PLACE RD OK,1625,Country Place Road,Oklahoma City,Oklahoma,73131,"1625 Country Place Road Oklahoma City, Oklahoma 73131",True
+1628 NW 43RD ST OK,1628,Northwest 43rd Street,Lawton,Oklahoma,73505,"1628 Northwest 43rd Street Lawton, Oklahoma 73505",True
+17616 BRASS DR OK,17616,Brass Drive,Oklahoma City,Oklahoma,73012,"17616 Brass Drive Oklahoma City, Oklahoma 73012",True
+1810 N JORDAN AVE OK,1810,North Jordan Avenue,Oklahoma City,Oklahoma,73111,"1810 North Jordan Avenue Oklahoma City, Oklahoma 73111",True
+1812 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1816 NE 55TH ST OK,1816,Northeast 55th Street,Oklahoma City,Oklahoma,73111,"1816 Northeast 55th Street Oklahoma City, Oklahoma 73111",True
+1905 NW 40TH ST OK,1905,Northwest 40th Street,Lawton,Oklahoma,73505,"1905 Northwest 40th Street Lawton, Oklahoma 73505",True
+1908 NW 37TH ST OK,1908,Northwest 37th Street,Oklahoma City,Oklahoma,73118,"1908 Northwest 37th Street Oklahoma City, Oklahoma 73118",True
+19250 N INDIAN MERIDIAN OK,19250,North Indian Meridian Road,Oklahoma City,Oklahoma,73054,"19250 North Indian Meridian Road Oklahoma City, Oklahoma 73054",True
+201 SE 25TH ST OK,201,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"201 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+2100 SW 63RD ST OK,2100,Southwest 63rd Street,Oklahoma City,Oklahoma,73159,"2100 Southwest 63rd Street Oklahoma City, Oklahoma 73159",True
+2204 NW 26TH ST OK,2204,Northwest 26th Street,Lawton,Oklahoma,73505,"2204 Northwest 26th Street Lawton, Oklahoma 73505",True
+2204 SE 11TH ST OK,2204,Southeast 11th Street,Oklahoma City,Oklahoma,73129,"2204 Southeast 11th Street Oklahoma City, Oklahoma 73129",True
+221 SE 26TH ST OK,221,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"221 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+1232 NW 44TH ST OK,1232,Northwest 44th Street,Oklahoma City,Oklahoma,73118,"1232 Northwest 44th Street Oklahoma City, Oklahoma 73118",True
+12406 SW 14TH ST OK,12406,Southwest 14th Street,Oklahoma City,Oklahoma,73099,"12406 Southwest 14th Street Oklahoma City, Oklahoma 73099",True
+12406 SW 15TH TER OK,12406,Southwest 15th Terrace,Oklahoma City,Oklahoma,73099,"12406 Southwest 15th Terrace Oklahoma City, Oklahoma 73099",True
+1255 WINDEMERE AVE OK,House number not found,Windemere Avenue,Oklahoma City,Oklahoma,73117,"House number not found Windemere Avenue Oklahoma City, Oklahoma 73117",False
+12708 NW 137TH ST OK,House number not found,Northwest 137th Street,Oklahoma City,Oklahoma,73078,"House number not found Northwest 137th Street Oklahoma City, Oklahoma 73078",False
+12925 NE 48TH ST OK,12925,Northeast 48th Street,Oklahoma City,Oklahoma,73084,"12925 Northeast 48th Street Oklahoma City, Oklahoma 73084",True
+1322 SE 40TH ST OK,1322,Southeast 40th Street,Oklahoma City,Oklahoma,73129,"1322 Southeast 40th Street Oklahoma City, Oklahoma 73129",True
+137 SE 25TH ST OK,137,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"137 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+14108 CADORNA STRADA OK,14108,Cadorna Strada,Oklahoma City,Oklahoma,73170,"14108 Cadorna Strada Oklahoma City, Oklahoma 73170",True
+14408 HARLI LN OK,14408,Harli Lane,Oklahoma City,Oklahoma,73170,"14408 Harli Lane Oklahoma City, Oklahoma 73170",True
+3513 WINDSOR AVE OK,3513,North Windsor Avenue,Oklahoma City,Oklahoma,73122,"3513 North Windsor Avenue Oklahoma City, Oklahoma 73122",True
+3520 S QUAPAH AVE OK,3520,South Quapah Avenue,Oklahoma City,Oklahoma,73119,"3520 South Quapah Avenue Oklahoma City, Oklahoma 73119",True
+3604 NW 24TH ST OK,3604,Northwest 24th Street,Oklahoma City,Oklahoma,73107,"3604 Northwest 24th Street Oklahoma City, Oklahoma 73107",True
+3605 SW 42ND ST OK,3605,Southwest 42nd Street,Oklahoma City,Oklahoma,73119,"3605 Southwest 42nd Street Oklahoma City, Oklahoma 73119",True
+3701 NW 60TH ST OK,3701,Northwest 60th Street,Oklahoma City,Oklahoma,73112,"3701 Northwest 60th Street Oklahoma City, Oklahoma 73112",True
+3728 SW 26TH ST OK,3728,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"3728 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+3832 SW 27TH ST OK,3832,Southwest 27th Street,Oklahoma City,Oklahoma,73108,"3832 Southwest 27th Street Oklahoma City, Oklahoma 73108",True
+4025 NW 57TH ST OK,4025,Northwest 57th Street,Oklahoma City,Oklahoma,73112,"4025 Northwest 57th Street Oklahoma City, Oklahoma 73112",True
+4044 NW 11TH ST OK,4044,Northwest 11th Street,Oklahoma City,Oklahoma,73107,"4044 Northwest 11th Street Oklahoma City, Oklahoma 73107",True
+408 SE 27TH ST OK,408,Southeast 27th Street,El Reno,Oklahoma,73036,"408 Southeast 27th Street El Reno, Oklahoma 73036",True
+412 NORTON CIR OK,412,Norton Circle,Oklahoma City,Oklahoma,73099,"412 Norton Circle Oklahoma City, Oklahoma 73099",True
+413 SE 26TH ST OK,413,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"413 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+4136 NW 13TH ST OK,4136,Northwest 13th Street,Oklahoma City,Oklahoma,73107,"4136 Northwest 13th Street Oklahoma City, Oklahoma 73107",True
+4140 N LIBBY AVE OK,4140,North Libby Avenue,Oklahoma City,Oklahoma,73122,"4140 North Libby Avenue Oklahoma City, Oklahoma 73122",True
+426 SE 25TH ST OK,426,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"426 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+2940 SW 51ST ST OK,House number not found,Southwest 51st Street,Oklahoma City,Oklahoma,73119,"House number not found Southwest 51st Street Oklahoma City, Oklahoma 73119",False
+3001 NW 19TH ST OK,3001,Northwest 19th Street,Oklahoma City,Oklahoma,73107,"3001 Northwest 19th Street Oklahoma City, Oklahoma 73107",True
+3009 NW 11TH ST OK,3009,Northwest 11th Street,Oklahoma City,Oklahoma,73107,"3009 Northwest 11th Street Oklahoma City, Oklahoma 73107",True
+3025 SW 64TH ST OK,3025,Southwest 64th Street,Oklahoma City,Oklahoma,73159,"3025 Southwest 64th Street Oklahoma City, Oklahoma 73159",True
+3028 NW 46TH ST OK,3028,Northwest 46th Street,Oklahoma City,Oklahoma,73112,"3028 Northwest 46th Street Oklahoma City, Oklahoma 73112",True
+3101 S CLEGERN AVE OK,100,South Clegern Avenue,Oklahoma City,Oklahoma,73106,"100 South Clegern Avenue Oklahoma City, Oklahoma 73106",False
+3109 NW 31ST ST OK,3109,Northwest 31st Street,Oklahoma City,Oklahoma,73112,"3109 Northwest 31st Street Oklahoma City, Oklahoma 73112",True
+3205 NE 13TH ST OK,3205,Northeast 13th Street,Oklahoma City,Oklahoma,73117,"3205 Northeast 13th Street Oklahoma City, Oklahoma 73117",True
+3209 SE 54TH ST OK,3209,Southeast 54th Street,Oklahoma City,Oklahoma,73135,"3209 Southeast 54th Street Oklahoma City, Oklahoma 73135",True
+3212 SE 56TH ST OK,3212,Southeast 56th Street,Oklahoma City,Oklahoma,73135,"3212 Southeast 56th Street Oklahoma City, Oklahoma 73135",True
+3220 SE 54TH ST OK,3220,Southeast 54th Street,Oklahoma City,Oklahoma,73135,"3220 Southeast 54th Street Oklahoma City, Oklahoma 73135",True
+325 SW 34TH ST OK,325,Southwest 34th Street,Moore,Oklahoma,73160,"325 Southwest 34th Street Moore, Oklahoma 73160",True
+3261 SW 99TH ST OK,3261,Southwest 99th Street,Oklahoma City,Oklahoma,73159,"3261 Southwest 99th Street Oklahoma City, Oklahoma 73159",True
+3310 S LIBERTY AVE OK,3310,South Liberty Avenue,Oklahoma City,Oklahoma,73119,"3310 South Liberty Avenue Oklahoma City, Oklahoma 73119",True
+332 SE 44TH ST OK,332,Southeast 44th Street,Oklahoma City,Oklahoma,73129,"332 Southeast 44th Street Oklahoma City, Oklahoma 73129",True
+334 SE 28TH ST OK,334,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"334 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+3421 N UTAH AVE OK,3421,North Utah Avenue,Oklahoma City,Oklahoma,73112,"3421 North Utah Avenue Oklahoma City, Oklahoma 73112",True
+2801 NW 45TH ST OK,2801,Northwest 45th Street,Oklahoma City,Oklahoma,73112,"2801 Northwest 45th Street Oklahoma City, Oklahoma 73112",True
+2839 SW 64TH ST OK,2839,Southwest 64th Street,Oklahoma City,Oklahoma,73159,"2839 Southwest 64th Street Oklahoma City, Oklahoma 73159",True
+2901 SHIRLEY LN OK,2901,Shirley Lane,Oklahoma City,Oklahoma,73116,"2901 Shirley Lane Oklahoma City, Oklahoma 73116",True
+2917 SW 49TH ST OK,2917,Southwest 49th Street,Oklahoma City,Oklahoma,73119,"2917 Southwest 49th Street Oklahoma City, Oklahoma 73119",True
+2918 N PROSPECT AVE OK,2918,North Prospect Avenue,Oklahoma City,Oklahoma,73111,"2918 North Prospect Avenue Oklahoma City, Oklahoma 73111",True
+2931 NW 19TH ST OK,2931,Northwest 19th Street,Lawton,Oklahoma,73507,"2931 Northwest 19th Street Lawton, Oklahoma 73507",True
+905 NE 19TH ST OK,905,Northeast 19th Street,Moore,Oklahoma,73160,"905 Northeast 19th Street Moore, Oklahoma 73160",True
+9112 SHARON OK,9112,South Sharon Street,Oklahoma City,Oklahoma,73159,"9112 South Sharon Street Oklahoma City, Oklahoma 73159",True
+6320 NW 123RD ST OK,6320,Northwest 123rd Street,Oklahoma City,Oklahoma,73142,"6320 Northwest 123rd Street Oklahoma City, Oklahoma 73142",True
+6521 N LOTTIE AVE OK,6521,North Lottie Avenue,Oklahoma City,Oklahoma,73111,"6521 North Lottie Avenue Oklahoma City, Oklahoma 73111",True
+6600 NW 116TH ST OK,6600,Northwest 116th Street,Oklahoma City,Oklahoma,73162,"6600 Northwest 116th Street Oklahoma City, Oklahoma 73162",True
+6712 S BYERS AVE OK,6712,South Byers Avenue,Oklahoma City,Oklahoma,73149,"6712 South Byers Avenue Oklahoma City, Oklahoma 73149",True
+701 E WILSHIRE BLVD OK,701,East Wilshire Boulevard,Oklahoma City,Oklahoma,73105,"701 East Wilshire Boulevard Oklahoma City, Oklahoma 73105",True
+705 NW 88TH ST OK,705,Northwest 88th Street,Oklahoma City,Oklahoma,73114,"705 Northwest 88th Street Oklahoma City, Oklahoma 73114",True
+7101 ASHBY TER OK,7101,Ashby Terrace,Oklahoma City,Oklahoma,73149,"7101 Ashby Terrace Oklahoma City, Oklahoma 73149",True
+717 SE 62ND ST OK,717,Southeast 62nd Street,Oklahoma City,Oklahoma,73149,"717 Southeast 62nd Street Oklahoma City, Oklahoma 73149",True
+725 SE 28TH ST OK,725,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"725 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+7905 CURTIS TER OK,7905,Curtis Terrace,Oklahoma City,Oklahoma,73132,"7905 Curtis Terrace Oklahoma City, Oklahoma 73132",True
+7913 JOHN ROBERT DR OK,7913,John Robert Drive,Oklahoma City,Oklahoma,73135,"7913 John Robert Drive Oklahoma City, Oklahoma 73135",True
+8104 HILLCREST DR OK,8104,South Hillcrest Drive,Oklahoma City,Oklahoma,73159,"8104 South Hillcrest Drive Oklahoma City, Oklahoma 73159",True
+8308 S DOUGLAS AVE OK,8308,South Douglas Avenue,Oklahoma City,Oklahoma,73139,"8308 South Douglas Avenue Oklahoma City, Oklahoma 73139",True
+8816 NW 113TH ST OK,8816,Northwest 113th Street,Oklahoma City,Oklahoma,73162,"8816 Northwest 113th Street Oklahoma City, Oklahoma 73162",True
+885 CEDARDALE DR OK,885,North Cedardale Drive,Oklahoma City,Oklahoma,73127,"885 North Cedardale Drive Oklahoma City, Oklahoma 73127",True
+8901 KIM MARIE LN OK,8901,Kim Marie Lane,Oklahoma City,Oklahoma,73132,"8901 Kim Marie Lane Oklahoma City, Oklahoma 73132",True
+8901 MACARTHUR TER OK,8901,North Macarthur Terrace,Oklahoma City,Oklahoma,73132,"8901 North Macarthur Terrace Oklahoma City, Oklahoma 73132",True
+4400 NW 31ST ST OK,4400,Northwest 31st Street,Oklahoma City,Oklahoma,73112,"4400 Northwest 31st Street Oklahoma City, Oklahoma 73112",True
+441 SW 102ND ST OK,441,Southwest 102nd Street,Oklahoma City,Oklahoma,73139,"441 Southwest 102nd Street Oklahoma City, Oklahoma 73139",True
+4516 W PARK PL OK,House number not found,West Park Place,Oklahoma City,Oklahoma,73127,"House number not found West Park Place Oklahoma City, Oklahoma 73127",False
+4524 W PARK PL OK,House number not found,West Park Place,Oklahoma City,Oklahoma,73127,"House number not found West Park Place Oklahoma City, Oklahoma 73127",False
+4605 NW 59TH TER OK,4605,Northwest 59th Terrace,Oklahoma City,Oklahoma,73122,"4605 Northwest 59th Terrace Oklahoma City, Oklahoma 73122",True
+4706 N INDEPENDENCE AVE OK,4706,North Independence Avenue,Oklahoma City,Oklahoma,73112,"4706 North Independence Avenue Oklahoma City, Oklahoma 73112",True
+509 BELLFOUNTAINE DR OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+520 NW 139TH ST OK,520,Northwest 139th Street,Oklahoma City,Oklahoma,73013,"520 Northwest 139th Street Oklahoma City, Oklahoma 73013",True
+523 SE 28TH ST OK,523,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"523 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+5425 S SANTA FE AVE OK,5425,South Santa Fe Avenue,Oklahoma City,Oklahoma,73109,"5425 South Santa Fe Avenue Oklahoma City, Oklahoma 73109",True
+5525 JERICHO OK,5525,Jericho,Oklahoma City,Oklahoma,73084,"5525 Jericho Oklahoma City, Oklahoma 73084",True
+5717 NW 33RD ST OK,5717,Northwest 33rd Street,Oklahoma City,Oklahoma,73122,"5717 Northwest 33rd Street Oklahoma City, Oklahoma 73122",True
+5717 NW 86TH ST OK,5717,Northwest 86th Street,Oklahoma City,Oklahoma,73132,"5717 Northwest 86th Street Oklahoma City, Oklahoma 73132",True
+5717 S FRANCIS AVE OK,5717,South Francis Avenue,Oklahoma City,Oklahoma,73109,"5717 South Francis Avenue Oklahoma City, Oklahoma 73109",True
+5809 EMPIRE BLVD OK,5809,Empire Boulevard,Oklahoma City,Oklahoma,73129,"5809 Empire Boulevard Oklahoma City, Oklahoma 73129",True
+5836 NW 88TH ST OK,5836,Northwest 88th Street,Oklahoma City,Oklahoma,73132,"5836 Northwest 88th Street Oklahoma City, Oklahoma 73132",True
+5841 NW 88TH ST OK,5841,Northwest 88th Street,Oklahoma City,Oklahoma,73132,"5841 Northwest 88th Street Oklahoma City, Oklahoma 73132",True
+4325 NW 48TH ST OK,4325,Northwest 48th Street,Oklahoma City,Oklahoma,73118,"4325 Northwest 48th Street Oklahoma City, Oklahoma 73118",True
+439 NW 47TH ST OK,439,Northwest 47th Street,Oklahoma City,Oklahoma,73118,"439 Northwest 47th Street Oklahoma City, Oklahoma 73118",True
+1316 NE 7TH ST OK,1316,Northeast 7th Street,Oklahoma City,Oklahoma,73117,"1316 Northeast 7th Street Oklahoma City, Oklahoma 73117",True
+1329 S FAIRMONT AVE OK,1329,South Fairmont Avenue,Oklahoma City,Oklahoma,73129,"1329 South Fairmont Avenue Oklahoma City, Oklahoma 73129",True
+136 SE 26TH ST OK,136,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"136 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+13804 OXFORD DR OK,13804,Oxford Drive,Oklahoma City,Oklahoma,73013,"13804 Oxford Drive Oklahoma City, Oklahoma 73013",True
+1404 N DREXEL BLVD OK,1404,North Drexel Boulevard,Oklahoma City,Oklahoma,73107,"1404 North Drexel Boulevard Oklahoma City, Oklahoma 73107",True
+1416 SW 28TH ST OK,1416,Southwest 28th Street,Oklahoma City,Oklahoma,73108,"1416 Southwest 28th Street Oklahoma City, Oklahoma 73108",True
+11501 S MUSTANG RD OK,11501,South Mustang Road,Oklahoma City,Oklahoma,73064,"11501 South Mustang Road Oklahoma City, Oklahoma 73064",True
+1161 CARTER DR OK,1161,Carter Drive,Oklahoma City,Oklahoma,73129,"1161 Carter Drive Oklahoma City, Oklahoma 73129",True
+11729 BLUE MOON AVE OK,11729,Blue Moon Avenue,Oklahoma City,Oklahoma,73162,"11729 Blue Moon Avenue Oklahoma City, Oklahoma 73162",True
+11729 N VICTORIA DR OK,11729,North Victoria Drive,Oklahoma City,Oklahoma,73120,"11729 North Victoria Drive Oklahoma City, Oklahoma 73120",True
+11805 PRICE DR OK,11805,West Price Drive,Oklahoma City,Oklahoma,73170,"11805 West Price Drive Oklahoma City, Oklahoma 73170",True
+11901 SW 17TH ST OK,11901,Southwest 17th Street,Oklahoma City,Oklahoma,73099,"11901 Southwest 17th Street Oklahoma City, Oklahoma 73099",True
+12 SW 102ND ST OK,12,Southwest 102nd Street,Oklahoma City,Oklahoma,73139,"12 Southwest 102nd Street Oklahoma City, Oklahoma 73139",True
+1201 NW 30TH ST OK,House number not found,North Military Avenue,Oklahoma City,Oklahoma,73118,"House number not found North Military Avenue Oklahoma City, Oklahoma 73118",False
+1201 SW 32ND ST OK,1201,Southwest 32nd Street,Oklahoma City,Oklahoma,73109,"1201 Southwest 32nd Street Oklahoma City, Oklahoma 73109",True
+1201 SW 95TH ST OK,1201,Southwest 95th Street,Oklahoma City,Oklahoma,73139,"1201 Southwest 95th Street Oklahoma City, Oklahoma 73139",True
+12028 SURREY LN OK,12013,Surrey Lane,Yukon,Oklahoma,73099,"12013 Surrey Lane Yukon, Oklahoma 73099",False
+1208 N WOODWARD AVE OK,1208,North Woodward Avenue,Oklahoma City,Oklahoma,73107,"1208 North Woodward Avenue Oklahoma City, Oklahoma 73107",True
+1208 SW 91ST ST OK,1208,Southwest 91st Street,Oklahoma City,Oklahoma,73139,"1208 Southwest 91st Street Oklahoma City, Oklahoma 73139",True
+1209 NE 19TH ST OK,1209,Northeast 19th Street,Oklahoma City,Oklahoma,73111,"1209 Northeast 19th Street Oklahoma City, Oklahoma 73111",True
+1217 NW 42ND ST OK,1217,Northwest 42nd Street,Oklahoma City,Oklahoma,73118,"1217 Northwest 42nd Street Oklahoma City, Oklahoma 73118",True
+12208 GREYSTONE TER OK,12208,Greystone Terrace,Oklahoma City,Oklahoma,73120,"12208 Greystone Terrace Oklahoma City, Oklahoma 73120",True
+12221 SW 14TH ST OK,12221,Southwest 14th Street,Oklahoma City,Oklahoma,73099,"12221 Southwest 14th Street Oklahoma City, Oklahoma 73099",True
+912 SW 156TH ST OK,912,Southwest 156th Street,Oklahoma City,Oklahoma,73170,"912 Southwest 156th Street Oklahoma City, Oklahoma 73170",True
+932 NE 32ND ST OK,932,Northeast 32nd Street,Oklahoma City,Oklahoma,73105,"932 Northeast 32nd Street Oklahoma City, Oklahoma 73105",True
+9808 HENDERSON DR OK,9808,Henderson Drive,Oklahoma City,Oklahoma,73139,"9808 Henderson Drive Oklahoma City, Oklahoma 73139",True
+9904 HARVEST HILLS RD OK,9904,Harvest Hills Road,Oklahoma City,Oklahoma,73162,"9904 Harvest Hills Road Oklahoma City, Oklahoma 73162",True
+9919 LARKSPUR LN OK,9919,Larkspur Lane,Oklahoma City,Oklahoma,73159,"9919 Larkspur Lane Oklahoma City, Oklahoma 73159",True
+1001 SW 66TH ST OK,1001,Southwest 66th Street,Lawton,Oklahoma,73505,"1001 Southwest 66th Street Lawton, Oklahoma 73505",True
+10016 S FAIRVIEW DR OK,10016,South Fairview Drive,Oklahoma City,Oklahoma,73159,"10016 South Fairview Drive Oklahoma City, Oklahoma 73159",True
+1005 SW 94TH ST OK,1005,Southwest 94th Street,Oklahoma City,Oklahoma,73139,"1005 Southwest 94th Street Oklahoma City, Oklahoma 73139",True
+10432 N MCKINLEY AVE OK,10432,North McKinley Avenue,Oklahoma City,Oklahoma,73114,"10432 North McKinley Avenue Oklahoma City, Oklahoma 73114",True
+1105 N GARDNER AVE OK,1105,North Gardner Avenue,Oklahoma City,Oklahoma,73127,"1105 North Gardner Avenue Oklahoma City, Oklahoma 73127",True
+11209 CIMARRON DR OK,11209,Cimarron Drive,Oklahoma City,Oklahoma,73162,"11209 Cimarron Drive Oklahoma City, Oklahoma 73162",True
+1121 SW 65TH ST OK,1121,Southwest 65th Street,Oklahoma City,Oklahoma,73139,"1121 Southwest 65th Street Oklahoma City, Oklahoma 73139",True
+1124 NW 30TH ST OK,1100,Northwest 30th Street,Oklahoma City,Oklahoma,73118,"1100 Northwest 30th Street Oklahoma City, Oklahoma 73118",False
+1133 SW 65TH ST OK,1133,Southwest 65th Street,Oklahoma City,Oklahoma,73139,"1133 Southwest 65th Street Oklahoma City, Oklahoma 73139",True
+11408 CARRIAGE DR OK,11408,Carriage Drive,Oklahoma City,Oklahoma,73099,"11408 Carriage Drive Oklahoma City, Oklahoma 73099",True
+2207 N GATEWOOD AVE OK,2207,North Gatewood Avenue,Oklahoma City,Oklahoma,73106,"2207 North Gatewood Avenue Oklahoma City, Oklahoma 73106",True
+2209 NE 17TH ST OK,2209,Northeast 17th Street,Oklahoma City,Oklahoma,73111,"2209 Northeast 17th Street Oklahoma City, Oklahoma 73111",True
+2228 NE 18TH ST OK,2228,Northeast 18th Street,Moore,Oklahoma,73160,"2228 Northeast 18th Street Moore, Oklahoma 73160",True
+2228 SW 31ST ST OK,2228,Southwest 31st Street,Oklahoma City,Oklahoma,73119,"2228 Southwest 31st Street Oklahoma City, Oklahoma 73119",True
+2232 SW 30TH ST OK,2232,Southwest 30th Street,Moore,Oklahoma,73160,"2232 Southwest 30th Street Moore, Oklahoma 73160",True
+228 NW 83RD ST OK,228,Northwest 83rd Street,Oklahoma City,Oklahoma,73114,"228 Northwest 83rd Street Oklahoma City, Oklahoma 73114",True
+2304 W EUBANKS ST OK,2304,West Eubanks Street,Oklahoma City,Oklahoma,73112,"2304 West Eubanks Street Oklahoma City, Oklahoma 73112",True
+2313 SW 91ST ST OK,2313,Southwest 91st Street,Oklahoma City,Oklahoma,73159,"2313 Southwest 91st Street Oklahoma City, Oklahoma 73159",True
+2315 NW 32ND ST OK,2315,Northwest 32nd Street,Lawton,Oklahoma,73505,"2315 Northwest 32nd Street Lawton, Oklahoma 73505",True
+2320 NW 37TH ST OK,House number not found,Northwest 37th Street,Oklahoma City,Oklahoma,73112,"House number not found Northwest 37th Street Oklahoma City, Oklahoma 73112",False
+1728 NW 13TH ST OK,1728,Northwest 13th Street,Lawton,Oklahoma,73507,"1728 Northwest 13th Street Lawton, Oklahoma 73507",True
+17304 CEDARWOOD DR OK,17304,Cedarwood Drive,Oklahoma City,Oklahoma,73012,"17304 Cedarwood Drive Oklahoma City, Oklahoma 73012",True
+1801 N STERLING AVE OK,1801,North Sterling Avenue,Oklahoma City,Oklahoma,73127,"1801 North Sterling Avenue Oklahoma City, Oklahoma 73127",True
+1842 W PARK PL OK,1842,West Park Place,Oklahoma City,Oklahoma,73106,"1842 West Park Place Oklahoma City, Oklahoma 73106",True
+1900 NW 34TH ST OK,1900,Northwest 34th Street,Oklahoma City,Oklahoma,73118,"1900 Northwest 34th Street Oklahoma City, Oklahoma 73118",True
+1901 NE 52ND ST OK,1901,Northeast 52nd Street,Oklahoma City,Oklahoma,73111,"1901 Northeast 52nd Street Oklahoma City, Oklahoma 73111",True
+19713 BRUNSWICK CT OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+200 SW 141ST ST OK,14301,South Robinson Avenue,Oklahoma City,Oklahoma,73170,"14301 South Robinson Avenue Oklahoma City, Oklahoma 73170",False
+20000 SHADY MEADOW WAY OK,20000,Shady Meadow Way,Oklahoma City,Oklahoma,74857,"20000 Shady Meadow Way Oklahoma City, Oklahoma 74857",True
+2010 N ROFF AVE OK,2010,North Roff Avenue,Oklahoma City,Oklahoma,73107,"2010 North Roff Avenue Oklahoma City, Oklahoma 73107",True
+208 NW 91ST ST OK,208,Northwest 91st Street,Oklahoma City,Oklahoma,73114,"208 Northwest 91st Street Oklahoma City, Oklahoma 73114",True
+2100 NW 20TH ST OK,2100,Northwest 20th Street,Lawton,Oklahoma,73507,"2100 Northwest 20th Street Lawton, Oklahoma 73507",True
+2115 SW 13TH ST OK,2115,Southwest 13th Street,Oklahoma City,Oklahoma,73108,"2115 Southwest 13th Street Oklahoma City, Oklahoma 73108",True
+212 SW 62ND ST OK,212,Southwest 62nd Street,Oklahoma City,Oklahoma,73139,"212 Southwest 62nd Street Oklahoma City, Oklahoma 73139",True
+2130 W PARK PL OK,House number not found,North Pennsylvania Avenue,Oklahoma City,Oklahoma,73003,"House number not found North Pennsylvania Avenue Oklahoma City, Oklahoma 73003",False
+2141 SW 35TH ST OK,2141,Southwest 35th Street,Oklahoma City,Oklahoma,73119,"2141 Southwest 35th Street Oklahoma City, Oklahoma 73119",True
+2145 N KATE AVE OK,2145,North Kate Avenue,Oklahoma City,Oklahoma,73111,"2145 North Kate Avenue Oklahoma City, Oklahoma 73111",True
+1417 SW 70TH ST OK,1417,Southwest 70th Street,Oklahoma City,Oklahoma,73159,"1417 Southwest 70th Street Oklahoma City, Oklahoma 73159",True
+1418 LINWOOD BLVD UNIT A OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+1425 SW 33RD ST OK,1425,Southwest 33rd Street,Oklahoma City,Oklahoma,73119,"1425 Southwest 33rd Street Oklahoma City, Oklahoma 73119",True
+1512 E MADISON ST OK,1512,East Madison Street,Oklahoma City,Oklahoma,73111,"1512 East Madison Street Oklahoma City, Oklahoma 73111",True
+1516 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1520 NW 10TH ST OK,1520,Northwest 10th Street,Stigler,Oklahoma,74462,"1520 Northwest 10th Street Stigler, Oklahoma 74462",True
+1526 NW 8TH ST OK,1526,Northwest 8th Street,Oklahoma City,Oklahoma,73106,"1526 Northwest 8th Street Oklahoma City, Oklahoma 73106",True
+1529 E EUCLID ST OK,899,Garden Grove,Yukon,Oklahoma,73099,"899 Garden Grove Yukon, Oklahoma 73099",False
+1672 SW 86TH ST OK,1672,Southwest 86th Street,Oklahoma City,Oklahoma,73159,"1672 Southwest 86th Street Oklahoma City, Oklahoma 73159",True
+1700 NE 44TH ST OK,1700,Northeast 44th Street,Oklahoma City,Oklahoma,73111,"1700 Northeast 44th Street Oklahoma City, Oklahoma 73111",True
+17017 CREST VALLEY OK,17017,Crest Valley,Oklahoma City,Oklahoma,73012,"17017 Crest Valley Oklahoma City, Oklahoma 73012",True
+2905 NW 17TH ST OK,2905,Northwest 17th Street,Lawton,Oklahoma,73507,"2905 Northwest 17th Street Lawton, Oklahoma 73507",True
+2907 NW 17TH ST OK,2907,Northwest 17th Street,Lawton,Oklahoma,73507,"2907 Northwest 17th Street Lawton, Oklahoma 73507",True
+2908 NW 21ST ST OK,2908,Northwest 21st Street,Oklahoma City,Oklahoma,73107,"2908 Northwest 21st Street Oklahoma City, Oklahoma 73107",True
+2917 SW 51ST ST OK,2917,Southwest 51st Street,Oklahoma City,Oklahoma,73119,"2917 Southwest 51st Street Oklahoma City, Oklahoma 73119",True
+2924 TULSA DR OK,2924,Tulsa Drive,Oklahoma City,Oklahoma,73107,"2924 Tulsa Drive Oklahoma City, Oklahoma 73107",True
+2933 SW 126TH ST OK,2933,Southwest 126th Street,Oklahoma City,Oklahoma,73170,"2933 Southwest 126th Street Oklahoma City, Oklahoma 73170",True
+2940 SW 126TH ST OK,2940,Southwest 126th Street,Oklahoma City,Oklahoma,73170,"2940 Southwest 126th Street Oklahoma City, Oklahoma 73170",True
+300 SE 64TH ST OK,300,Southeast 64th Street,Oklahoma City,Oklahoma,73149,"300 Southeast 64th Street Oklahoma City, Oklahoma 73149",True
+3001 NW 46TH ST OK,3001,Northwest 46th Street,Oklahoma City,Oklahoma,73112,"3001 Northwest 46th Street Oklahoma City, Oklahoma 73112",True
+3001 SE 54TH ST OK,3001,Southeast 54th Street,Oklahoma City,Oklahoma,73135,"3001 Southeast 54th Street Oklahoma City, Oklahoma 73135",True
+3004 SW 124TH ST OK,3004,Southwest 124th Street,Oklahoma City,Oklahoma,73170,"3004 Southwest 124th Street Oklahoma City, Oklahoma 73170",True
+301 SE 64TH ST OK,301,Southeast 64th Street,Oklahoma City,Oklahoma,73149,"301 Southeast 64th Street Oklahoma City, Oklahoma 73149",True
+3016 S MADOLE BLVD OK,3016,South Madole Boulevard,Oklahoma City,Oklahoma,73159,"3016 South Madole Boulevard Oklahoma City, Oklahoma 73159",True
+3016 SW 14TH ST OK,3016,Southwest 14th Street,City not found,Oklahoma,73065,"3016 Southwest 14th Street City not found, Oklahoma 73065",True
+2436 SW 54TH ST OK,5400,Southwest Victora Boulevard,Lawton,Oklahoma,73505,"5400 Southwest Victora Boulevard Lawton, Oklahoma 73505",False
+2523 NW 11TH ST OK,2523,Northwest 11th Street,Oklahoma City,Oklahoma,73107,"2523 Northwest 11th Street Oklahoma City, Oklahoma 73107",True
+2527 SW 30TH ST OK,2527,Southwest 30th Street,Oklahoma City,Oklahoma,73119,"2527 Southwest 30th Street Oklahoma City, Oklahoma 73119",True
+2530 NW 46TH ST OK,2530,Northwest 46th Street,Lawton,Oklahoma,73505,"2530 Northwest 46th Street Lawton, Oklahoma 73505",True
+2608 NW 59TH ST OK,2608,Northwest 59th Street,Oklahoma City,Oklahoma,73112,"2608 Northwest 59th Street Oklahoma City, Oklahoma 73112",True
+2636 SW 26TH ST OK,2636,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"2636 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+2708 SW 79TH ST OK,2708,Southwest 79th Street,Oklahoma City,Oklahoma,73159,"2708 Southwest 79th Street Oklahoma City, Oklahoma 73159",True
+2711 S PENNSYLVANIA AVE OK,2711,South Pennsylvania Avenue,City not found,Oklahoma,73044,"2711 South Pennsylvania Avenue City not found, Oklahoma 73044",True
+2713 NW 66TH ST OK,2713,Northwest 66th Street,Oklahoma City,Oklahoma,73116,"2713 Northwest 66th Street Oklahoma City, Oklahoma 73116",True
+2716 SW 48TH ST OK,2716,Southwest 48th Street,Oklahoma City,Oklahoma,73119,"2716 Southwest 48th Street Oklahoma City, Oklahoma 73119",True
+2721 NW 22ND ST OK,2721,Northwest 22nd Street,Lawton,Oklahoma,73505,"2721 Northwest 22nd Street Lawton, Oklahoma 73505",True
+2724 NE 19TH ST OK,2724,Northeast 19th Street,Oklahoma City,Oklahoma,73111,"2724 Northeast 19th Street Oklahoma City, Oklahoma 73111",True
+2809 NW 182ND ST OK,2809,Northwest 182nd Street,Oklahoma City,Oklahoma,73012,"2809 Northwest 182nd Street Oklahoma City, Oklahoma 73012",True
+2813 NW 63RD ST OK,House number not found,Northwest 63rd Street,Oklahoma City,Oklahoma,73132,"House number not found Northwest 63rd Street Oklahoma City, Oklahoma 73132",False
+2817 DITTMER RD OK,5001,Northwest 24th Place,Oklahoma City,Oklahoma,73127,"5001 Northwest 24th Place Oklahoma City, Oklahoma 73127",False
+2837 SW 31ST ST OK,2837,Southwest 31st Street,Oklahoma City,Oklahoma,73119,"2837 Southwest 31st Street Oklahoma City, Oklahoma 73119",True
+2850 SW 40TH ST OK,2850,Southwest 40th Street,Oklahoma City,Oklahoma,73119,"2850 Southwest 40th Street Oklahoma City, Oklahoma 73119",True
+2329 SE 10TH ST OK,2329,Southeast 10th Street,Oklahoma City,Oklahoma,73129,"2329 Southeast 10th Street Oklahoma City, Oklahoma 73129",True
+2340 SE 9TH ST OK,2340,Southeast 9th Street,Oklahoma City,Oklahoma,73129,"2340 Southeast 9th Street Oklahoma City, Oklahoma 73129",True
+235 SE 46TH ST OK,235,Southeast 46th Street,Oklahoma City,Oklahoma,73129,"235 Southeast 46th Street Oklahoma City, Oklahoma 73129",True
+2401 SE 10TH ST OK,2401,Southeast 10th Street,Oklahoma City,Oklahoma,73129,"2401 Southeast 10th Street Oklahoma City, Oklahoma 73129",True
+2416 NW 31ST ST OK,2416,Northwest 31st Street,Oklahoma City,Oklahoma,73112,"2416 Northwest 31st Street Oklahoma City, Oklahoma 73112",True
+2426 SW 24TH ST OK,2426,Southwest 24th Street,City not found,Oklahoma,73065,"2426 Southwest 24th Street City not found, Oklahoma 73065",True
+2433 SW 46TH ST OK,2433,Southwest 46th Street,Oklahoma City,Oklahoma,73119,"2433 Southwest 46th Street Oklahoma City, Oklahoma 73119",True
+3518 SW 40TH ST  OK,3518,Southwest 40th Street,Oklahoma City,Oklahoma,73119,"3518 Southwest 40th Street Oklahoma City, Oklahoma 73119",True
+3225 SW 65TH PL OK,3225,Southwest 65th Place,Oklahoma City,Oklahoma,73159,"3225 Southwest 65th Place Oklahoma City, Oklahoma 73159",True
+325 SE 26TH ST OK,325,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"325 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+326 SE 25TH ST OK,326,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"326 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+326 SE 27TH ST OK,326,Southeast 27th Street,Moore,Oklahoma,73160,"326 Southeast 27th Street Moore, Oklahoma 73160",True
+329 SE 26TH ST OK,329,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"329 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+3305 SW 48TH ST OK,3305,Southwest 48th Street,Oklahoma City,Oklahoma,73119,"3305 Southwest 48th Street Oklahoma City, Oklahoma 73119",True
+3309 NW 27TH ST OK,3309,Northwest 27th Street,Oklahoma City,Oklahoma,73107,"3309 Northwest 27th Street Oklahoma City, Oklahoma 73107",True
+3309 SW 48TH ST OK,3309,Southwest 48th Street,Oklahoma City,Oklahoma,73119,"3309 Southwest 48th Street Oklahoma City, Oklahoma 73119",True
+3320 NW 23RD ST OK,3235,Northwest 23rd Street,Oklahoma City,Oklahoma,73107,"3235 Northwest 23rd Street Oklahoma City, Oklahoma 73107",False
+3320 SW 46TH ST OK,3320,Southwest 46th Street,Oklahoma City,Oklahoma,73119,"3320 Southwest 46th Street Oklahoma City, Oklahoma 73119",True
+3329 SW 51ST ST OK,3329,Southwest 51st Street,Oklahoma City,Oklahoma,73119,"3329 Southwest 51st Street Oklahoma City, Oklahoma 73119",True
+335 SE 25TH ST OK,335,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"335 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+3404 N VIRGINIA AVE OK,3404,North Virginia Avenue,Oklahoma City,Oklahoma,73118,"3404 North Virginia Avenue Oklahoma City, Oklahoma 73118",True
+3404 NW 15TH ST OK,3404,Northwest 15th Street,Oklahoma City,Oklahoma,73107,"3404 Northwest 15th Street Oklahoma City, Oklahoma 73107",True
+3501 SW 22ND ST OK,3501,Southwest 22nd Street,Oklahoma City,Oklahoma,73108,"3501 Southwest 22nd Street Oklahoma City, Oklahoma 73108",True
+3509 TREADWELL DR OK,3509,Treadwell Drive,Oklahoma City,Oklahoma,73112,"3509 Treadwell Drive Oklahoma City, Oklahoma 73112",True
+3517 NW 18TH ST OK,3517,Northwest 18th Street,City not found,Oklahoma,73065,"3517 Northwest 18th Street City not found, Oklahoma 73065",True
+3032 NW 12TH ST OK,3032,Northwest 12th Street,Oklahoma City,Oklahoma,73107,"3032 Northwest 12th Street Oklahoma City, Oklahoma 73107",True
+3081 SW 37TH ST OK,3081,Southwest 37th Street,Oklahoma City,Oklahoma,73119,"3081 Southwest 37th Street Oklahoma City, Oklahoma 73119",True
+3104 SW 48TH ST OK,3104,Southwest 48th Street,Oklahoma City,Oklahoma,73119,"3104 Southwest 48th Street Oklahoma City, Oklahoma 73119",True
+3109 SW 71ST ST OK,3109,Southwest 71st Street,Oklahoma City,Oklahoma,73159,"3109 Southwest 71st Street Oklahoma City, Oklahoma 73159",True
+3112 SE 56TH ST OK,3112,Southeast 56th Street,Oklahoma City,Oklahoma,73135,"3112 Southeast 56th Street Oklahoma City, Oklahoma 73135",True
+3116 S GOFF AVE OK,3116,South Goff Avenue,Oklahoma City,Oklahoma,73119,"3116 South Goff Avenue Oklahoma City, Oklahoma 73119",True
+312 SE 50TH ST OK,312,Southeast 50th Street,Oklahoma City,Oklahoma,73129,"312 Southeast 50th Street Oklahoma City, Oklahoma 73129",True
+3124 SW 71ST ST OK,3124,Southwest 71st Street,Oklahoma City,Oklahoma,73159,"3124 Southwest 71st Street Oklahoma City, Oklahoma 73159",True
+3134 SW 128TH ST OK,3134,Southwest 128th Street,Oklahoma City,Oklahoma,73170,"3134 Southwest 128th Street Oklahoma City, Oklahoma 73170",True
+317 NW 80TH ST OK,317,Northwest 80th Street,Oklahoma City,Oklahoma,73114,"317 Northwest 80th Street Oklahoma City, Oklahoma 73114",True
+320 SE 28TH ST OK,320,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"320 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+3201 S LIBERTY AVE OK,3201,South Liberty Avenue,Oklahoma City,Oklahoma,73119,"3201 South Liberty Avenue Oklahoma City, Oklahoma 73119",True
+3204 SE 56TH ST OK,3204,Southeast 56th Street,Oklahoma City,Oklahoma,73135,"3204 Southeast 56th Street Oklahoma City, Oklahoma 73135",True
+3205 SE 51ST ST OK,3205,Southeast 51st Street,Oklahoma City,Oklahoma,73135,"3205 Southeast 51st Street Oklahoma City, Oklahoma 73135",True
+3216 SE 55TH ST OK,3216,Southeast 55th Street,Oklahoma City,Oklahoma,73135,"3216 Southeast 55th Street Oklahoma City, Oklahoma 73135",True
+3217 CANYON RD OK,3217,Canyon Road,Oklahoma City,Oklahoma,73120,"3217 Canyon Road Oklahoma City, Oklahoma 73120",True
+3224 SE 56TH ST OK,3224,Southeast 56th Street,Oklahoma City,Oklahoma,73135,"3224 Southeast 56th Street Oklahoma City, Oklahoma 73135",True
+3016 W HILL ST OK,3016,West Hill Street,Oklahoma City,Oklahoma,73112,"3016 West Hill Street Oklahoma City, Oklahoma 73112",True
+3017 S CLEGERN AVE OK,100,South Clegern Avenue,Oklahoma City,Oklahoma,73106,"100 South Clegern Avenue Oklahoma City, Oklahoma 73106",False
+3020 SW 64TH ST OK,3020,Southwest 64th Street,Oklahoma City,Oklahoma,73159,"3020 Southwest 64th Street Oklahoma City, Oklahoma 73159",True
+120 NW 60TH ST OK,120,Northwest 60th Street,Oklahoma City,Oklahoma,73118,"120 Northwest 60th Street Oklahoma City, Oklahoma 73118",True
+4121 NW 11TH ST OK,4121,Northwest 11th Street,Oklahoma City,Oklahoma,73107,"4121 Northwest 11th Street Oklahoma City, Oklahoma 73107",True
+4125 NW 57TH ST OK,4125,Northwest 57th Street,Oklahoma City,Oklahoma,73112,"4125 Northwest 57th Street Oklahoma City, Oklahoma 73112",True
+4200 N PENNSYLVANIA AVE OK,4200,North Pennsylvania Avenue,City not found,Oklahoma,73044,"4200 North Pennsylvania Avenue City not found, Oklahoma 73044",True
+3900 NW 56TH ST OK,3900,Northwest 56th Street,Oklahoma City,Oklahoma,73112,"3900 Northwest 56th Street Oklahoma City, Oklahoma 73112",True
+3921 AGNEW PL OK,3921,Agnew Place,Oklahoma City,Oklahoma,73119,"3921 Agnew Place Oklahoma City, Oklahoma 73119",True
+3932 SW 26TH ST OK,3932,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"3932 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+4005 SE 45TH ST OK,4005,Southeast 45th Street,Oklahoma City,Oklahoma,73135,"4005 Southeast 45th Street Oklahoma City, Oklahoma 73135",True
+4008 NW 30TH TER OK,4008,Northwest 30th Terrace,Oklahoma City,Oklahoma,73112,"4008 Northwest 30th Terrace Oklahoma City, Oklahoma 73112",True
+4012 NW 22ND ST OK,4012,Northwest 22nd Street,Oklahoma City,Oklahoma,73107,"4012 Northwest 22nd Street Oklahoma City, Oklahoma 73107",True
+4012 SE 45TH ST OK,4012,Southeast 45th Street,Oklahoma City,Oklahoma,73135,"4012 Southeast 45th Street Oklahoma City, Oklahoma 73135",True
+4016 SE 45TH ST OK,4016,Southeast 45th Street,Oklahoma City,Oklahoma,73135,"4016 Southeast 45th Street Oklahoma City, Oklahoma 73135",True
+4020 SW 23RD ST OK,4020,Southwest 23rd Street,Oklahoma City,Oklahoma,73108,"4020 Southwest 23rd Street Oklahoma City, Oklahoma 73108",True
+4032 NW 60TH ST OK,4032,Northwest 60th Street,Oklahoma City,Oklahoma,73112,"4032 Northwest 60th Street Oklahoma City, Oklahoma 73112",True
+4052 NW 20TH ST OK,4052,Northwest 20th Street,Oklahoma City,Oklahoma,73107,"4052 Northwest 20th Street Oklahoma City, Oklahoma 73107",True
+406 SE 28TH ST OK,406,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"406 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+409 SE 27TH ST OK,409,Southeast 27th Street,El Reno,Oklahoma,73036,"409 Southeast 27th Street El Reno, Oklahoma 73036",True
+409 SE 28TH ST OK,409,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"409 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+41 SW 55TH ST OK,41,Southwest 55th Street,Oklahoma City,Oklahoma,73109,"41 Southwest 55th Street Oklahoma City, Oklahoma 73109",True
+4107 N INDIANA AVE OK,4107,North Indiana Avenue,Oklahoma City,Oklahoma,73118,"4107 North Indiana Avenue Oklahoma City, Oklahoma 73118",True
+4116 NW 21ST TER OK,4116,Northwest 21st Terrace,Oklahoma City,Oklahoma,73107,"4116 Northwest 21st Terrace Oklahoma City, Oklahoma 73107",True
+3521 NW 13TH ST OK,3521,Northwest 13th Street,Oklahoma City,Oklahoma,73107,"3521 Northwest 13th Street Oklahoma City, Oklahoma 73107",True
+3521 WINDSOR AVE OK,3521,North Windsor Avenue,Oklahoma City,Oklahoma,73122,"3521 North Windsor Avenue Oklahoma City, Oklahoma 73122",True
+3528 NW 24TH ST OK,3528,Northwest 24th Street,Oklahoma City,Oklahoma,73107,"3528 Northwest 24th Street Oklahoma City, Oklahoma 73107",True
+3600 OAKCLIFF DR OK,3600,Oakcliff Drive,Oklahoma City,Oklahoma,73135,"3600 Oakcliff Drive Oklahoma City, Oklahoma 73135",True
+3605 NW 52ND ST OK,3605,Northwest 52nd Street,Oklahoma City,Oklahoma,73112,"3605 Northwest 52nd Street Oklahoma City, Oklahoma 73112",True
+3605 S PORTLAND AVE OK,3605,South Portland Avenue,City not found,Oklahoma,73065,"3605 South Portland Avenue City not found, Oklahoma 73065",True
+3613 NW 13TH ST OK,3613,Northwest 13th Street,Oklahoma City,Oklahoma,73107,"3613 Northwest 13th Street Oklahoma City, Oklahoma 73107",True
+3704 NW 60TH ST OK,3704,Northwest 60th Street,Oklahoma City,Oklahoma,73112,"3704 Northwest 60th Street Oklahoma City, Oklahoma 73112",True
+3709 N VIRGINIA AVE OK,3709,North Virginia Avenue,Oklahoma City,Oklahoma,73118,"3709 North Virginia Avenue Oklahoma City, Oklahoma 73118",True
+3734 N SHARTEL AVE OK,3734,North Shartel Avenue,Oklahoma City,Oklahoma,73118,"3734 North Shartel Avenue Oklahoma City, Oklahoma 73118",True
+3805 N HARTFORD ST OK,3805,North Hartford Street,Oklahoma City,Oklahoma,73112,"3805 North Hartford Street Oklahoma City, Oklahoma 73112",True
+3812 S WALKER AVE OK,3812,South Walker Avenue,Oklahoma City,Oklahoma,73109,"3812 South Walker Avenue Oklahoma City, Oklahoma 73109",True
+3813 NEWPORT AVE OK,4084,Newport Avenue,Oklahoma City,Oklahoma,73112,"4084 Newport Avenue Oklahoma City, Oklahoma 73112",False
+3815 AMELIA AVE OK,3815,Amelia Avenue,Oklahoma City,Oklahoma,73112,"3815 Amelia Avenue Oklahoma City, Oklahoma 73112",True
+3817 SW 26TH ST OK,3817,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"3817 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+3843 W PARK PL OK,3843,West Park Place,Oklahoma City,Oklahoma,73107,"3843 West Park Place Oklahoma City, Oklahoma 73107",True
+533 SE 16TH ST OK,533,Southeast 16th Street,Oklahoma City,Oklahoma,73129,"533 Southeast 16th Street Oklahoma City, Oklahoma 73129",True
+5407 NW 16TH ST OK,5407,Northwest 16th Street,Oklahoma City,Oklahoma,73127,"5407 Northwest 16th Street Oklahoma City, Oklahoma 73127",True
+542 SE 27TH ST OK,542,Southeast 27th Street,El Reno,Oklahoma,73036,"542 Southeast 27th Street El Reno, Oklahoma 73036",True
+5506 ROCKWOOD AVE OK,House number not found,Rockwood Avenue,City not found,Oklahoma,74006,"House number not found Rockwood Avenue City not found, Oklahoma 74006",False
+5508 S SHIELDS BLVD OK,House number not found,South Shields Boulevard,Oklahoma City,Oklahoma,73149,"House number not found South Shields Boulevard Oklahoma City, Oklahoma 73149",False
+5512 CHAD RD OK,5512,Chad Road,Oklahoma City,Oklahoma,73135,"5512 Chad Road Oklahoma City, Oklahoma 73135",True
+5608 HIGHLEY DR OK,5608,Highley Drive,Oklahoma City,Oklahoma,73111,"5608 Highley Drive Oklahoma City, Oklahoma 73111",True
+5612 HIGHLEY DR OK,5612,Highley Drive,Oklahoma City,Oklahoma,73111,"5612 Highley Drive Oklahoma City, Oklahoma 73111",True
+4721 NW 19TH ST OK,4721,Northwest 19th Street,Oklahoma City,Oklahoma,73127,"4721 Northwest 19th Street Oklahoma City, Oklahoma 73127",True
+4817 NW 18TH ST OK,4817,Northwest 18th Street,Oklahoma City,Oklahoma,73127,"4817 Northwest 18th Street Oklahoma City, Oklahoma 73127",True
+4901 S WALKER AVE OK,4901,South Walker Avenue,Oklahoma City,Oklahoma,73109,"4901 South Walker Avenue Oklahoma City, Oklahoma 73109",True
+4908 BROOKDALE DR OK,4908,Brookdale Drive,Oklahoma City,Oklahoma,73135,"4908 Brookdale Drive Oklahoma City, Oklahoma 73135",True
+4909 S BROOKLINE AVE OK,4909,South Brookline Avenue,Oklahoma City,Oklahoma,73119,"4909 South Brookline Avenue Oklahoma City, Oklahoma 73119",True
+4916 BROOKDALE DR OK,4916,Brookdale Drive,Oklahoma City,Oklahoma,73135,"4916 Brookdale Drive Oklahoma City, Oklahoma 73135",True
+5000 S AGNEW AVE OK,5000,South Agnew Avenue,Oklahoma City,Oklahoma,73119,"5000 South Agnew Avenue Oklahoma City, Oklahoma 73119",True
+501 CYPRESS DR OK,501,Cypress Drive,Oklahoma City,Oklahoma,73170,"501 Cypress Drive Oklahoma City, Oklahoma 73170",True
+5012 S BYPASS TER OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+504 SE 31ST ST OK,504,Southeast 31st Street,Oklahoma City,Oklahoma,73129,"504 Southeast 31st Street Oklahoma City, Oklahoma 73129",True
+509 SE 27TH ST OK,509,Southeast 27th Street,El Reno,Oklahoma,73036,"509 Southeast 27th Street El Reno, Oklahoma 73036",True
+516 SE 44TH ST OK,516,Southeast 44th Street,Oklahoma City,Oklahoma,73129,"516 Southeast 44th Street Oklahoma City, Oklahoma 73129",True
+517 SE 31ST ST OK,517,Southeast 31st Street,Oklahoma City,Oklahoma,73129,"517 Southeast 31st Street Oklahoma City, Oklahoma 73129",True
+525 N BATH AVE OK,525,North Bath Avenue,Oklahoma City,Oklahoma,73117,"525 North Bath Avenue Oklahoma City, Oklahoma 73117",True
+525 SE 27TH ST OK,525,Southeast 27th Street,El Reno,Oklahoma,73036,"525 Southeast 27th Street El Reno, Oklahoma 73036",True
+5300 BODINE DR OK,5300,South Bodine Drive,Oklahoma City,Oklahoma,73135,"5300 South Bodine Drive Oklahoma City, Oklahoma 73135",True
+5321 BROOKDALE DR OK,5321,Brookdale Drive,Oklahoma City,Oklahoma,73135,"5321 Brookdale Drive Oklahoma City, Oklahoma 73135",True
+4209 CHERRY HILL LN OK,4209,Cherry Hill Lane,Oklahoma City,Oklahoma,73120,"4209 Cherry Hill Lane Oklahoma City, Oklahoma 73120",True
+421 SE 46TH ST OK,421,Southeast 46th Street,Oklahoma City,Oklahoma,73129,"421 Southeast 46th Street Oklahoma City, Oklahoma 73129",True
+424 SE 28TH ST OK,424,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"424 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+425 SE 26TH ST OK,425,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"425 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+430 SE 25TH ST OK,430,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"430 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+4401 N GEORGIA AVE OK,4401,North Georgia Avenue,Oklahoma City,Oklahoma,73118,"4401 North Georgia Avenue Oklahoma City, Oklahoma 73118",True
+441 NW 96TH ST OK,441,Northwest 96th Street,Oklahoma City,Oklahoma,73114,"441 Northwest 96th Street Oklahoma City, Oklahoma 73114",True
+4420 NW 11TH ST OK,4420,Northwest 11th Street,Oklahoma City,Oklahoma,73107,"4420 Northwest 11th Street Oklahoma City, Oklahoma 73107",True
+4515 W PARK PL OK,4515,West Park Place,Oklahoma City,Oklahoma,73127,"4515 West Park Place Oklahoma City, Oklahoma 73127",True
+4517 NW 32ND ST OK,4517,Northwest 32nd Street,Oklahoma City,Oklahoma,73122,"4517 Northwest 32nd Street Oklahoma City, Oklahoma 73122",True
+4524 S SHALLOW BROOK DR OK,House number not found,South Shallow Brook Drive,Oklahoma City,Oklahoma,73129,"House number not found South Shallow Brook Drive Oklahoma City, Oklahoma 73129",False
+4532 W PARK PL OK,House number not found,West Park Place,Oklahoma City,Oklahoma,73127,"House number not found West Park Place Oklahoma City, Oklahoma 73127",False
+4624 NW 30TH ST OK,4624,Northwest 30th Street,Oklahoma City,Oklahoma,73122,"4624 Northwest 30th Street Oklahoma City, Oklahoma 73122",True
+8324 S INDIANA AVE OK,8324,South Indiana Avenue,Oklahoma City,Oklahoma,73159,"8324 South Indiana Avenue Oklahoma City, Oklahoma 73159",True
+8329 NW 109TH ST OK,8329,Northwest 109th Street,Oklahoma City,Oklahoma,73162,"8329 Northwest 109th Street Oklahoma City, Oklahoma 73162",True
+8601 CANDLEWOOD DR OK,8601,Candlewood Drive,Oklahoma City,Oklahoma,73132,"8601 Candlewood Drive Oklahoma City, Oklahoma 73132",True
+9108 N HUDSON AVE OK,9108,North Hudson Avenue,Oklahoma City,Oklahoma,73114,"9108 North Hudson Avenue Oklahoma City, Oklahoma 73114",True
+921 SW 51ST ST OK,921,Southwest 51st Street,Oklahoma City,Oklahoma,73109,"921 Southwest 51st Street Oklahoma City, Oklahoma 73109",True
+9225 PINE ST OK,11754,Pine Street,City not found,Oklahoma,74932,"11754 Pine Street City not found, Oklahoma 74932",False
+923 NE 64TH ST OK,923,Northeast 64th Street,Oklahoma City,Oklahoma,73105,"923 Northeast 64th Street Oklahoma City, Oklahoma 73105",True
+925 SW 97TH ST OK,House number not found,Southwest 97th Street,Oklahoma City,Oklahoma,73139,"House number not found Southwest 97th Street Oklahoma City, Oklahoma 73139",False
+930 NW 116TH CT OK,930,Northwest 116th Court,Oklahoma City,Oklahoma,73114,"930 Northwest 116th Court Oklahoma City, Oklahoma 73114",True
+930 SW 29TH ST OK,930,Southwest 29th Street,Oklahoma City,Oklahoma,73109,"930 Southwest 29th Street Oklahoma City, Oklahoma 73109",True
+9508 S MCKINLEY AVE OK,9508,South McKinley Avenue,Oklahoma City,Oklahoma,73139,"9508 South McKinley Avenue Oklahoma City, Oklahoma 73139",True
+9916 S CLEGERN AVE OK,100,South Clegern Avenue,Oklahoma City,Oklahoma,73106,"100 South Clegern Avenue Oklahoma City, Oklahoma 73106",False
+639 SE 27TH ST OK,639,Southeast 27th Street,El Reno,Oklahoma,73036,"639 Southeast 27th Street El Reno, Oklahoma 73036",True
+640 SE 30TH ST OK,640,Southeast 30th Street,Oklahoma City,Oklahoma,73129,"640 Southeast 30th Street Oklahoma City, Oklahoma 73129",True
+6600 N PORTLAND AVE OK,6600,North Portland Avenue,Oklahoma City,Oklahoma,73116,"6600 North Portland Avenue Oklahoma City, Oklahoma 73116",True
+6611 LYREWOOD LN OK,6611,Lyrewood Lane,Oklahoma City,Oklahoma,73132,"6611 Lyrewood Lane Oklahoma City, Oklahoma 73132",True
+6708 SEARS TER OK,6708,Sears Terrace,Oklahoma City,Oklahoma,73149,"6708 Sears Terrace Oklahoma City, Oklahoma 73149",True
+700 SE 26TH ST OK,700,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"700 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+701 WANDERING WAY OK,701,Wandering Way,Oklahoma City,Oklahoma,73170,"701 Wandering Way Oklahoma City, Oklahoma 73170",True
+704 N ANITA DR OK,704,North Anita Drive,Oklahoma City,Oklahoma,73127,"704 North Anita Drive Oklahoma City, Oklahoma 73127",True
+706 SE 69TH ST OK,706,Southeast 69th Street,Oklahoma City,Oklahoma,73149,"706 Southeast 69th Street Oklahoma City, Oklahoma 73149",True
+711 SE 28TH ST OK,711,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"711 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+729 NW 87TH ST OK,729,Northwest 87th Street,Oklahoma City,Oklahoma,73114,"729 Northwest 87th Street Oklahoma City, Oklahoma 73114",True
+7906 HARVEST MOON RD OK,7906,Harvest Moon Road,Oklahoma City,Oklahoma,73132,"7906 Harvest Moon Road Oklahoma City, Oklahoma 73132",True
+809 NW 54TH ST OK,809,Northwest 54th Street,Oklahoma City,Oklahoma,73118,"809 Northwest 54th Street Oklahoma City, Oklahoma 73118",True
+812 SW 28TH ST OK,812,Southwest 28th Street,Oklahoma City,Oklahoma,73109,"812 Southwest 28th Street Oklahoma City, Oklahoma 73109",True
+812 TURTLE CREEK RD OK,812,Turtle Creek Road,Oklahoma City,Oklahoma,73170,"812 Turtle Creek Road Oklahoma City, Oklahoma 73170",True
+813 SE 26TH ST OK,813,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"813 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+828 NW 6TH ST OK,828,Northwest 6th Street,Wagoner,Oklahoma,74467,"828 Northwest 6th Street Wagoner, Oklahoma 74467",True
+5633 OAKWOOD ST OK,5633,Oakwood Street,Oklahoma City,Oklahoma,73084,"5633 Oakwood Street Oklahoma City, Oklahoma 73084",True
+5911 GAELIC GLEN DR OK,5911,Gaelic Glen Drive,Oklahoma City,Oklahoma,73142,"5911 Gaelic Glen Drive Oklahoma City, Oklahoma 73142",True
+5949 NW 26TH ST OK,5949,Northwest 26th Street,Oklahoma City,Oklahoma,73127,"5949 Northwest 26th Street Oklahoma City, Oklahoma 73127",True
+6001 SMITH BLVD OK,6001,Smith Boulevard,Oklahoma City,Oklahoma,73112,"6001 Smith Boulevard Oklahoma City, Oklahoma 73112",True
+603 SE 27TH ST OK,603,Southeast 27th Street,El Reno,Oklahoma,73036,"603 Southeast 27th Street El Reno, Oklahoma 73036",True
+604 FLAMINGO WAY OK,604,Flamingo Way,Oklahoma City,Oklahoma,73127,"604 Flamingo Way Oklahoma City, Oklahoma 73127",True
+6109 SE 85TH ST OK,6109,Southeast 85th Street,Oklahoma City,Oklahoma,73135,"6109 Southeast 85th Street Oklahoma City, Oklahoma 73135",True
+6116 S DREXEL AVE OK,6116,South Drexel Avenue,Oklahoma City,Oklahoma,73159,"6116 South Drexel Avenue Oklahoma City, Oklahoma 73159",True
+633 SW 31ST ST OK,633,Southwest 31st Street,Oklahoma City,Oklahoma,73109,"633 Southwest 31st Street Oklahoma City, Oklahoma 73109",True
+1606 S CENTRAL AVE OK,1606,South Central Avenue,Oklahoma City,Oklahoma,73129,"1606 South Central Avenue Oklahoma City, Oklahoma 73129",True
+1736 NE 67TH ST OK,1736,Northeast 67th Street,Oklahoma City,Oklahoma,73111,"1736 Northeast 67th Street Oklahoma City, Oklahoma 73111",True
+1800 N PURDUE AVE OK,House number not found,North Purdue Avenue,Oklahoma City,Oklahoma,73127,"House number not found North Purdue Avenue Oklahoma City, Oklahoma 73127",False
+1809 N JORDAN AVE OK,1809,North Jordan Avenue,Oklahoma City,Oklahoma,73111,"1809 North Jordan Avenue Oklahoma City, Oklahoma 73111",True
+1841 NE 24TH ST OK,1841,Northeast 24th Street,Oklahoma City,Oklahoma,73111,"1841 Northeast 24th Street Oklahoma City, Oklahoma 73111",True
+1916 MOULTON CT OK,1916,North Moulton Court,Oklahoma City,Oklahoma,73127,"1916 North Moulton Court Oklahoma City, Oklahoma 73127",True
+200 SE 25TH ST OK,200,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"200 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+206 SE 25TH ST OK,206,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"206 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+212 SE 25TH ST OK,212,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"212 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+2241 NW 30TH ST OK,2241,Northwest 30th Street,Oklahoma City,Oklahoma,73112,"2241 Northwest 30th Street Oklahoma City, Oklahoma 73112",True
+2301 SW GRAND BLVD OK,2301,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73119,"2301 Southwest Grand Boulevard Oklahoma City, Oklahoma 73119",True
+2305 SW GRAND BLVD OK,2305,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73119,"2305 Southwest Grand Boulevard Oklahoma City, Oklahoma 73119",True
+2320 SE 9TH ST OK,2320,Southeast 9th Street,Oklahoma City,Oklahoma,73129,"2320 Southeast 9th Street Oklahoma City, Oklahoma 73129",True
+2425 SE 10TH ST OK,2425,Southeast 10th Street,Oklahoma City,Oklahoma,73129,"2425 Southeast 10th Street Oklahoma City, Oklahoma 73129",True
+2445 SE 11TH ST OK,2445,Southeast 11th Street,Oklahoma City,Oklahoma,73129,"2445 Southeast 11th Street Oklahoma City, Oklahoma 73129",True
+2454 NW 36TH TER OK,2454,Northwest 36th Terrace,Oklahoma City,Oklahoma,73112,"2454 Northwest 36th Terrace Oklahoma City, Oklahoma 73112",True
+1603 N ANN ARBOR AVE OK,House number not found,North Ann Arbor Avenue,Oklahoma City,Oklahoma,73127,"House number not found North Ann Arbor Avenue Oklahoma City, Oklahoma 73127",False
+2317 SW 90TH ST OK,2317,Southwest 90th Street,Oklahoma City,Oklahoma,73159,"2317 Southwest 90th Street Oklahoma City, Oklahoma 73159",True
+3828 NW 9TH ST OK,3828,Northwest 9th Street,Oklahoma City,Oklahoma,73107,"3828 Northwest 9th Street Oklahoma City, Oklahoma 73107",True
+4000 W LIBERTY ST OK,1601,North New York Avenue,Mangum,Oklahoma,73554,"1601 North New York Avenue Mangum, Oklahoma 73554",False
+444 NW 96TH ST OK,444,Northwest 96th Street,Oklahoma City,Oklahoma,73114,"444 Northwest 96th Street Oklahoma City, Oklahoma 73114",True
+5228 SE 88TH ST OK,5228,Southeast 88th Street,Oklahoma City,Oklahoma,73135,"5228 Southeast 88th Street Oklahoma City, Oklahoma 73135",True
+733 SE 28TH ST OK,733,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"733 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+816 GOLDEN POND DR OK,3111,Golden Pond Drive,City not found,Oklahoma,73072,"3111 Golden Pond Drive City not found, Oklahoma 73072",False
+8708 NW 87TH TER OK,8708,Northwest 87th Terrace,Oklahoma City,Oklahoma,73132,"8708 Northwest 87th Terrace Oklahoma City, Oklahoma 73132",True
+1002 NE 15TH ST OK,1002,Northeast 15th Street,Oklahoma City,Oklahoma,73117,"1002 Northeast 15th Street Oklahoma City, Oklahoma 73117",True
+10132 BRADFORD WAY OK,1201,Bradford Terrace,Oklahoma City,Oklahoma,73099,"1201 Bradford Terrace Oklahoma City, Oklahoma 73099",False
+1208 NE 48TH ST OK,1208,Northeast 48th Street,Oklahoma City,Oklahoma,73111,"1208 Northeast 48th Street Oklahoma City, Oklahoma 73111",True
+1230 NE 37TH ST OK,1230,Northeast 37th Street,Oklahoma City,Oklahoma,73111,"1230 Northeast 37th Street Oklahoma City, Oklahoma 73111",True
+124 N ALLEN ST OK,124,North Allen Street,Altus,Oklahoma,73521,"124 North Allen Street Altus, Oklahoma 73521",True
+12901 N WESTERN AVE OK,12901,North Western Avenue,Oklahoma City,Oklahoma,73114,"12901 North Western Avenue Oklahoma City, Oklahoma 73114",True
+1304 NW 16TH ST OK,1304,Northwest 16th Street,City not found,Oklahoma,73065,"1304 Northwest 16th Street City not found, Oklahoma 73065",True
+138 SE 27TH ST OK,138,Southeast 27th Street,El Reno,Oklahoma,73036,"138 Southeast 27th Street El Reno, Oklahoma 73036",True
+1021 SW 53RD ST OK,1021,Southwest 53rd Street,Oklahoma City,Oklahoma,73109,"1021 Southwest 53rd Street Oklahoma City, Oklahoma 73109",True
+1135 NW 29TH ST OK,1135,Northwest 29th Street,Oklahoma City,Oklahoma,73106,"1135 Northwest 29th Street Oklahoma City, Oklahoma 73106",True
+1228 NE 48TH ST OK,1228,Northeast 48th Street,Oklahoma City,Oklahoma,73111,"1228 Northeast 48th Street Oklahoma City, Oklahoma 73111",True
+12500 SW 14TH ST OK,12500,Southwest 14th Street,Oklahoma City,Oklahoma,73099,"12500 Southwest 14th Street Oklahoma City, Oklahoma 73099",True
+1409 SW 65TH ST OK,1409,Southwest 65th Street,Oklahoma City,Oklahoma,73159,"1409 Southwest 65th Street Oklahoma City, Oklahoma 73159",True
+731 SE 27TH ST OK,731,Southeast 27th Street,El Reno,Oklahoma,73036,"731 Southeast 27th Street El Reno, Oklahoma 73036",True
+735 NW 24TH ST OK,735,Northwest 24th Street,Guymon,Oklahoma,73942,"735 Northwest 24th Street Guymon, Oklahoma 73942",True
+738 SE 28TH ST OK,738,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"738 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+417 SE 26TH ST OK,417,Southeast 26th Street,Oklahoma City,Oklahoma,73129,"417 Southeast 26th Street Oklahoma City, Oklahoma 73129",True
+444 NW 89TH ST OK,444,Northwest 89th Street,Oklahoma City,Oklahoma,73114,"444 Northwest 89th Street Oklahoma City, Oklahoma 73114",True
+5001 BRETTSHIRE WAY OK,5001,Brettshire Way,Oklahoma City,Oklahoma,73142,"5001 Brettshire Way Oklahoma City, Oklahoma 73142",True
+501 SE 27TH ST OK,501,Southeast 27th Street,El Reno,Oklahoma,73036,"501 Southeast 27th Street El Reno, Oklahoma 73036",True
+520 NW 31ST ST OK,520,Northwest 31st Street,Lawton,Oklahoma,73505,"520 Northwest 31st Street Lawton, Oklahoma 73505",True
+538 SE 27TH ST OK,538,Southeast 27th Street,El Reno,Oklahoma,73036,"538 Southeast 27th Street El Reno, Oklahoma 73036",True
+5609 N STONEWALL DR OK,5609,North Stonewall Drive,Oklahoma City,Oklahoma,73111,"5609 North Stonewall Drive Oklahoma City, Oklahoma 73111",True
+5800 N RHODE ISLAND AVE OK,5800,North Rhode Island Avenue,Oklahoma City,Oklahoma,73111,"5800 North Rhode Island Avenue Oklahoma City, Oklahoma 73111",True
+5804 N RHODE ISLAND AVE OK,5804,North Rhode Island Avenue,Oklahoma City,Oklahoma,73111,"5804 North Rhode Island Avenue Oklahoma City, Oklahoma 73111",True
+5815 S SUNNYLANE RD OK,5821,South Sunnylane Road,Oklahoma City,Oklahoma,73135,"5821 South Sunnylane Road Oklahoma City, Oklahoma 73135",False
+624 SE 28TH ST OK,624,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"624 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+627 SE 27TH ST OK,627,Southeast 27th Street,El Reno,Oklahoma,73036,"627 Southeast 27th Street El Reno, Oklahoma 73036",True
+636 SE 29TH ST OK,636,Southeast 29th Street,Oklahoma City,Oklahoma,73129,"636 Southeast 29th Street Oklahoma City, Oklahoma 73129",True
+701 NW 113TH ST OK,701,Northwest 113th Street,Oklahoma City,Oklahoma,73114,"701 Northwest 113th Street Oklahoma City, Oklahoma 73114",True
+716 SE 61ST ST OK,716,Southeast 61st Street,Oklahoma City,Oklahoma,73149,"716 Southeast 61st Street Oklahoma City, Oklahoma 73149",True
+718 SE 28TH ST OK,718,Southeast 28th Street,Oklahoma City,Oklahoma,73129,"718 Southeast 28th Street Oklahoma City, Oklahoma 73129",True
+727 N MACARTHUR BLVD OK,727,North MacArthur Boulevard,Oklahoma City,Oklahoma,73127,"727 North MacArthur Boulevard Oklahoma City, Oklahoma 73127",True
+2516 S CENTRAL AVE OK,2516,South Central Avenue,Oklahoma City,Oklahoma,73129,"2516 South Central Avenue Oklahoma City, Oklahoma 73129",True
+2608 S WALNUT AVE OK,2608,South Walnut Avenue,Broken Arrow,Oklahoma,74012,"2608 South Walnut Avenue Broken Arrow, Oklahoma 74012",True
+2609 S BYERS AVE OK,2609,South Byers Avenue,Oklahoma City,Oklahoma,73129,"2609 South Byers Avenue Oklahoma City, Oklahoma 73129",True
+2713 S STILES AVE OK,2713,South Stiles Avenue,Oklahoma City,Oklahoma,73129,"2713 South Stiles Avenue Oklahoma City, Oklahoma 73129",True
+2820 SW GRAND BLVD OK,2820,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73119,"2820 Southwest Grand Boulevard Oklahoma City, Oklahoma 73119",True
+3105 NW 10TH ST OK,3105,Northwest 10th Street,Oklahoma City,Oklahoma,73107,"3105 Northwest 10th Street Oklahoma City, Oklahoma 73107",True
+3116 S PHILLIPS AVE OK,3116,South Phillips Avenue,Oklahoma City,Oklahoma,73129,"3116 South Phillips Avenue Oklahoma City, Oklahoma 73129",True
+3117 NW 24TH ST OK,3117,Northwest 24th Street,Oklahoma City,Oklahoma,73107,"3117 Northwest 24th Street Oklahoma City, Oklahoma 73107",True
+312 SE 66TH ST OK,312,Southeast 66th Street,Oklahoma City,Oklahoma,73149,"312 Southeast 66th Street Oklahoma City, Oklahoma 73149",True
+3128 WINDSOR TER OK,3128,North Windsor Terrace,Oklahoma City,Oklahoma,73122,"3128 North Windsor Terrace Oklahoma City, Oklahoma 73122",True
+3229 N ROFF AVE OK,3229,North Roff Avenue,Oklahoma City,Oklahoma,73112,"3229 North Roff Avenue Oklahoma City, Oklahoma 73112",True
+3269 SW 47TH ST OK,3269,Southwest 47th Street,Oklahoma City,Oklahoma,73119,"3269 Southwest 47th Street Oklahoma City, Oklahoma 73119",True
+3601 NW 21ST ST OK,3601,Northwest 21st Street,Oklahoma City,Oklahoma,73107,"3601 Northwest 21st Street Oklahoma City, Oklahoma 73107",True
+3732 SW 26TH ST OK,3732,Southwest 26th Street,Oklahoma City,Oklahoma,73108,"3732 Southwest 26th Street Oklahoma City, Oklahoma 73108",True
+4035 N WESTMINSTER RD OK,4035,North Westminster Road,Oklahoma City,Oklahoma,73084,"4035 North Westminster Road Oklahoma City, Oklahoma 73084",True
+405 SE 25TH ST OK,405,Southeast 25th Street,Oklahoma City,Oklahoma,73129,"405 Southeast 25th Street Oklahoma City, Oklahoma 73129",True
+4105 NW 28TH ST OK,4105,Northwest 28th Street,Oklahoma City,Oklahoma,73107,"4105 Northwest 28th Street Oklahoma City, Oklahoma 73107",True
+2508 S WALNUT AVE OK,2508,South Walnut Avenue,Broken Arrow,Oklahoma,74012,"2508 South Walnut Avenue Broken Arrow, Oklahoma 74012",True
+505 SE 51ST ST OK,505,Southeast 51st Street,Oklahoma City,Oklahoma,73129,"505 Southeast 51st Street Oklahoma City, Oklahoma 73129",True
+1625 SW 67TH ST OK,1625,Southwest 67th Street,Oklahoma City,Oklahoma,73159,"1625 Southwest 67th Street Oklahoma City, Oklahoma 73159",True
+1800 NE 51ST ST OK,1800,Northeast 51st Street,Oklahoma City,Oklahoma,73111,"1800 Northeast 51st Street Oklahoma City, Oklahoma 73111",True
+1824 N PURDUE PL OK,1824,North Purdue Place,Oklahoma City,Oklahoma,73127,"1824 North Purdue Place Oklahoma City, Oklahoma 73127",True
+1917 N ANN ARBOR AVE OK,1917,North Ann Arbor Avenue,Oklahoma City,Oklahoma,73127,"1917 North Ann Arbor Avenue Oklahoma City, Oklahoma 73127",True
+2112 SW 77TH PL OK,2112,Southwest 77th Place,Oklahoma City,Oklahoma,73159,"2112 Southwest 77th Place Oklahoma City, Oklahoma 73159",True
+2124 SW 63RD ST OK,2124,Southwest 63rd Street,Oklahoma City,Oklahoma,73159,"2124 Southwest 63rd Street Oklahoma City, Oklahoma 73159",True
+2400 NE 27TH ST OK,2400,Northeast 27th Street,Oklahoma City,Oklahoma,73111,"2400 Northeast 27th Street Oklahoma City, Oklahoma 73111",True
+2404 NE 27TH ST OK,2404,Northeast 27th Street,Oklahoma City,Oklahoma,73111,"2404 Northeast 27th Street Oklahoma City, Oklahoma 73111",True
+2441 NW 198TH ST OK,2441,Northwest 198th Street,Oklahoma City,Oklahoma,73012,"2441 Northwest 198th Street Oklahoma City, Oklahoma 73012",True
+2504 N REDMOND AVE OK,2504,North Redmond Avenue,Oklahoma City,Oklahoma,73127,"2504 North Redmond Avenue Oklahoma City, Oklahoma 73127",True
+2633 NW 40TH ST OK,2633,Northwest 40th Street,Oklahoma City,Oklahoma,73112,"2633 Northwest 40th Street Oklahoma City, Oklahoma 73112",True
+825 SW 39TH ST OK,825,Southwest 39th Street,Moore,Oklahoma,73160,"825 Southwest 39th Street Moore, Oklahoma 73160",True
+8301 NW 110TH TER OK,8301,Northwest 110th Terrace,Oklahoma City,Oklahoma,73162,"8301 Northwest 110th Terrace Oklahoma City, Oklahoma 73162",True
+8900 N OLIE AVE OK,8900,North Olie Avenue,Oklahoma City,Oklahoma,73114,"8900 North Olie Avenue Oklahoma City, Oklahoma 73114",True
+10321 RANCHWOOD MANOR DR OK,10321,South Ranchwood Manor Drive,Oklahoma City,Oklahoma,73139,"10321 South Ranchwood Manor Drive Oklahoma City, Oklahoma 73139",True
+11024 NW 106TH CIR OK,11024,Northwest 106th Circle,Oklahoma City,Oklahoma,73099,"11024 Northwest 106th Circle Oklahoma City, Oklahoma 73099",True
+1108 SW 54TH ST OK,1108,Southwest 54th Street,Oklahoma City,Oklahoma,73109,"1108 Southwest 54th Street Oklahoma City, Oklahoma 73109",True
+11208 SW 39TH ST OK,11208,Southwest 39th Street,Oklahoma City,Oklahoma,73064,"11208 Southwest 39th Street Oklahoma City, Oklahoma 73064",True
+11209 BLUE SAGE RD OK,11209,Blue Sage Road,Oklahoma City,Oklahoma,73120,"11209 Blue Sage Road Oklahoma City, Oklahoma 73120",True
+12028 NW 136TH TER OK,12028,Northwest 136th Terrace,Oklahoma City,Oklahoma,73078,"12028 Northwest 136th Terrace Oklahoma City, Oklahoma 73078",True
+1220 GLADE AVE OK,House number not found,Northwest 12th Street,Oklahoma City,Oklahoma,73127,"House number not found Northwest 12th Street Oklahoma City, Oklahoma 73127",False
+1304 SOFT WIND AVE OK,N/A,N/A,N/A,N/A,N/A,"N/A N/A N/A, N/A N/A",False
+13213 PINEHURST RD OK,13213,Pinehurst Road,Oklahoma City,Oklahoma,73120,"13213 Pinehurst Road Oklahoma City, Oklahoma 73120",True
+1400 SW 70TH ST OK,1400,Southwest 70th Street,Oklahoma City,Oklahoma,73159,"1400 Southwest 70th Street Oklahoma City, Oklahoma 73159",True
+1406 SW 96TH ST OK,1406,Southwest 96th Street,Oklahoma City,Oklahoma,73159,"1406 Southwest 96th Street Oklahoma City, Oklahoma 73159",True
+3517 S SHIELDS BLVD OK,3517,South Shields Boulevard,Oklahoma City,Oklahoma,73129,"3517 South Shields Boulevard Oklahoma City, Oklahoma 73129",True
+4017 NW 34TH ST OK,4017,Northwest 34th Street,Oklahoma City,Oklahoma,73112,"4017 Northwest 34th Street Oklahoma City, Oklahoma 73112",True
+10 NE 102ND ST OK,2,Northwest 102nd Street,Oklahoma City,Oklahoma,73114,"2 Northwest 102nd Street Oklahoma City, Oklahoma 73114",False
+104 NW 20TH ST OK,House number not found,Northwest 20th Street,Oklahoma City,Oklahoma,73106,"House number not found Northwest 20th Street Oklahoma City, Oklahoma 73106",False
+3508 NW 69TH ST OK,3508,Northwest 69th Street,Oklahoma City,Oklahoma,73116,"3508 Northwest 69th Street Oklahoma City, Oklahoma 73116",True
+3921 NW 31ST ST OK,3921,Northwest 31st Street,Oklahoma City,Oklahoma,73112,"3921 Northwest 31st Street Oklahoma City, Oklahoma 73112",True
+4105 JOHNSON FARMS DR OK,House number not found,Johnsons Farms Drive,Oklahoma City,Oklahoma,73064,"House number not found Johnsons Farms Drive Oklahoma City, Oklahoma 73064",False
+4216 NW 45TH ST OK,4216,Northwest 45th Street,Oklahoma City,Oklahoma,73112,"4216 Northwest 45th Street Oklahoma City, Oklahoma 73112",True
+4801 NW 34TH ST OK,4801,Northwest 34th Street,Oklahoma City,Oklahoma,73122,"4801 Northwest 34th Street Oklahoma City, Oklahoma 73122",True
+529 SE 70TH ST OK,529,Southeast 70th Street,Oklahoma City,Oklahoma,73149,"529 Southeast 70th Street Oklahoma City, Oklahoma 73149",True
+5829 NW 31ST TER OK,5829,Northwest 31st Terrace,Oklahoma City,Oklahoma,73122,"5829 Northwest 31st Terrace Oklahoma City, Oklahoma 73122",True
+601 N IDAHO AVE OK,601,North Idaho Avenue,Oklahoma City,Oklahoma,73117,"601 North Idaho Avenue Oklahoma City, Oklahoma 73117",True
+6400 S LINDSAY AVE OK,6400,South Lindsay Avenue,Oklahoma City,Oklahoma,73149,"6400 South Lindsay Avenue Oklahoma City, Oklahoma 73149",True
+7529 NW 12TH ST OK,7529,Northwest 12th Street,Oklahoma City,Oklahoma,73127,"7529 Northwest 12th Street Oklahoma City, Oklahoma 73127",True
+8104 S VILLA AVE OK,8104,South Villa Avenue,Oklahoma City,Oklahoma,73159,"8104 South Villa Avenue Oklahoma City, Oklahoma 73159",True
+8303 S HARVEY AVE OK,8303,South Harvey Avenue,Oklahoma City,Oklahoma,73139,"8303 South Harvey Avenue Oklahoma City, Oklahoma 73139",True
+8809 S GRACE DR OK,8809,South Grace Drive,Oklahoma City,Oklahoma,73159,"8809 South Grace Drive Oklahoma City, Oklahoma 73159",True
+9056 NW 99TH ST OK,9056,Northwest 99th Street,Oklahoma City,Oklahoma,73099,"9056 Northwest 99th Street Oklahoma City, Oklahoma 73099",True
+9113 SW 30TH TER OK,9113,Southwest 30th Terrace,Oklahoma City,Oklahoma,73179,"9113 Southwest 30th Terrace Oklahoma City, Oklahoma 73179",True
+11809 SW 4TH ST OK,11809,Southwest 4th Street,Oklahoma City,Oklahoma,73099,"11809 Southwest 4th Street Oklahoma City, Oklahoma 73099",True
+12413 ARROWHEAD TER OK,12413,Arrowhead Terrace,Oklahoma City,Oklahoma,73120,"12413 Arrowhead Terrace Oklahoma City, Oklahoma 73120",True
+2845 SW 88TH ST OK,2845,Southwest 88th Street,Oklahoma City,Oklahoma,73159,"2845 Southwest 88th Street Oklahoma City, Oklahoma 73159",True
+2924 NW 12TH ST OK,House number not found,Northwest 12th Street,Oklahoma City,Oklahoma,73107,"House number not found Northwest 12th Street Oklahoma City, Oklahoma 73107",False
+3121 SE 56TH ST OK,3121,Southeast 56th Street,Oklahoma City,Oklahoma,73135,"3121 Southeast 56th Street Oklahoma City, Oklahoma 73135",True
+313 SE 27TH ST OK,313,Southeast 27th Street,El Reno,Oklahoma,73036,"313 Southeast 27th Street El Reno, Oklahoma 73036",True
+3221 SE 54TH ST OK,3221,Southeast 54th Street,Oklahoma City,Oklahoma,73135,"3221 Southeast 54th Street Oklahoma City, Oklahoma 73135",True
+4717 FAWN RUN DR OK,4717,Fawn Run Drive,Oklahoma City,Oklahoma,73099,"4717 Fawn Run Drive Oklahoma City, Oklahoma 73099",True
+5204 BRIARWOOD DR OK,5204,South Briarwood Drive,Oklahoma City,Oklahoma,73135,"5204 South Briarwood Drive Oklahoma City, Oklahoma 73135",True
+700 SW 44TH ST OK,700,Southwest 44th Street,Lawton,Oklahoma,73505,"700 Southwest 44th Street Lawton, Oklahoma 73505",True
+7212 S BLACKWELDER AVE OK,7212,South Blackwelder Avenue,Oklahoma City,Oklahoma,73159,"7212 South Blackwelder Avenue Oklahoma City, Oklahoma 73159",True
+8917 S INDIANA AVE OK,House number not found,Southwest 87th Street,Oklahoma City,Oklahoma,73159,"House number not found Southwest 87th Street Oklahoma City, Oklahoma 73159",False
+1732 NW 35TH ST OK,1732,Northwest 35th Street,Oklahoma City,Oklahoma,73118,"1732 Northwest 35th Street Oklahoma City, Oklahoma 73118",True
+2500 CUMMINGS DR OK,2500,Cummings Drive,Oklahoma City,Oklahoma,73107,"2500 Cummings Drive Oklahoma City, Oklahoma 73107",True
+2733 SE 48TH ST OK,2733,Southeast 48th Street,Oklahoma City,Oklahoma,73129,"2733 Southeast 48th Street Oklahoma City, Oklahoma 73129",True
+3000 LIGHTNER LN OK,House number not found,Southwest 29th Street,Oklahoma City,Oklahoma,73179,"House number not found Southwest 29th Street Oklahoma City, Oklahoma 73179",False
+3028 ELMWOOD AVE OK,3028,Elmwood Avenue,Oklahoma City,Oklahoma,73116,"3028 Elmwood Avenue Oklahoma City, Oklahoma 73116",True
+3101 N LAIRD AVE OK,3101,North Laird Avenue,Oklahoma City,Oklahoma,73105,"3101 North Laird Avenue Oklahoma City, Oklahoma 73105",True
+4301 N KELLEY AVE OK,999,Northeast 42nd Street,Oklahoma City,Oklahoma,73105,"999 Northeast 42nd Street Oklahoma City, Oklahoma 73105",False
+6417 ELLEN LN OK,6417,Ellen Lane,Oklahoma City,Oklahoma,73132,"6417 Ellen Lane Oklahoma City, Oklahoma 73132",True
+8104 CURTIS TER OK,8104,Curtis Terrace,Oklahoma City,Oklahoma,73132,"8104 Curtis Terrace Oklahoma City, Oklahoma 73132",True
+921 NW 30TH ST OK,House number not found,Northwest 30th Street,Oklahoma City,Oklahoma,73112,"House number not found Northwest 30th Street Oklahoma City, Oklahoma 73112",False
+9840 N EASTERN AVE OK,9840,North Eastern Avenue,Oklahoma City,Oklahoma,73131,"9840 North Eastern Avenue Oklahoma City, Oklahoma 73131",True
+1237 SW 16TH ST OK,House number not found,Street not found,City not found,Oklahoma,ZIP code not found,"House number not found Street not found City not found, Oklahoma ZIP code not found",False
+1314 NE 7TH ST OK,1314,Northeast 7th Street,Oklahoma City,Oklahoma,73117,"1314 Northeast 7th Street Oklahoma City, Oklahoma 73117",True
+139 SW GRAND BLVD OK,House number not found,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73119,"House number not found Southwest Grand Boulevard Oklahoma City, Oklahoma 73119",False
+1416 NW 30TH ST OK,1416,Northwest 30th Street,Oklahoma City,Oklahoma,73118,"1416 Northwest 30th Street Oklahoma City, Oklahoma 73118",True
+1605 E PARK PL OK,1605,East Park Place,Oklahoma City,Oklahoma,73117,"1605 East Park Place Oklahoma City, Oklahoma 73117",True
+1832 NE 52ND ST OK,1832,Northeast 52nd Street,Oklahoma City,Oklahoma,73111,"1832 Northeast 52nd Street Oklahoma City, Oklahoma 73111",True
+3023 S CLEGERN AVE OK,100,South Clegern Avenue,Oklahoma City,Oklahoma,73106,"100 South Clegern Avenue Oklahoma City, Oklahoma 73106",False
+3201 NW 25TH ST OK,3201,Northwest 25th Street,Oklahoma City,Oklahoma,73107,"3201 Northwest 25th Street Oklahoma City, Oklahoma 73107",True
+3801 NW 61ST ST OK,3801,Northwest 61st Street,Oklahoma City,Oklahoma,73112,"3801 Northwest 61st Street Oklahoma City, Oklahoma 73112",True
+3809 S HUDSON AVE OK,3809,South Hudson Avenue,Oklahoma City,Oklahoma,73109,"3809 South Hudson Avenue Oklahoma City, Oklahoma 73109",True
+3814 S WALKER AVE OK,3814,South Walker Avenue,Oklahoma City,Oklahoma,73109,"3814 South Walker Avenue Oklahoma City, Oklahoma 73109",True
+400 SW GRAND BLVD OK,400,Southwest Grand Boulevard,Oklahoma City,Oklahoma,73109,"400 Southwest Grand Boulevard Oklahoma City, Oklahoma 73109",True
+4312 S LEE AVE OK,4312,South Lee Avenue,Oklahoma City,Oklahoma,73109,"4312 South Lee Avenue Oklahoma City, Oklahoma 73109",True
+10605 CREEKVALE RD OK,10863,Creekvale Road,Oklahoma City,Oklahoma,73165,"10863 Creekvale Road Oklahoma City, Oklahoma 73165",False
+11100 NW 112TH ST OK,11100,Northwest 112th Street,Oklahoma City,Oklahoma,73099,"11100 Northwest 112th Street Oklahoma City, Oklahoma 73099",True
+11744 HOPE RD OK,11744,Hope Road,Oklahoma City,Oklahoma,73064,"11744 Hope Road Oklahoma City, Oklahoma 73064",True
+1520 NE 45TH ST OK,1520,Northeast 45th Street,Oklahoma City,Oklahoma,73111,"1520 Northeast 45th Street Oklahoma City, Oklahoma 73111",True
+1700 WEST PALM PL OK,"1700, 1702",West Palm Place,Oklahoma City,Oklahoma,73169,"1700, 1702 West Palm Place Oklahoma City, Oklahoma 73169",False
+1820 N EAGLE LN OK,1820,North Eagle Lane,Oklahoma City,Oklahoma,73127,"1820 North Eagle Lane Oklahoma City, Oklahoma 73127",True
+1822 NW 30TH ST OK,House number not found,North Indiana Avenue,Oklahoma City,Oklahoma,73106,"House number not found North Indiana Avenue Oklahoma City, Oklahoma 73106",False
+200 SE 27TH ST OK,200,Southeast 27th Street,El Reno,Oklahoma,73036,"200 Southeast 27th Street El Reno, Oklahoma 73036",True
+205 SE 27TH ST OK,205,Southeast 27th Street,El Reno,Oklahoma,73036,"205 Southeast 27th Street El Reno, Oklahoma 73036",True
+2115 NW 18TH ST OK,2115,Northwest 18th Street,Lawton,Oklahoma,73507,"2115 Northwest 18th Street Lawton, Oklahoma 73507",True
+3028 NW 45TH ST OK,3028,Northwest 45th Street,Oklahoma City,Oklahoma,73112,"3028 Northwest 45th Street Oklahoma City, Oklahoma 73112",True
+5217 NW 109TH ST OK,5217,Northwest 109th Street,Oklahoma City,Oklahoma,73162,"5217 Northwest 109th Street Oklahoma City, Oklahoma 73162",True
+800 EAST DR OK,1796,North Phillips Avenue,Oklahoma City,Oklahoma,73104,"1796 North Phillips Avenue Oklahoma City, Oklahoma 73104",False
+8920 S WESTMINSTER RD OK,8920,South Westminster Road,Oklahoma City,Oklahoma,73150,"8920 South Westminster Road Oklahoma City, Oklahoma 73150",True
+1000 NW 37TH ST OK,3799,North Olie Avenue,Oklahoma City,Oklahoma,73118,"3799 North Olie Avenue Oklahoma City, Oklahoma 73118",False
